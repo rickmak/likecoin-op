@@ -55,6 +55,11 @@ contract LikeCollective is
     error ErrNoRewardsToClaim();
     error ErrInvalidAmount();
 
+    /// @custom:oz-upgrades-unsafe-allow constructor
+    constructor() {
+        _disableInitializers();
+    }
+
     function initialize(address initialOwner) public initializer {
         __UUPSUpgradeable_init();
         __Ownable_init(initialOwner);
