@@ -81,6 +81,7 @@ contract LikeCollective is
         // - Transfer tokens from user
         // - Update user stakes and total stakes
         // - Emit Staked event
+        emit Staked(bookNFT, msg.sender, amount);
     }
 
     function unstake(address bookNFT, uint256 amount) external whenNotPaused nonReentrant {
@@ -89,6 +90,16 @@ contract LikeCollective is
         // - Update user stakes and total stakes
         // - Transfer tokens back to user
         // - Emit Unstaked event
+        emit Unstaked(bookNFT, msg.sender, amount);
+    }
+
+    function emitOnlyRewardAdded(address bookNFT, uint256 amount) external whenNotPaused nonReentrant {
+        // TODO: Implement emit only reward added logic
+        // - Validate bookNFT and sufficient stake
+        // - Update user stakes and total stakes
+        // - Transfer tokens back to user
+        // - Emit RewardAdded event
+        emit RewardAdded(bookNFT, msg.sender, amount);
     }
 
     function claimRewards(address bookNFT) external whenNotPaused nonReentrant {
@@ -97,6 +108,7 @@ contract LikeCollective is
         // - Transfer rewards to user
         // - Update pending rewards
         // - Emit RewardClaimed event
+        emit RewardClaimed(bookNFT, msg.sender, 0);
     }
 
     // solhint-disable no-unused-vars
@@ -105,6 +117,9 @@ contract LikeCollective is
         // - Iterate through all bookNFTs user has stakes in
         // - Calculate and claim rewards for each
         // - Emit AllRewardClaimed event
+        RewardData[] memory rewards = new RewardData[](1);
+        rewards[0] = RewardData({bookNFT: address(0), rewardedAmount: 0});
+        emit AllRewardClaimed(msg.sender, rewards);
     }
 
     function getStakeForUser(address user, address bookNFT) external view returns (uint256) {
@@ -129,6 +144,7 @@ contract LikeCollective is
         // - Transfer reward tokens from caller
         // - Update book rewards
         // - Emit RewardDeposited event
+        emit RewardDeposited(bookNFT, msg.sender, amount, amount);
     }
 
     function restakeReward(address bookNFT) external whenNotPaused nonReentrant {
@@ -137,6 +153,7 @@ contract LikeCollective is
         // - Add rewards to user's stake
         // - Update pending rewards
         // - Emit Staked event for restaked amount
+        emit Staked(bookNFT, msg.sender, 0);
     }
 
     function _authorizeUpgrade(address _newImplementation) internal override onlyOwner {
