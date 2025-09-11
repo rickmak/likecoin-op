@@ -1,1 +1,2 @@
 import "./mint";
+import "./staking";
