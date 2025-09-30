@@ -1,0 +1,41 @@
+initHash: 0xc15721d6b2def50ef1ff4d80b9b6587e575f687fceccfda24a4f174589329afb
+msgSender: 0xdc64a140aa3e981100a9beca4e685f962f0cf6c9
+
+opEvmClassId: 0x0a88AFd182f20f3be4d1B645898D9ADc0455448a
+metadata: |-
+  {
+    "name": "疫",
+    "symbol": "BOOK",
+    "description": "description",
+    "image": "ar://AungJAhW5oEvXaJNhqLL7xPQXypc1HfrLhywrMtM6Dog",
+    "nft_meta_collection_id": "nft_book",
+    "nft_meta_collection_name": "NFT Book",
+    "nft_meta_collection_description": "NFT Book by Liker Land",
+    "@type": "Book",
+    "author": "茨仁唯色",
+    "inLanguage": "zh",
+    "isbn": "",
+    "keywords": ["詩集", " 西藏", " 新冠疫情"],
+    "thumbnailUrl": "ar://AungJAhW5oEvXaJNhqLL7xPQXypc1HfrLhywrMtM6Dog",
+    "usageInfo": "All Rights Reserved",
+    "contentFingerprints": [
+      "https://api.rinkeby.like.co/arweave/v2/link/0xba6ce5ed3aefca0fff57c677029b65947cf1c2654830fb65fe9ec1d71b6df702",
+      "ar://AungJAhW5oEvXaJNhqLL7xPQXypc1HfrLhywrMtM6Dog"
+    ],
+    "datePublished": "2025-09-02",
+    "potentialAction": {
+      "@type": "ReadAction",
+      "target": [
+        {
+          "@type": "EntryPoint",
+          "contentType": "application/epub+zip",
+          "url": "https://api.rinkeby.like.co/arweave/v2/link/0xba6ce5ed3aefca0fff57c677029b65947cf1c2654830fb65fe9ec1d71b6df702",
+          "name": "疫-繁-橫.epub",
+          "encodingType": "aes256gcm"
+        }
+      ]
+    },
+    "attributes": [{ "trait_type": "Author", "value": "茨仁唯色" }]
+  }
+
+baseEvmClassId: 0xB767FD092b939e7Da1CE0212d3aa6bC179638ff3

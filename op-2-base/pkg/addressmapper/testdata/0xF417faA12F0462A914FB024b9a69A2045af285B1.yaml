@@ -1,0 +1,42 @@
+initHash: 0xc15721d6b2def50ef1ff4d80b9b6587e575f687fceccfda24a4f174589329afb
+msgSender: 0xdc64a140aa3e981100a9beca4e685f962f0cf6c9
+
+opEvmClassId: 0xF417faA12F0462A914FB024b9a69A2045af285B1
+metadata: |-
+  {
+    "name": "蜀山劍俠傳 - 卷一",
+    "symbol": "BOOK",
+    "description": "《蜀山劍俠傳》名列世紀百強第 55，是一部武俠小説，作者是還珠樓主李壽民。《蜀山劍俠傳》1932年開始在天津《天風報》連載。在烽火硝煙的抗戰時期，中國竟傳奇般地誕生了一部玄想超妙，光怪陸離的《蜀山》。這部中國神話鉅著，「開小説界千古未有之奇觀」，直接影響了後世的金庸等新派武俠小説的光大發展。 一代神魔武俠小説大宗師還珠樓主李善基胸羅萬象，筆挾千鈞，在《蜀山》中創造了異想天開的仙道世界。",
+    "image": "ar://G6bCygiJPz1inMaBMK9bkw2hwxiCAhwMP5he1YC73uPb",
+    "nft_meta_collection_id": "nft_book",
+    "nft_meta_collection_name": "NFT Book",
+    "nft_meta_collection_description": "NFT Book by Liker Land",
+    "author": "還珠樓主",
+    "inLanguage": "zh",
+    "isbn": "",
+    "keywords": ["中國小說"],
+    "publisher": "風簷出版",
+    "thumbnailUrl": "ar://G6bCygiJPz1inMaBMK9bkw2hwxiCAhwMP5he1YC73uPb",
+    "usageInfo": "All Rights Reserved",
+    "contentFingerprints": [
+      "https://api.rinkeby.like.co/arweave/v2/link/0x2fb53d82ba45bc367785a82026ec6e72e4c6c368c9f4c02805f4e3d8782161bd",
+      "ar://G6bCygiJPz1inMaBMK9bkw2hwxiCAhwMP5he1YC73uPb"
+    ],
+    "datePublished": "2025-05-16",
+    "potentialAction": {
+      "@type": "ReadAction",
+      "target": [
+        {
+          "@type": "EntryPoint",
+          "contentType": "application/epub+zip",
+          "url": "https://api.rinkeby.like.co/arweave/v2/link/0x2fb53d82ba45bc367785a82026ec6e72e4c6c368c9f4c02805f4e3d8782161bd",
+          "name": "蜀山劍俠傳 第一卷-橫.epub",
+          "encodingType": "aes256gcm"
+        }
+      ]
+    },
+    "attributes": null
+  }
+
+
+baseEvmClassId: 0xfD3CA8b0B89Ef48532013895Bb877FdeE9871cc1
