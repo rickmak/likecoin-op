@@ -1,0 +1,81 @@
+name: raw
+datauristring: |
+  {"name": "Just Json"}
+expected: |
+  {"name": "Just Json"}
+
+---
+name: explicit-utf8
+datauristring: 'data:application/json;utf8,{"name": "Data URI Json"}'
+expected: |
+  {"name": "Data URI Json"}
+
+---
+name: explicit-charset-utf8
+datauristring: 'data:application/json; charset=utf-8,{"name": "Data URI Json in UTF8"}'
+expected: |
+  {"name": "Data URI Json in UTF8"}
+
+---
+name: explicit-invalid-encoding
+datauristring: 'data:application/json; charset=utf-7,{"name": "Data URI Json in UTF8"}'
+error: unknwon string format data:application/json; charset=utf-7,
+
+---
+name: base64-1
+datauristring: data:application/json;base64,eyJuYW1lIjoiQ29sbGVjdGlvbiBOYW1lIiwic3ltYm9sIjoiQ29sbGVjdGlvbiBTWU1CIiwiZGVzY3JpcHRpb24iOiJDb2xsZWN0aW9uIERlc2NyaXB0aW9uIiwiaW1hZ2UiOiJpcGZzOi8vYmFmeWJlaWV6cTR5cW9zYzJ1NHNhYW5vdmU1YnNhM3ljaXVmd2hmZHVlbXk1ejZ2dmY2cTNjNWxuYmkiLCJiYW5uZXJfaW1hZ2UiOiIiLCJmZWF0dXJlZF9pbWFnZSI6IiIsImV4dGVybmFsX2xpbmsiOiJodHRwczovL3d3dy5leGFtcGxlLmNvbSIsImNvbGxhYm9yYXRvcnMiOltdfQ==
+expected: |
+  {
+    "name": "Collection Name",
+    "symbol": "Collection SYMB",
+    "description": "Collection Description",
+    "image": "ipfs://bafybeiezq4yqosc2u4saanove5bsa3yciufwhfduemy5z6vvf6q3c5lnbi",
+    "banner_image": "",
+    "featured_image": "",
+    "external_link": "https://www.example.com",
+    "collaborators": []
+  }
+
+---
+name: base64-2
+datauristring: data:application/json;base64,eyJpbWFnZSI6ImlwZnM6Ly9RbVVFVjQxSGJpN3FreGVZU1ZVdG9FNXhrZlJGbnFTZDYyZmE1djhOYXlhNVlzIiwiaW1hZ2VfZGF0YSI6IiIsImV4dGVybmFsX3VybCI6Imh0dHBzOi8vd3d3Lmdvb2dsZS5jb20iLCJkZXNjcmlwdGlvbiI6IjIwMjQxMjE5MTcyOSAjMDAwMSBEZXNjcmlwdGlvbiIsIm5hbWUiOiIyMDI0MTIxOTE3MjkgIzAwMDEiLCJhdHRyaWJ1dGVzIjpbeyJ0cmFpdF90eXBlIjoiSVNDTiBJRCIsInZhbHVlIjoiaXNjbjovL2xpa2Vjb2luLWNoYWluL0Z5WjEzbV9oZ3d6VUM2VW9hUzN2RmRZdmRHNlFYZmFqVTN2Y2F0dzdYMWMvMSJ9XSwiYmFja2dyb3VuZF9jb2xvciI6IiIsImFuaW1hdGlvbl91cmwiOiIiLCJ5b3V0dWJlX3VybCI6IiJ9
+expected: |
+  {
+    "image": "ipfs://QmUEV41Hbi7qkxeYSVUtoE5xkfRFnqSd62fa5v8Naya5Ys",
+    "image_data": "",
+    "external_url": "https://www.google.com",
+    "description": "202412191729 #0001 Description",
+    "name": "202412191729 #0001",
+    "attributes": [
+      {
+        "trait_type": "ISCN ID",
+        "value": "iscn://likecoin-chain/FyZ13m_hgwzUC6UoaS3vFdYvdG6QXfajU3vcatw7X1c/1"
+      }
+    ],
+    "background_color": "",
+    "animation_url": "",
+    "youtube_url": ""
+  }
+
+---
+name: base64-invalid
+datauristring: data:application/json;base64,eyJuYW1lIjoiQ29sbGVjdGlvbiBOYW1lIiwic3ltYm9sIjoiQ29sbGVjdGlvbiBTWU1CIiwiZGVzY3JpcHRpb24iOiJDb2xsZWN0aW9uIERlc2NyaXB0aW9uIiwiaW1hZ2UiOiJpcGZzOi8vYmFmeWJlaWV6cTR5cW9zYzJ1NHNhYW5vdmU1YnNhM3ljaXVmd2hmZHVlbXk1ejZ2dmY2cTNjNWxuYmkiLCJiYW5uZXJfaW1hZ2UiOiIiLCJmZWF0dXJlZF9pbWFnZSI6IiIsImV4dGVybmFsX2xpbmsiOiJodHRwczovL3d3dy5leGFtcGxlLmNvbSIsImNvbGxhYm9yYXRvcnMiOltdf
+error: illegal base64 data
+
+---
+name: remote-1
+datauristring: https://ipfs.io/ipfs/bafkreibfritpvwr4nzntevkvqeuuumbcsake6kgvsbacyyakwzytnyumh4
+httpresponse: |
+  {
+    "name": "My Book",
+    "symbol": "KOOB",
+    "description": "This is my book",
+    "image": "ipfs://bafybeiezq4yqosc2u4saanove5bsa3yciufwhfduemy5z6vvf6q3c5lnbi"
+  }
+expected: |
+  {
+    "name": "My Book",
+    "symbol": "KOOB",
+    "description": "This is my book",
+    "image": "ipfs://bafybeiezq4yqosc2u4saanove5bsa3yciufwhfduemy5z6vvf6q3c5lnbi"
+  }
