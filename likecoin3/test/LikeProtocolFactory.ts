@@ -577,3 +577,29 @@ describe("LikeProtocol as Beacon Factory with deterministic address", () => {
     expect(royaltyAmount).to.equal(10n);
   });
 });
+
+describe("LikeProtocol initCode hash used for BookNFT", () => {
+  it("should be able to get initCode hash", async function () {
+    const { likeProtocol, deployer } = await loadFixture(deployProtocol);
+    const likeProtocolMock = await viem.deployContract("LikeProtocolMock");
+    likeProtocol.write.upgradeToAndCall([likeProtocolMock.address, "0x"], {
+      account: deployer.account,
+    });
+    const hash1 = await likeProtocolMock.read.initCodeHash([
+      "0x95f846D5c646D3eefb0b56932B8Abf3995A3F9e5",
+      "My Book",
+      "KOOB",
+    ]);
+    expect(hash1).to.equal(
+      "0x7e65ffed265e51945dbcf640933e6d0928a9e18928a68dfd8f93065d740932d7",
+    );
+    const hash2 = await likeProtocolMock.read.initCodeHash([
+      "0x95f846D5c646D3eefb0b56932B8Abf3995A3F9e5",
+      "MoneyVerse",
+      "BOOK",
+    ]);
+    expect(hash2).to.equal(
+      "0x1709254a71813e6b744513297b0532632180a457627653968926837642a06033",
+    );
+  });
+});
