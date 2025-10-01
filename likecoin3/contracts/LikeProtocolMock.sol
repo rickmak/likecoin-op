@@ -15,6 +15,10 @@ contract LikeProtocolMock is LikeProtocol {
             ) & ~bytes32(uint256(0xff));
     }
 
+    function creationCode() public pure returns (bytes memory) {
+        return type(BeaconProxy).creationCode;
+    }
+
     function initCodeHash(
         address protocolAddress,
         string memory name,

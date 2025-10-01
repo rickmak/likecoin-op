@@ -6,8 +6,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/likecoin/likecoin-op/op-2-base/cmd/cli/cmd/airdrop"
-	"github.com/likecoin/likecoin-op/op-2-base/cmd/cli/cmd/likenft"
+	"github.com/likecoin/likecoin-op/op-2-base/cmd/cli/cmd/local"
 )
 
 var rootCmd = &cobra.Command{
@@ -24,6 +23,5 @@ func Execute(ctx context.Context) {
 }
 
 func init() {
-	rootCmd.AddCommand(likenft.LikeNFTCmd)
-	rootCmd.AddCommand(airdrop.AirdropCmd)
+	rootCmd.AddCommand(local.LocalCmd)
 }

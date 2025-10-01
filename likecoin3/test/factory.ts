@@ -1,3 +1,4 @@
+import fs from "fs";
 import { viem, ignition } from "hardhat";
 import LikeProtocolV1Module from "../ignition/modules/LikeProtocolV1";
 import LikeCollectiveModule from "../ignition/modules/LikeCollective";
@@ -111,4 +112,10 @@ export async function deployLSP() {
     kin,
     publicClient,
   };
+}
+
+
+export function getBeaconProxyCreationCode() {
+  const creationCode = fs.readFileSync("./test/fixtures/BeaconProxy.creationCode", "utf8");
+  return creationCode;
 }

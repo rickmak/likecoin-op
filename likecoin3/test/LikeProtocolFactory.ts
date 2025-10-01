@@ -5,7 +5,7 @@ import { encodeFunctionData } from "viem";
 
 import "./setup";
 import { BookConfigLoader } from "./BookConfigLoader";
-import { deployProtocol } from "./factory";
+import { deployProtocol, getBeaconProxyCreationCode } from "./factory";
 
 describe("LikeProtocol as Beacon Factory", () => {
   it("should be able to create new BookNFT", async function () {
@@ -578,8 +578,23 @@ describe("LikeProtocol as Beacon Factory with deterministic address", () => {
   });
 });
 
-describe("LikeProtocol initCode hash used for BookNFT", () => {
+describe("LikeProtocol creationCode and initCode hash used for BookNFT", () => {
+
+  it("should be able to get creationCode with empty bytecode", async function () {
+    const { likeProtocol, deployer } = await loadFixture(deployProtocol);
+    const agreedCreationCode = getBeaconProxyCreationCode();
+    let likeProtocolMock = await viem.deployContract("LikeProtocolMock");
+    likeProtocol.write.upgradeToAndCall([likeProtocolMock.address, "0x"], {
+      account: deployer.account,
+    });
+    likeProtocolMock = await viem.getContractAt("LikeProtocolMock", likeProtocolMock.address);
+    const creationCode = await likeProtocolMock.read.creationCode();
+    expect(creationCode).to.equal(agreedCreationCode);
+  });
+
   it("should be able to get initCode hash", async function () {
+    // Here we hardcode the expected initCode hash as testCase
+    // This should compare with the op-2-base command output
     const { likeProtocol, deployer } = await loadFixture(deployProtocol);
     const likeProtocolMock = await viem.deployContract("LikeProtocolMock");
     likeProtocol.write.upgradeToAndCall([likeProtocolMock.address, "0x"], {
@@ -591,7 +606,7 @@ describe("LikeProtocol initCode hash used for BookNFT", () => {
       "KOOB",
     ]);
     expect(hash1).to.equal(
-      "0x7e65ffed265e51945dbcf640933e6d0928a9e18928a68dfd8f93065d740932d7",
+      "0xad3c626e02771127d7c06c2b0a4b70688ce10c23f5e3bdd2da31d4d7545191e6",
     );
     const hash2 = await likeProtocolMock.read.initCodeHash([
       "0x95f846D5c646D3eefb0b56932B8Abf3995A3F9e5",
@@ -599,7 +614,7 @@ describe("LikeProtocol initCode hash used for BookNFT", () => {
       "BOOK",
     ]);
     expect(hash2).to.equal(
-      "0x1709254a71813e6b744513297b0532632180a457627653968926837642a06033",
+      "0x4760b8bcddff60b66596dcbaf57ed2b20ee38942efcc3f2e22fff1ef102fdf5b",
     );
   });
 });
