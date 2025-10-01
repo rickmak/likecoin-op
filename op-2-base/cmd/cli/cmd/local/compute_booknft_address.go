@@ -52,6 +52,7 @@ var computeBookNFTAddressCmd = &cobra.Command{
 		}
 
 		// Build initData = abi.encodeWithSelector(IBookNFTInterface.initialize.selector, name, symbol)
+		// The abi should be same as likecoin3/artifacts/contracts/LikeProtocol.sol/IBookNFTInterface.json
 		parsedAbi, _ := abi.JSON(strings.NewReader(`[
 		{
       "inputs": [
@@ -94,7 +95,7 @@ var computeBookNFTAddressCmd = &cobra.Command{
 		proxyCreationCode := append(creationCode, encodedArgs...)
 		initCodeHash := crypto.Keccak256(proxyCreationCode)
 
-		fmt.Println("initCodeHash:", "0x"+common.Bytes2Hex(initCodeHash))
+		// fmt.Println("initCodeHash:", "0x"+common.Bytes2Hex(initCodeHash))
 
 		// Generate the BookNFT address via create2
 		saltBytes, err := hex.DecodeString(salt[2:])
@@ -104,12 +105,12 @@ var computeBookNFTAddressCmd = &cobra.Command{
 		}
 
 		bookNFTAddress := crypto.CreateAddress2(_protocolAddress, [32]byte(saltBytes), initCodeHash)
-		fmt.Println("bookNFTAddress:", bookNFTAddress)
+		fmt.Println(bookNFTAddress)
 	},
 }
 
 func init() {
 	LocalCmd.AddCommand(computeBookNFTAddressCmd)
 	computeBookNFTAddressCmd.Flags().String("bytecode-file", "BeaconProxy.creationCode", "Path to bytecode file (default: BeaconProxy.creationCode)")
-	computeBookNFTAddressCmd.Flags().String("protocol-address", os.Getenv("CREATE_ADDRESS_2_DEPLOYER_ADDRESS"), "LikeProtocol address (default from CREATE_ADDRESS_2_DEPLOYER_ADDRESS)")
+	computeBookNFTAddressCmd.Flags().String("protocol-address", os.Getenv("BASE_ETH_LIKENFT_CONTRACT_ADDRESS"), "LikeProtocol address (default from BASE_ETH_LIKENFT_CONTRACT_ADDRESS)")
 }
