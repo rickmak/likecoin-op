@@ -32,11 +32,12 @@ contract veLikeReward is
     struct veLikeRewardStorage {
         address vault;
         address likecoin;
-        uint256 rewardPool; // Tracking the likecoin hold by vault for reward distribution.
+        uint256 rewardPool; // Tracking the likecoin pool authorized for reward distribution.
         uint256 totalStaked;
         uint256 lastRewardTime;
         StakingCondition currentStakingCondition;
         mapping(address account => StakerInfo stakerInfo) stakerInfos;
+        address drawer;
     }
 
     uint256 public constant ACC_REWARD_PRECISION = 1e18; // Precision scalar for reward index
@@ -291,12 +292,20 @@ contract veLikeReward is
         stakerInfo.rewardClaimed += rewardClaimed;
         stakerInfo.rewardIndex = $.currentStakingCondition.rewardIndex;
         $.rewardPool -= rewardClaimed;
+        if (rewardClaimed == 0) {
+            return 0;
+        }
         if (restake) {
             stakerInfo.stakedAmount += rewardClaimed;
             $.totalStaked += rewardClaimed;
             // Relay on the Vault to _mint the veLIKE.
         } else {
-            SafeERC20.safeTransfer(IERC20($.likecoin), account, rewardClaimed);
+            SafeERC20.safeTransferFrom(
+                IERC20($.likecoin),
+                $.drawer,
+                account,
+                rewardClaimed
+            );
         }
         return rewardClaimed;
     }
@@ -339,6 +348,7 @@ contract veLikeReward is
      * @param endTime - the end time of the staking condition
      */
     function addReward(
+        address drawer,
         uint256 rewardAmount,
         uint256 startTime,
         uint256 endTime
@@ -357,12 +367,7 @@ contract veLikeReward is
             revert ErrConflictCondition();
         }
         $.lastRewardTime = startTime;
-        SafeERC20.safeTransferFrom(
-            IERC20($.likecoin),
-            _msgSender(),
-            address(this),
-            rewardAmount
-        );
+        $.drawer = drawer;
         // perform last update if needed
         $.rewardPool += rewardAmount;
         $.currentStakingCondition = StakingCondition({

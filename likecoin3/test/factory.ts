@@ -272,9 +272,12 @@ export async function initialCondition() {
   await veLike.write.setLockTime([endTime], {
     account: deployer.account.address,
   });
-  await veLikeReward.write.addReward([10000n * 10n ** 6n, startTime, endTime], {
-    account: deployer.account.address,
-  });
+  await veLikeReward.write.addReward(
+    [deployer.account.address, 10000n * 10n ** 6n, startTime, endTime],
+    {
+      account: deployer.account.address,
+    },
+  );
 
   // This include test as deposit before the startTime.
   await likecoin.write.approve([veLike.address, 100n * 10n ** 6n], {

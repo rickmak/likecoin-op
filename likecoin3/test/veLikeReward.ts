@@ -97,7 +97,7 @@ describe("veLikeReward ", async function () {
       const startTime = block.timestamp;
       const endTime = block.timestamp + 1000n;
       await veLikeReward.write.addReward(
-        [10000n * 10n ** 6n, startTime, endTime],
+        [deployer.account.address, 10000n * 10n ** 6n, startTime, endTime],
         {
           account: deployer.account.address,
         },
@@ -109,9 +109,10 @@ describe("veLikeReward ", async function () {
       expect(condition.rewardAmount).to.equal(10000n * 10n ** 6n);
       expect(condition.rewardIndex).to.equal(0n);
 
+      // Nothing spent yet.
       expect(
         await likecoin.read.balanceOf([deployer.account.address]),
-      ).to.equal(40000n * 10n ** 6n);
+      ).to.equal(50000n * 10n ** 6n);
       // Reward does not count toward total assets
       expect(await veLike.read.totalAssets()).to.equal(0n);
     });
@@ -128,7 +129,7 @@ describe("veLikeReward ", async function () {
       const startTime = block.timestamp;
       const endTime = block.timestamp + 1000n;
       await veLikeReward.write.addReward(
-        [10000n * 10n ** 6n, startTime, endTime],
+        [deployer.account.address, 10000n * 10n ** 6n, startTime, endTime],
         {
           account: deployer.account.address,
         },
@@ -140,7 +141,12 @@ describe("veLikeReward ", async function () {
       });
       await expect(
         veLikeReward.write.addReward(
-          [10000n * 10n ** 6n, startTime - 1000n, endTime],
+          [
+            deployer.account.address,
+            10000n * 10n ** 6n,
+            startTime - 1000n,
+            endTime,
+          ],
           {
             account: deployer.account.address,
           },
@@ -155,9 +161,12 @@ describe("veLikeReward ", async function () {
       const startTime = block.timestamp + 1000n;
       const endTime = block.timestamp - 2000n;
       await expect(
-        veLikeReward.write.addReward([10000n * 10n ** 6n, startTime, endTime], {
-          account: deployer.account.address,
-        }),
+        veLikeReward.write.addReward(
+          [deployer.account.address, 10000n * 10n ** 6n, startTime, endTime],
+          {
+            account: deployer.account.address,
+          },
+        ),
       ).to.be.rejectedWith("ErrConflictCondition");
     });
 
@@ -168,9 +177,12 @@ describe("veLikeReward ", async function () {
       const startTime = block.timestamp + 3000n;
       const endTime = block.timestamp + 2000n;
       await expect(
-        veLikeReward.write.addReward([10000n * 10n ** 6n, startTime, endTime], {
-          account: deployer.account.address,
-        }),
+        veLikeReward.write.addReward(
+          [deployer.account.address, 10000n * 10n ** 6n, startTime, endTime],
+          {
+            account: deployer.account.address,
+          },
+        ),
       ).to.be.rejectedWith("ErrConflictCondition");
     });
 
@@ -185,16 +197,19 @@ describe("veLikeReward ", async function () {
       const startTime = block.timestamp;
       const endTime = block.timestamp + 1n;
       await veLikeReward.write.addReward(
-        [10000n * 10n ** 6n, startTime, endTime],
+        [deployer.account.address, 10000n * 10n ** 6n, startTime, endTime],
         {
           account: deployer.account.address,
         },
       );
 
       await expect(
-        veLikeReward.write.addReward([10000n * 10n ** 6n, startTime, endTime], {
-          account: deployer.account.address,
-        }),
+        veLikeReward.write.addReward(
+          [deployer.account.address, 10000n * 10n ** 6n, startTime, endTime],
+          {
+            account: deployer.account.address,
+          },
+        ),
       ).to.be.rejectedWith("ErrConflictCondition");
     });
   });
