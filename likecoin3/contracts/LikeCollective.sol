@@ -186,11 +186,12 @@ contract LikeCollective is
             .likeStakePosition
             .getPosition(tokenID);
         uint256 pendingRewards = _pendingRewardsOf(tokenID);
-        uint256 newAmount = position.stakedAmount + amount + pendingRewards;
+        uint256 additionalAmount = amount + pendingRewards;
+        uint256 newAmount = position.stakedAmount + additionalAmount;
         address bookNFT = position.bookNFT;
 
         PoolData storage pool = $.pools[bookNFT];
-        pool.totalStaked = pool.totalStaked + amount;
+        pool.totalStaked = newAmount;
         pool.rewardPending = pool.rewardPending - pendingRewards;
         pool.totalRewarded = pool.totalRewarded + pendingRewards;
         pool.rewardIndexes[tokenID] = pool.rewardIndex;
@@ -200,7 +201,7 @@ contract LikeCollective is
             pool.rewardIndex
         );
 
-        emit Staked(bookNFT, _msgSender(), amount);
+        emit Staked(bookNFT, _msgSender(), additionalAmount);
         emit RewardClaimed(bookNFT, _msgSender(), pendingRewards);
     }
 
