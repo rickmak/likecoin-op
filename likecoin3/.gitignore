@@ -3,6 +3,7 @@ node_modules
 
 # Local development artifacts
 /plan
+/snapshot
 
 # Hardhat files
 /cache
