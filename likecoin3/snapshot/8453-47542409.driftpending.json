@@ -1,0 +1,4996 @@
+{
+  "meta": {
+    "chainId": 8453,
+    "network": "base",
+    "block": 47542409,
+    "collective": "0x4506Ac2dD1e9A470d92a3D1656E1a99C676E1c8E",
+    "stakePosition": "0x508610D3009cda82Ac1a40D2b322Ed31932D16b1",
+    "positionCount": 1376,
+    "poolCount": 494,
+    "snapshotFile": "/home/rickmak/likecoin-op/likecoin3/snapshot/8453-47542409.json",
+    "driftFile": "/home/rickmak/likecoin-op/likecoin3/snapshot/8453-47542409.drift.json",
+    "driftedPools": 56,
+    "grandTotal": "3180678577009348002065",
+    "grandTotalLike": "3180678577009348.002065",
+    "inflatedTotal": "3180678577008859279634"
+  },
+  "byUserBook": [
+    {
+      "user": "0x3FfC07ED6a65E379E39Bef93e713ee3Ff77a56e4",
+      "bookNFT": "0x955b8520D9026D6247690E0dC8c5E1b1434C4078",
+      "outstanding": "347747078581981749090",
+      "outstandingLike": "347747078581981.74909",
+      "inflated": true,
+      "tokenIds": [
+        "869"
+      ]
+    },
+    {
+      "user": "0x662A79fBc9ae681d7cD19A7275Aa8b3187CcA622",
+      "bookNFT": "0x955b8520D9026D6247690E0dC8c5E1b1434C4078",
+      "outstanding": "347747078580393824960",
+      "outstandingLike": "347747078580393.82496",
+      "inflated": true,
+      "tokenIds": [
+        "957"
+      ]
+    },
+    {
+      "user": "0x662A79fBc9ae681d7cD19A7275Aa8b3187CcA622",
+      "bookNFT": "0x22263b9c327817dF2B11d64dfeC2b4A754fE4457",
+      "outstanding": "259880422481226449252",
+      "outstandingLike": "259880422481226.449252",
+      "inflated": true,
+      "tokenIds": [
+        "969"
+      ]
+    },
+    {
+      "user": "0x98e6269f33d3191b6e6DEdD01e93c51cc14257d3",
+      "bookNFT": "0x0d9daD7d5BA162c98260398B5494cC133292b5Ad",
+      "outstanding": "259647101576113776559",
+      "outstandingLike": "259647101576113.776559",
+      "inflated": true,
+      "tokenIds": [
+        "1044"
+      ]
+    },
+    {
+      "user": "0x4D58578253de8d9deb6A57FAf43E0e3226C9629B",
+      "bookNFT": "0x0d9daD7d5BA162c98260398B5494cC133292b5Ad",
+      "outstanding": "240413982940412345436",
+      "outstandingLike": "240413982940412.345436",
+      "inflated": true,
+      "tokenIds": [
+        "851"
+      ]
+    },
+    {
+      "user": "0x662A79fBc9ae681d7cD19A7275Aa8b3187CcA622",
+      "bookNFT": "0xa750Ef555fC0368987974b34e058200a81BEd78d",
+      "outstanding": "191668287710400284189",
+      "outstandingLike": "191668287710400.284189",
+      "inflated": true,
+      "tokenIds": [
+        "967"
+      ]
+    },
+    {
+      "user": "0x3f31371E915efe4067C241b9dDC919919b6871c5",
+      "bookNFT": "0x22263b9c327817dF2B11d64dfeC2b4A754fE4457",
+      "outstanding": "129940211240613224626",
+      "outstandingLike": "129940211240613.224626",
+      "inflated": true,
+      "tokenIds": [
+        "858"
+      ]
+    },
+    {
+      "user": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x22263b9c327817dF2B11d64dfeC2b4A754fE4457",
+      "outstanding": "127341407016012460214",
+      "outstandingLike": "127341407016012.460214",
+      "inflated": true,
+      "tokenIds": [
+        "207"
+      ]
+    },
+    {
+      "user": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x991739959726cb96f1caFF52c968f4f2912795Ff",
+      "outstanding": "120365778877309528363",
+      "outstandingLike": "120365778877309.528363",
+      "inflated": true,
+      "tokenIds": [
+        "1177"
+      ]
+    },
+    {
+      "user": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x6DC830BCe79D7d6F6db60d0bFAE8389192Bbf630",
+      "outstanding": "99780738003505103079",
+      "outstandingLike": "99780738003505.103079",
+      "inflated": true,
+      "tokenIds": [
+        "1213"
+      ]
+    },
+    {
+      "user": "0x8F176D80F72eA56Fbf61b5E56b84414689EA26bA",
+      "bookNFT": "0x5aDCb8a737e4AaABf7Ff6b656Acd5dc60E983757",
+      "outstanding": "61811751798664235977",
+      "outstandingLike": "61811751798664.235977",
+      "inflated": true,
+      "tokenIds": [
+        "18"
+      ]
+    },
+    {
+      "user": "0xB2206f941A5206B55BFA33E665687523A8bcEd80",
+      "bookNFT": "0x97FA87D601701ea51164CfC4e0e00dde004A9CA0",
+      "outstanding": "57304843632000000000",
+      "outstandingLike": "57304843632000.0",
+      "inflated": true,
+      "tokenIds": [
+        "1338"
+      ]
+    },
+    {
+      "user": "0x3f31371E915efe4067C241b9dDC919919b6871c5",
+      "bookNFT": "0x8EcBaA55E85429D968129207fad35f0d049424CA",
+      "outstanding": "55976927745582497964",
+      "outstandingLike": "55976927745582.497964",
+      "inflated": true,
+      "tokenIds": [
+        "859"
+      ]
+    },
+    {
+      "user": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x3ccD28dfa50a169435002b0BC3A363a0A7E23aa0",
+      "outstanding": "53902128115776959446",
+      "outstandingLike": "53902128115776.959446",
+      "inflated": true,
+      "tokenIds": [
+        "1078"
+      ]
+    },
+    {
+      "user": "0x662A79fBc9ae681d7cD19A7275Aa8b3187CcA622",
+      "bookNFT": "0x3ccD28dfa50a169435002b0BC3A363a0A7E23aa0",
+      "outstanding": "53902128115000000000",
+      "outstandingLike": "53902128115000.0",
+      "inflated": true,
+      "tokenIds": [
+        "1416"
+      ]
+    },
+    {
+      "user": "0x64110F5bd00561cC7D1Df17f8FAf7168A80985Ac",
+      "bookNFT": "0x93bec61F64227EeBBD0bB14E1AeCE56D63B9e0F7",
+      "outstanding": "40278286252032671309",
+      "outstandingLike": "40278286252032.671309",
+      "inflated": true,
+      "tokenIds": [
+        "1064"
+      ]
+    },
+    {
+      "user": "0x63252957c9f9a6E7D4558Fd7cC64Be55E8d38A81",
+      "bookNFT": "0xa750Ef555fC0368987974b34e058200a81BEd78d",
+      "outstanding": "38333657542000000000",
+      "outstandingLike": "38333657542000.0",
+      "inflated": true,
+      "tokenIds": [
+        "104"
+      ]
+    },
+    {
+      "user": "0x66AD8D3E0db87Ae882C1788e2cda9e31cDB4F013",
+      "bookNFT": "0xa750Ef555fC0368987974b34e058200a81BEd78d",
+      "outstanding": "38333657542000000000",
+      "outstandingLike": "38333657542000.0",
+      "inflated": true,
+      "tokenIds": [
+        "1262"
+      ]
+    },
+    {
+      "user": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x955b8520D9026D6247690E0dC8c5E1b1434C4078",
+      "outstanding": "34774707858239063025",
+      "outstandingLike": "34774707858239.063025",
+      "inflated": true,
+      "tokenIds": [
+        "867"
+      ]
+    },
+    {
+      "user": "0x0415C6D6204B1360511F8961dd91b02e489D6eD6",
+      "bookNFT": "0x955b8520D9026D6247690E0dC8c5E1b1434C4078",
+      "outstanding": "34774707858129764518",
+      "outstandingLike": "34774707858129.764518",
+      "inflated": true,
+      "tokenIds": [
+        "903"
+      ]
+    },
+    {
+      "user": "0xDbC1278E2275f6Ab82d8B4a032bFc0e2A127f6B6",
+      "bookNFT": "0x955b8520D9026D6247690E0dC8c5E1b1434C4078",
+      "outstanding": "34774707858058632602",
+      "outstandingLike": "34774707858058.632602",
+      "inflated": true,
+      "tokenIds": [
+        "972"
+      ]
+    },
+    {
+      "user": "0x7fF3c36212F5B10846B7A2569b7b8a822a900050",
+      "bookNFT": "0x955b8520D9026D6247690E0dC8c5E1b1434C4078",
+      "outstanding": "34774707858000000000",
+      "outstandingLike": "34774707858000.0",
+      "inflated": true,
+      "tokenIds": [
+        "894"
+      ]
+    },
+    {
+      "user": "0x13d6f5A180A8ff82E2e74847D9bc91b537b03A2E",
+      "bookNFT": "0x5aDCb8a737e4AaABf7Ff6b656Acd5dc60E983757",
+      "outstanding": "27196851887654721048",
+      "outstandingLike": "27196851887654.721048",
+      "inflated": true,
+      "tokenIds": [
+        "23"
+      ]
+    },
+    {
+      "user": "0x66AD8D3E0db87Ae882C1788e2cda9e31cDB4F013",
+      "bookNFT": "0x22263b9c327817dF2B11d64dfeC2b4A754fE4457",
+      "outstanding": "25988042248165808206",
+      "outstandingLike": "25988042248165.808206",
+      "inflated": true,
+      "tokenIds": [
+        "353"
+      ]
+    },
+    {
+      "user": "0xa037Feb6508A8C2F93bb19f6721730C45921f2D0",
+      "bookNFT": "0x22263b9c327817dF2B11d64dfeC2b4A754fE4457",
+      "outstanding": "25988042248012317268",
+      "outstandingLike": "25988042248012.317268",
+      "inflated": true,
+      "tokenIds": [
+        "185"
+      ]
+    },
+    {
+      "user": "0x7fF3c36212F5B10846B7A2569b7b8a822a900050",
+      "bookNFT": "0x22263b9c327817dF2B11d64dfeC2b4A754fE4457",
+      "outstanding": "25988042248000000000",
+      "outstandingLike": "25988042248000.0",
+      "inflated": true,
+      "tokenIds": [
+        "1103"
+      ]
+    },
+    {
+      "user": "0x11BE308ab7C4F0E330FEB1F1F7eD5E21185B8066",
+      "bookNFT": "0x0d9daD7d5BA162c98260398B5494cC133292b5Ad",
+      "outstanding": "24041398294084608940",
+      "outstandingLike": "24041398294084.60894",
+      "inflated": true,
+      "tokenIds": [
+        "1048"
+      ]
+    },
+    {
+      "user": "0x63252957c9f9a6E7D4558Fd7cC64Be55E8d38A81",
+      "bookNFT": "0x8EcBaA55E85429D968129207fad35f0d049424CA",
+      "outstanding": "22390771098103880340",
+      "outstandingLike": "22390771098103.88034",
+      "inflated": true,
+      "tokenIds": [
+        "145"
+      ]
+    },
+    {
+      "user": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0xa750Ef555fC0368987974b34e058200a81BEd78d",
+      "outstanding": "19166828771213738289",
+      "outstandingLike": "19166828771213.738289",
+      "inflated": true,
+      "tokenIds": [
+        "202"
+      ]
+    },
+    {
+      "user": "0x64ee2f93e3f18a46E4c6A7Aca6C2Eb9edb8c0cA0",
+      "bookNFT": "0xa750Ef555fC0368987974b34e058200a81BEd78d",
+      "outstanding": "19166828771213738289",
+      "outstandingLike": "19166828771213.738289",
+      "inflated": true,
+      "tokenIds": [
+        "239"
+      ]
+    },
+    {
+      "user": "0x8F176D80F72eA56Fbf61b5E56b84414689EA26bA",
+      "bookNFT": "0xa750Ef555fC0368987974b34e058200a81BEd78d",
+      "outstanding": "19166828771000000000",
+      "outstandingLike": "19166828771000.0",
+      "inflated": true,
+      "tokenIds": [
+        "125"
+      ]
+    },
+    {
+      "user": "0x7fF3c36212F5B10846B7A2569b7b8a822a900050",
+      "bookNFT": "0xa750Ef555fC0368987974b34e058200a81BEd78d",
+      "outstanding": "19166828771000000000",
+      "outstandingLike": "19166828771000.0",
+      "inflated": true,
+      "tokenIds": [
+        "236"
+      ]
+    },
+    {
+      "user": "0x662A79fBc9ae681d7cD19A7275Aa8b3187CcA622",
+      "bookNFT": "0x3928C8E06f5f814811f6d70ae91da85B4E133b89",
+      "outstanding": "16599367722165756221",
+      "outstandingLike": "16599367722165.756221",
+      "inflated": true,
+      "tokenIds": [
+        "960"
+      ]
+    },
+    {
+      "user": "0xC3667DcAD0d71301E913b6cb8741538B7CFe251c",
+      "bookNFT": "0x3928C8E06f5f814811f6d70ae91da85B4E133b89",
+      "outstanding": "12449525791762477485",
+      "outstandingLike": "12449525791762.477485",
+      "inflated": true,
+      "tokenIds": [
+        "347"
+      ]
+    },
+    {
+      "user": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x0d9daD7d5BA162c98260398B5494cC133292b5Ad",
+      "outstanding": "12020699147326279594",
+      "outstandingLike": "12020699147326.279594",
+      "inflated": true,
+      "tokenIds": [
+        "296"
+      ]
+    },
+    {
+      "user": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x5aDCb8a737e4AaABf7Ff6b656Acd5dc60E983757",
+      "outstanding": "11238500327029861086",
+      "outstandingLike": "11238500327029.861086",
+      "inflated": true,
+      "tokenIds": [
+        "146"
+      ]
+    },
+    {
+      "user": "0x7fF3c36212F5B10846B7A2569b7b8a822a900050",
+      "bookNFT": "0x5aDCb8a737e4AaABf7Ff6b656Acd5dc60E983757",
+      "outstanding": "11238500327000000000",
+      "outstandingLike": "11238500327000.0",
+      "inflated": true,
+      "tokenIds": [
+        "82"
+      ]
+    },
+    {
+      "user": "0xe584099C39d0eaE355C6b0F003767DD53dFb8F6a",
+      "bookNFT": "0x8EcBaA55E85429D968129207fad35f0d049424CA",
+      "outstanding": "11195385549116499592",
+      "outstandingLike": "11195385549116.499592",
+      "inflated": true,
+      "tokenIds": [
+        "820"
+      ]
+    },
+    {
+      "user": "0xfb0757A4A21a849ae6142341736976B3c86F00ab",
+      "bookNFT": "0x6DC830BCe79D7d6F6db60d0bFAE8389192Bbf630",
+      "outstanding": "11086748667435570320",
+      "outstandingLike": "11086748667435.57032",
+      "inflated": true,
+      "tokenIds": [
+        "848"
+      ]
+    },
+    {
+      "user": "0x66AD8D3E0db87Ae882C1788e2cda9e31cDB4F013",
+      "bookNFT": "0x51D9A55CeeA0fc14BD8DbA60af5284F0e17fC936",
+      "outstanding": "9981039734275440752",
+      "outstandingLike": "9981039734275.440752",
+      "inflated": true,
+      "tokenIds": [
+        "1260"
+      ]
+    },
+    {
+      "user": "0x8F176D80F72eA56Fbf61b5E56b84414689EA26bA",
+      "bookNFT": "0x97FA87D601701ea51164CfC4e0e00dde004A9CA0",
+      "outstanding": "9646315344869987322",
+      "outstandingLike": "9646315344869.987322",
+      "inflated": true,
+      "tokenIds": [
+        "32"
+      ]
+    },
+    {
+      "user": "0x6ba3525B364445F4ed3244ff0a151c8bAea934cA",
+      "bookNFT": "0x97FA87D601701ea51164CfC4e0e00dde004A9CA0",
+      "outstanding": "9550807272599868101",
+      "outstandingLike": "9550807272599.868101",
+      "inflated": true,
+      "tokenIds": [
+        "156"
+      ]
+    },
+    {
+      "user": "0x6ba3525B364445F4ed3244ff0a151c8bAea934cA",
+      "bookNFT": "0x3928C8E06f5f814811f6d70ae91da85B4E133b89",
+      "outstanding": "8299683861409149745",
+      "outstandingLike": "8299683861409.149745",
+      "inflated": true,
+      "tokenIds": [
+        "155"
+      ]
+    },
+    {
+      "user": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x3928C8E06f5f814811f6d70ae91da85B4E133b89",
+      "outstanding": "8299683861191206014",
+      "outstandingLike": "8299683861191.206014",
+      "inflated": true,
+      "tokenIds": [
+        "213"
+      ]
+    },
+    {
+      "user": "0x0686BcD9e5A94d9f0b29EA7Ce1887d8B2dA21e86",
+      "bookNFT": "0x3928C8E06f5f814811f6d70ae91da85B4E133b89",
+      "outstanding": "8299683861129423889",
+      "outstandingLike": "8299683861129.423889",
+      "inflated": true,
+      "tokenIds": [
+        "158"
+      ]
+    },
+    {
+      "user": "0x66AD8D3E0db87Ae882C1788e2cda9e31cDB4F013",
+      "bookNFT": "0xd9Cd6de785C3b8F1939a8DD509019177B7D41a0E",
+      "outstanding": "8107362384209238476",
+      "outstandingLike": "8107362384209.238476",
+      "inflated": true,
+      "tokenIds": [
+        "1266"
+      ]
+    },
+    {
+      "user": "0x662A79fBc9ae681d7cD19A7275Aa8b3187CcA622",
+      "bookNFT": "0xAB976072B6Be23De212437d8f42375D5131daFb9",
+      "outstanding": "6560829232894057887",
+      "outstandingLike": "6560829232894.057887",
+      "inflated": true,
+      "tokenIds": [
+        "557"
+      ]
+    },
+    {
+      "user": "0x63252957c9f9a6E7D4558Fd7cC64Be55E8d38A81",
+      "bookNFT": "0xdDBa03e8e8459d4afD9ac6eA226209b7E56d5AF1",
+      "outstanding": "6006901898982543693",
+      "outstandingLike": "6006901898982.543693",
+      "inflated": true,
+      "tokenIds": [
+        "138"
+      ]
+    },
+    {
+      "user": "0x7D08f52539A8Fa695b474513437B1Ee8Bf5112d7",
+      "bookNFT": "0x8EcBaA55E85429D968129207fad35f0d049424CA",
+      "outstanding": "5709646630049414792",
+      "outstandingLike": "5709646630049.414792",
+      "inflated": true,
+      "tokenIds": [
+        "52"
+      ]
+    },
+    {
+      "user": "0x874C506D93e1bc08d735730A2e20beD16CE5bDB9",
+      "bookNFT": "0x8EcBaA55E85429D968129207fad35f0d049424CA",
+      "outstanding": "5597692774558249796",
+      "outstandingLike": "5597692774558.249796",
+      "inflated": true,
+      "tokenIds": [
+        "879"
+      ]
+    },
+    {
+      "user": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x51D9A55CeeA0fc14BD8DbA60af5284F0e17fC936",
+      "outstanding": "4990519868682126496",
+      "outstandingLike": "4990519868682.126496",
+      "inflated": true,
+      "tokenIds": [
+        "179"
+      ]
+    },
+    {
+      "user": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x3ed61aeeC1DA28A93eE9963f2D21FdD802CBc063",
+      "outstanding": "4947955739555968459",
+      "outstandingLike": "4947955739555.968459",
+      "inflated": true,
+      "tokenIds": [
+        "116"
+      ]
+    },
+    {
+      "user": "0x8F176D80F72eA56Fbf61b5E56b84414689EA26bA",
+      "bookNFT": "0x3ed61aeeC1DA28A93eE9963f2D21FdD802CBc063",
+      "outstanding": "4947955739387823801",
+      "outstandingLike": "4947955739387.823801",
+      "inflated": true,
+      "tokenIds": [
+        "39"
+      ]
+    },
+    {
+      "user": "0x7fF3c36212F5B10846B7A2569b7b8a822a900050",
+      "bookNFT": "0x3ed61aeeC1DA28A93eE9963f2D21FdD802CBc063",
+      "outstanding": "4947955739000000000",
+      "outstandingLike": "4947955739000.0",
+      "inflated": true,
+      "tokenIds": [
+        "123"
+      ]
+    },
+    {
+      "user": "0x13d6f5A180A8ff82E2e74847D9bc91b537b03A2E",
+      "bookNFT": "0x3ed61aeeC1DA28A93eE9963f2D21FdD802CBc063",
+      "outstanding": "4947955739000000000",
+      "outstandingLike": "4947955739000.0",
+      "inflated": true,
+      "tokenIds": [
+        "591"
+      ]
+    },
+    {
+      "user": "0x12cF06fC70CbcBfD9E8e1676029f7189053Ac981",
+      "bookNFT": "0x97FA87D601701ea51164CfC4e0e00dde004A9CA0",
+      "outstanding": "4775403636211621891",
+      "outstandingLike": "4775403636211.621891",
+      "inflated": true,
+      "tokenIds": [
+        "326"
+      ]
+    },
+    {
+      "user": "0x13d6f5A180A8ff82E2e74847D9bc91b537b03A2E",
+      "bookNFT": "0x9cA7f7FAF79544FEEF185b50749D3f814E3748ce",
+      "outstanding": "4359652086372000000",
+      "outstandingLike": "4359652086372.0",
+      "inflated": true,
+      "tokenIds": [
+        "593"
+      ]
+    },
+    {
+      "user": "0x7fF3c36212F5B10846B7A2569b7b8a822a900050",
+      "bookNFT": "0x9cA7f7FAF79544FEEF185b50749D3f814E3748ce",
+      "outstanding": "4350950186000000000",
+      "outstandingLike": "4350950186000.0",
+      "inflated": true,
+      "tokenIds": [
+        "74"
+      ]
+    },
+    {
+      "user": "0x8F176D80F72eA56Fbf61b5E56b84414689EA26bA",
+      "bookNFT": "0x3928C8E06f5f814811f6d70ae91da85B4E133b89",
+      "outstanding": "4245524288178607673",
+      "outstandingLike": "4245524288178.607673",
+      "inflated": true,
+      "tokenIds": [
+        "42"
+      ]
+    },
+    {
+      "user": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0xd9Cd6de785C3b8F1939a8DD509019177B7D41a0E",
+      "outstanding": "4053681192838925936",
+      "outstandingLike": "4053681192838.925936",
+      "inflated": true,
+      "tokenIds": [
+        "215"
+      ]
+    },
+    {
+      "user": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x93bec61F64227EeBBD0bB14E1AeCE56D63B9e0F7",
+      "outstanding": "4027828625389897249",
+      "outstandingLike": "4027828625389.897249",
+      "inflated": true,
+      "tokenIds": [
+        "251"
+      ]
+    },
+    {
+      "user": "0x880d1303B47CF2ca05FF0cd62543Dc2752BF8B37",
+      "bookNFT": "0x9cA7f7FAF79544FEEF185b50749D3f814E3748ce",
+      "outstanding": "3863643765814099931",
+      "outstandingLike": "3863643765814.099931",
+      "inflated": true,
+      "tokenIds": [
+        "88"
+      ]
+    },
+    {
+      "user": "0x5b2Eb37B05CB28DbCE6D83Ec25071860Bc6B36CC",
+      "bookNFT": "0x955b8520D9026D6247690E0dC8c5E1b1434C4078",
+      "outstanding": "3477470785819817490",
+      "outstandingLike": "3477470785819.81749",
+      "inflated": true,
+      "tokenIds": [
+        "875"
+      ]
+    },
+    {
+      "user": "0x8450451c0ADE41470d7D376f72fd2e8e59d6af9d",
+      "bookNFT": "0x955b8520D9026D6247690E0dC8c5E1b1434C4078",
+      "outstanding": "3477470785808957962",
+      "outstandingLike": "3477470785808.957962",
+      "inflated": true,
+      "tokenIds": [
+        "907"
+      ]
+    },
+    {
+      "user": "0x3d3e5223330a00C76027852E5272f208e0e17031",
+      "bookNFT": "0x955b8520D9026D6247690E0dC8c5E1b1434C4078",
+      "outstanding": "3477470785808957962",
+      "outstandingLike": "3477470785808.957962",
+      "inflated": true,
+      "tokenIds": [
+        "931"
+      ]
+    },
+    {
+      "user": "0x1BB6c8Cb55a4AbD964e53614d60eBA9E2aB3059D",
+      "bookNFT": "0x955b8520D9026D6247690E0dC8c5E1b1434C4078",
+      "outstanding": "3477470785808957962",
+      "outstandingLike": "3477470785808.957962",
+      "inflated": true,
+      "tokenIds": [
+        "950"
+      ]
+    },
+    {
+      "user": "0xD5013D3802F2B870209058e0Ff105Bf97F8B822D",
+      "bookNFT": "0x22263b9c327817dF2B11d64dfeC2b4A754fE4457",
+      "outstanding": "2598804224816580820",
+      "outstandingLike": "2598804224816.58082",
+      "inflated": true,
+      "tokenIds": [
+        "364"
+      ]
+    },
+    {
+      "user": "0x21fedf67De7a7dd7b01B83536d333D3b35A28c6D",
+      "bookNFT": "0x22263b9c327817dF2B11d64dfeC2b4A754fE4457",
+      "outstanding": "2598804224812264492",
+      "outstandingLike": "2598804224812.264492",
+      "inflated": true,
+      "tokenIds": [
+        "939"
+      ]
+    },
+    {
+      "user": "0xB2206f941A5206B55BFA33E665687523A8bcEd80",
+      "bookNFT": "0x6f7D621827d817B80C07a644a0A75579444BE530",
+      "outstanding": "2445219252148083469",
+      "outstandingLike": "2445219252148.083469",
+      "inflated": true,
+      "tokenIds": [
+        "1360"
+      ]
+    },
+    {
+      "user": "0xC6473A964F160B24576946d5c616caDE88B0465C",
+      "bookNFT": "0x8EcBaA55E85429D968129207fad35f0d049424CA",
+      "outstanding": "2373421736388000000",
+      "outstandingLike": "2373421736388.0",
+      "inflated": true,
+      "tokenIds": [
+        "162"
+      ]
+    },
+    {
+      "user": "0xf991Da2020B7D9613036792889D3B5384cAbBFCa",
+      "bookNFT": "0x5aDCb8a737e4AaABf7Ff6b656Acd5dc60E983757",
+      "outstanding": "2337608068022211106",
+      "outstandingLike": "2337608068022.211106",
+      "inflated": true,
+      "tokenIds": [
+        "518"
+      ]
+    },
+    {
+      "user": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x6d4f3EB092a8312a52104B8786Cf5D6305261D07",
+      "outstanding": "2273744985055356764",
+      "outstandingLike": "2273744985055.356764",
+      "inflated": true,
+      "tokenIds": [
+        "247"
+      ]
+    },
+    {
+      "user": "0x66AD8D3E0db87Ae882C1788e2cda9e31cDB4F013",
+      "bookNFT": "0x5668ae4acDdE1E4143ae8229AF951CEa386a94c9",
+      "outstanding": "2234725463027100175",
+      "outstandingLike": "2234725463027.100175",
+      "inflated": true,
+      "tokenIds": [
+        "356"
+      ]
+    },
+    {
+      "user": "0x874C506D93e1bc08d735730A2e20beD16CE5bDB9",
+      "bookNFT": "0x9cA7f7FAF79544FEEF185b50749D3f814E3748ce",
+      "outstanding": "2175475093164641313",
+      "outstandingLike": "2175475093164.641313",
+      "inflated": true,
+      "tokenIds": [
+        "884"
+      ]
+    },
+    {
+      "user": "0x66AD8D3E0db87Ae882C1788e2cda9e31cDB4F013",
+      "bookNFT": "0x34091a775D8aC20C402f352BAEBa2CD7E268856d",
+      "outstanding": "2089003817689215804",
+      "outstandingLike": "2089003817689.215804",
+      "inflated": true,
+      "tokenIds": [
+        "1269"
+      ]
+    },
+    {
+      "user": "0x39c8B49Ca48d266785A01cc2141Eb936c2f11028",
+      "bookNFT": "0x97FA87D601701ea51164CfC4e0e00dde004A9CA0",
+      "outstanding": "1986567912656780083",
+      "outstandingLike": "1986567912656.780083",
+      "inflated": true,
+      "tokenIds": [
+        "847"
+      ]
+    },
+    {
+      "user": "0x4Ac887471A53186Fc07877b9aB7ac1c639fEe9E6",
+      "bookNFT": "0xa750Ef555fC0368987974b34e058200a81BEd78d",
+      "outstanding": "1938115704212109591",
+      "outstandingLike": "1938115704212.109591",
+      "inflated": true,
+      "tokenIds": [
+        "279"
+      ]
+    },
+    {
+      "user": "0xdaBD93cEcd32b0474D0f798be56ac0888B9edC6B",
+      "bookNFT": "0xa750Ef555fC0368987974b34e058200a81BEd78d",
+      "outstanding": "1916682877109551310",
+      "outstandingLike": "1916682877109.55131",
+      "inflated": true,
+      "tokenIds": [
+        "532"
+      ]
+    },
+    {
+      "user": "0xadF8936D5Fd9DFC6438c982714681a1B3d5a83c2",
+      "bookNFT": "0xa750Ef555fC0368987974b34e058200a81BEd78d",
+      "outstanding": "1916682877100000000",
+      "outstandingLike": "1916682877100.0",
+      "inflated": true,
+      "tokenIds": [
+        "11"
+      ]
+    },
+    {
+      "user": "0x23AD30B8f1d8bA2f3cE3abEAbd9666b9add798d6",
+      "bookNFT": "0x991739959726cb96f1caFF52c968f4f2912795Ff",
+      "outstanding": "1125995474000000000",
+      "outstandingLike": "1125995474000.0",
+      "inflated": true,
+      "tokenIds": [
+        "1314"
+      ]
+    },
+    {
+      "user": "0x7D08f52539A8Fa695b474513437B1Ee8Bf5112d7",
+      "bookNFT": "0x5aDCb8a737e4AaABf7Ff6b656Acd5dc60E983757",
+      "outstanding": "1123850032702986108",
+      "outstandingLike": "1123850032702.986108",
+      "inflated": true,
+      "tokenIds": [
+        "80"
+      ]
+    },
+    {
+      "user": "0x2696cBF8Ef06175cd2DDb80b928f7A8E81De1e3e",
+      "bookNFT": "0x5aDCb8a737e4AaABf7Ff6b656Acd5dc60E983757",
+      "outstanding": "1123850032700000000",
+      "outstandingLike": "1123850032700.0",
+      "inflated": true,
+      "tokenIds": [
+        "974"
+      ]
+    },
+    {
+      "user": "0xb903F6B23A14707Eb4D0FB4E31C4c4e28EDbB8e7",
+      "bookNFT": "0x8EcBaA55E85429D968129207fad35f0d049424CA",
+      "outstanding": "1119538554923705360",
+      "outstandingLike": "1119538554923.70536",
+      "inflated": true,
+      "tokenIds": [
+        "57"
+      ]
+    },
+    {
+      "user": "0x955DA9462C4960Cf9aEd82B111c12FB13704e09a",
+      "bookNFT": "0x8EcBaA55E85429D968129207fad35f0d049424CA",
+      "outstanding": "1119538554911649959",
+      "outstandingLike": "1119538554911.649959",
+      "inflated": true,
+      "tokenIds": [
+        "345"
+      ]
+    },
+    {
+      "user": "0xE0B429Fd64880A49DF7e488722e676d51D13Ed34",
+      "bookNFT": "0x8EcBaA55E85429D968129207fad35f0d049424CA",
+      "outstanding": "1119538554911649959",
+      "outstandingLike": "1119538554911.649959",
+      "inflated": true,
+      "tokenIds": [
+        "388"
+      ]
+    },
+    {
+      "user": "0x1d1F6bEbaB8A03a09fd2E28A2D152a912d4D87c9",
+      "bookNFT": "0x8EcBaA55E85429D968129207fad35f0d049424CA",
+      "outstanding": "1119538554911649959",
+      "outstandingLike": "1119538554911.649959",
+      "inflated": true,
+      "tokenIds": [
+        "389"
+      ]
+    },
+    {
+      "user": "0x342Fd1B0d75966f88870cBbAD9CAf4AFa04998E6",
+      "bookNFT": "0x8EcBaA55E85429D968129207fad35f0d049424CA",
+      "outstanding": "1119538554900000000",
+      "outstandingLike": "1119538554900.0",
+      "inflated": true,
+      "tokenIds": [
+        "338"
+      ]
+    },
+    {
+      "user": "0x874C506D93e1bc08d735730A2e20beD16CE5bDB9",
+      "bookNFT": "0x6DC830BCe79D7d6F6db60d0bFAE8389192Bbf630",
+      "outstanding": "1108674866741848124",
+      "outstandingLike": "1108674866741.848124",
+      "inflated": true,
+      "tokenIds": [
+        "877"
+      ]
+    },
+    {
+      "user": "0x02e74F3b930f8443DE58e9D3Bd57fc6b1612e627",
+      "bookNFT": "0x97FA87D601701ea51164CfC4e0e00dde004A9CA0",
+      "outstanding": "955080727200000000",
+      "outstandingLike": "955080727200.0",
+      "inflated": true,
+      "tokenIds": [
+        "911"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0xAB976072B6Be23De212437d8f42375D5131daFb9",
+      "outstanding": "810262410262416149",
+      "outstandingLike": "810262410262.416149",
+      "inflated": true,
+      "tokenIds": [
+        "111"
+      ]
+    },
+    {
+      "user": "0xF0177457dD06f99fA1973aDA68903DdF3B6De2BD",
+      "bookNFT": "0x93bec61F64227EeBBD0bB14E1AeCE56D63B9e0F7",
+      "outstanding": "805565725028869086",
+      "outstandingLike": "805565725028.869086",
+      "inflated": true,
+      "tokenIds": [
+        "1168"
+      ]
+    },
+    {
+      "user": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x21E66DBd47d6376242956DaA7348682EBAd79D3B",
+      "outstanding": "726883653775379742",
+      "outstandingLike": "726883653775.379742",
+      "inflated": true,
+      "tokenIds": [
+        "261"
+      ]
+    },
+    {
+      "user": "0x9Bd0787873B50990c14Ef9155D7a095753C22485",
+      "bookNFT": "0x22263b9c327817dF2B11d64dfeC2b4A754fE4457",
+      "outstanding": "649701056200307931",
+      "outstandingLike": "649701056200.307931",
+      "inflated": true,
+      "tokenIds": [
+        "550"
+      ]
+    },
+    {
+      "user": "0x5b2Eb37B05CB28DbCE6D83Ec25071860Bc6B36CC",
+      "bookNFT": "0x991739959726cb96f1caFF52c968f4f2912795Ff",
+      "outstanding": "562997737001049583",
+      "outstandingLike": "562997737001.049583",
+      "inflated": true,
+      "tokenIds": [
+        "1304"
+      ]
+    },
+    {
+      "user": "0x02e74F3b930f8443DE58e9D3Bd57fc6b1612e627",
+      "bookNFT": "0x6d4f3EB092a8312a52104B8786Cf5D6305261D07",
+      "outstanding": "454748996800000000",
+      "outstandingLike": "454748996800.0",
+      "inflated": true,
+      "tokenIds": [
+        "1203"
+      ]
+    },
+    {
+      "user": "0xA3920714f9fDf92eCa5e112017Ab1D31cFcb8588",
+      "bookNFT": "0x9cA7f7FAF79544FEEF185b50749D3f814E3748ce",
+      "outstanding": "435095018632928262",
+      "outstandingLike": "435095018632.928262",
+      "inflated": true,
+      "tokenIds": [
+        "618"
+      ]
+    },
+    {
+      "user": "0xDc7cd28a98E780711D72CC0a7AB484B3ccF89910",
+      "bookNFT": "0x955b8520D9026D6247690E0dC8c5E1b1434C4078",
+      "outstanding": "347747078581981749",
+      "outstandingLike": "347747078581.981749",
+      "inflated": true,
+      "tokenIds": [
+        "872"
+      ]
+    },
+    {
+      "user": "0x9Bd0787873B50990c14Ef9155D7a095753C22485",
+      "bookNFT": "0x97FA87D601701ea51164CfC4e0e00dde004A9CA0",
+      "outstanding": "334278254522027213",
+      "outstandingLike": "334278254522.027213",
+      "inflated": true,
+      "tokenIds": [
+        "402"
+      ]
+    },
+    {
+      "user": "0x9Bd0787873B50990c14Ef9155D7a095753C22485",
+      "bookNFT": "0x8EcBaA55E85429D968129207fad35f0d049424CA",
+      "outstanding": "279884638725000000",
+      "outstandingLike": "279884638725.0",
+      "inflated": true,
+      "tokenIds": [
+        "545"
+      ]
+    },
+    {
+      "user": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x6f7D621827d817B80C07a644a0A75579444BE530",
+      "outstanding": "244521926200600678",
+      "outstandingLike": "244521926200.600678",
+      "inflated": true,
+      "tokenIds": [
+        "866"
+      ]
+    },
+    {
+      "user": "0x625B192B5019bcA08F4C312ba4319203e5e07e94",
+      "bookNFT": "0x8EcBaA55E85429D968129207fad35f0d049424CA",
+      "outstanding": "223907710980000000",
+      "outstandingLike": "223907710980.0",
+      "inflated": true,
+      "tokenIds": [
+        "376"
+      ]
+    },
+    {
+      "user": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x5668ae4acDdE1E4143ae8229AF951CEa386a94c9",
+      "outstanding": "223472546302710017",
+      "outstandingLike": "223472546302.710017",
+      "inflated": true,
+      "tokenIds": [
+        "305"
+      ]
+    },
+    {
+      "user": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x34091a775D8aC20C402f352BAEBa2CD7E268856d",
+      "outstanding": "208900381994720364",
+      "outstandingLike": "208900381994.720364",
+      "inflated": true,
+      "tokenIds": [
+        "1191"
+      ]
+    },
+    {
+      "user": "0x9Bd0787873B50990c14Ef9155D7a095753C22485",
+      "bookNFT": "0x3928C8E06f5f814811f6d70ae91da85B4E133b89",
+      "outstanding": "207492096527680387",
+      "outstandingLike": "207492096527.680387",
+      "inflated": true,
+      "tokenIds": [
+        "400"
+      ]
+    },
+    {
+      "user": "0xf28bAAD89cdFb9CAEDA0cA7bB4A978ADBD432ed5",
+      "bookNFT": "0xa750Ef555fC0368987974b34e058200a81BEd78d",
+      "outstanding": "191668287715869858",
+      "outstandingLike": "191668287715.869858",
+      "inflated": true,
+      "tokenIds": [
+        "14"
+      ]
+    },
+    {
+      "user": "0x6f72fAa82c120ca06E25d01D7123EfF09257fcD3",
+      "bookNFT": "0x21E66DBd47d6376242956DaA7348682EBAd79D3B",
+      "outstanding": "145376730648427152",
+      "outstandingLike": "145376730648.427152",
+      "inflated": true,
+      "tokenIds": [
+        "415"
+      ]
+    },
+    {
+      "user": "0x3FfC07ED6a65E379E39Bef93e713ee3Ff77a56e4",
+      "bookNFT": "0x5aDCb8a737e4AaABf7Ff6b656Acd5dc60E983757",
+      "outstanding": "112385003974414223",
+      "outstandingLike": "112385003974.414223",
+      "inflated": true,
+      "tokenIds": [
+        "5"
+      ]
+    },
+    {
+      "user": "0x8EB12Be95E325376721Dd6dDeA39306171fAc71d",
+      "bookNFT": "0x5aDCb8a737e4AaABf7Ff6b656Acd5dc60E983757",
+      "outstanding": "112385003270298610",
+      "outstandingLike": "112385003270.29861",
+      "inflated": true,
+      "tokenIds": [
+        "420"
+      ]
+    },
+    {
+      "user": "0x9d22F2058b4EA321dE701c75fB907d806e5922BA",
+      "bookNFT": "0x8EcBaA55E85429D968129207fad35f0d049424CA",
+      "outstanding": "111953855492370536",
+      "outstandingLike": "111953855492.370536",
+      "inflated": true,
+      "tokenIds": [
+        "0"
+      ]
+    },
+    {
+      "user": "0x6bc21A147962a8399C82D50445a8B479e7817335",
+      "bookNFT": "0x8EcBaA55E85429D968129207fad35f0d049424CA",
+      "outstanding": "111953855491164995",
+      "outstandingLike": "111953855491.164995",
+      "inflated": true,
+      "tokenIds": [
+        "259"
+      ]
+    },
+    {
+      "user": "0x24cD9d885Fe462354E74BdC5361E0886441875DC",
+      "bookNFT": "0x8EcBaA55E85429D968129207fad35f0d049424CA",
+      "outstanding": "111953855491164995",
+      "outstandingLike": "111953855491.164995",
+      "inflated": true,
+      "tokenIds": [
+        "284"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x955b8520D9026D6247690E0dC8c5E1b1434C4078",
+      "outstanding": "104324123574175897",
+      "outstandingLike": "104324123574.175897",
+      "inflated": true,
+      "tokenIds": [
+        "900"
+      ]
+    },
+    {
+      "user": "0x24cD9d885Fe462354E74BdC5361E0886441875DC",
+      "bookNFT": "0x3928C8E06f5f814811f6d70ae91da85B4E133b89",
+      "outstanding": "82996838611912060",
+      "outstandingLike": "82996838611.91206",
+      "inflated": true,
+      "tokenIds": [
+        "331"
+      ]
+    },
+    {
+      "user": "0x8EB12Be95E325376721Dd6dDeA39306171fAc71d",
+      "bookNFT": "0x3928C8E06f5f814811f6d70ae91da85B4E133b89",
+      "outstanding": "82996838611912060",
+      "outstandingLike": "82996838611.91206",
+      "inflated": true,
+      "tokenIds": [
+        "514"
+      ]
+    },
+    {
+      "user": "0x625B192B5019bcA08F4C312ba4319203e5e07e94",
+      "bookNFT": "0x3928C8E06f5f814811f6d70ae91da85B4E133b89",
+      "outstanding": "82996838610828781",
+      "outstandingLike": "82996838610.828781",
+      "inflated": true,
+      "tokenIds": [
+        "380"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x22263b9c327817dF2B11d64dfeC2b4A754fE4457",
+      "outstanding": "77964126744367934",
+      "outstandingLike": "77964126744.367934",
+      "inflated": true,
+      "tokenIds": [
+        "789"
+      ]
+    },
+    {
+      "user": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x2fa5F63792Ea0f3501C842417eF8E61F41c5E60f",
+      "outstanding": "72360262740356301",
+      "outstandingLike": "72360262740.356301",
+      "inflated": true,
+      "tokenIds": [
+        "244"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x0d9daD7d5BA162c98260398B5494cC133292b5Ad",
+      "outstanding": "72124194882319750",
+      "outstandingLike": "72124194882.31975",
+      "inflated": true,
+      "tokenIds": [
+        "715"
+      ]
+    },
+    {
+      "user": "0x9ec2660D482F5aE9CdC6835Af0A4f604701A93e5",
+      "bookNFT": "0x955b8520D9026D6247690E0dC8c5E1b1434C4078",
+      "outstanding": "71288151108980734",
+      "outstandingLike": "71288151108.980734",
+      "inflated": true,
+      "tokenIds": [
+        "1223"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0xa750Ef555fC0368987974b34e058200a81BEd78d",
+      "outstanding": "57500486313000000",
+      "outstandingLike": "57500486313.0",
+      "inflated": true,
+      "tokenIds": [
+        "788"
+      ]
+    },
+    {
+      "user": "0x3d3e5223330a00C76027852E5272f208e0e17031",
+      "bookNFT": "0x51D9A55CeeA0fc14BD8DbA60af5284F0e17fC936",
+      "outstanding": "49905198686821264",
+      "outstandingLike": "49905198686.821264",
+      "inflated": true,
+      "tokenIds": [
+        "289"
+      ]
+    },
+    {
+      "user": "0x8F176D80F72eA56Fbf61b5E56b84414689EA26bA",
+      "bookNFT": "0x9cA7f7FAF79544FEEF185b50749D3f814E3748ce",
+      "outstanding": "43509501863292826",
+      "outstandingLike": "43509501863.292826",
+      "inflated": true,
+      "tokenIds": [
+        "45"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x991739959726cb96f1caFF52c968f4f2912795Ff",
+      "outstanding": "33779865008772358",
+      "outstandingLike": "33779865008.772358",
+      "inflated": true,
+      "tokenIds": [
+        "1144"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x5aDCb8a737e4AaABf7Ff6b656Acd5dc60E983757",
+      "outstanding": "33715500981089583",
+      "outstandingLike": "33715500981.089583",
+      "inflated": true,
+      "tokenIds": [
+        "797"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x8EcBaA55E85429D968129207fad35f0d049424CA",
+      "outstanding": "33586156647349498",
+      "outstandingLike": "33586156647.349498",
+      "inflated": true,
+      "tokenIds": [
+        "773"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x6DC830BCe79D7d6F6db60d0bFAE8389192Bbf630",
+      "outstanding": "33260246002227140",
+      "outstandingLike": "33260246002.22714",
+      "inflated": true,
+      "tokenIds": [
+        "834"
+      ]
+    },
+    {
+      "user": "0x8F176D80F72eA56Fbf61b5E56b84414689EA26bA",
+      "bookNFT": "0xAB976072B6Be23De212437d8f42375D5131daFb9",
+      "outstanding": "32804146164470289",
+      "outstandingLike": "32804146164.470289",
+      "inflated": true,
+      "tokenIds": [
+        "40"
+      ]
+    },
+    {
+      "user": "0x8EB12Be95E325376721Dd6dDeA39306171fAc71d",
+      "bookNFT": "0xAB976072B6Be23De212437d8f42375D5131daFb9",
+      "outstanding": "32804146164470289",
+      "outstandingLike": "32804146164.470289",
+      "inflated": true,
+      "tokenIds": [
+        "487"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x3ccD28dfa50a169435002b0BC3A363a0A7E23aa0",
+      "outstanding": "32341276869466175",
+      "outstandingLike": "32341276869.466175",
+      "inflated": true,
+      "tokenIds": [
+        "1125"
+      ]
+    },
+    {
+      "user": "0x8EB12Be95E325376721Dd6dDeA39306171fAc71d",
+      "bookNFT": "0xdDBa03e8e8459d4afD9ac6eA226209b7E56d5AF1",
+      "outstanding": "30034509496433437",
+      "outstandingLike": "30034509496.433437",
+      "inflated": true,
+      "tokenIds": [
+        "421"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x97FA87D601701ea51164CfC4e0e00dde004A9CA0",
+      "outstanding": "28652421817165097",
+      "outstandingLike": "28652421817.165097",
+      "inflated": true,
+      "tokenIds": [
+        "804"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x3928C8E06f5f814811f6d70ae91da85B4E133b89",
+      "outstanding": "24899051583524954",
+      "outstandingLike": "24899051583.524954",
+      "inflated": true,
+      "tokenIds": [
+        "781"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x93bec61F64227EeBBD0bB14E1AeCE56D63B9e0F7",
+      "outstanding": "24166971751219602",
+      "outstandingLike": "24166971751.219602",
+      "inflated": true,
+      "tokenIds": [
+        "709"
+      ]
+    },
+    {
+      "user": "0x8F176D80F72eA56Fbf61b5E56b84414689EA26bA",
+      "bookNFT": "0x0d9daD7d5BA162c98260398B5494cC133292b5Ad",
+      "outstanding": "24041398294068009",
+      "outstandingLike": "24041398294.068009",
+      "inflated": true,
+      "tokenIds": [
+        "49"
+      ]
+    },
+    {
+      "user": "0xbf2217e4d458B4219DF6943853a053Ad4db772fa",
+      "bookNFT": "0x6d4f3EB092a8312a52104B8786Cf5D6305261D07",
+      "outstanding": "22737449842222145",
+      "outstandingLike": "22737449842.222145",
+      "inflated": true,
+      "tokenIds": [
+        "1002"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x51D9A55CeeA0fc14BD8DbA60af5284F0e17fC936",
+      "outstanding": "14971559604131351",
+      "outstandingLike": "14971559604.131351",
+      "inflated": true,
+      "tokenIds": [
+        "742"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x3ed61aeeC1DA28A93eE9963f2D21FdD802CBc063",
+      "outstanding": "14843867218163471",
+      "outstandingLike": "14843867218.163471",
+      "inflated": true,
+      "tokenIds": [
+        "776"
+      ]
+    },
+    {
+      "user": "0x24cD9d885Fe462354E74BdC5361E0886441875DC",
+      "bookNFT": "0x21E66DBd47d6376242956DaA7348682EBAd79D3B",
+      "outstanding": "14537673075507594",
+      "outstandingLike": "14537673075.507594",
+      "inflated": true,
+      "tokenIds": [
+        "281"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x9cA7f7FAF79544FEEF185b50749D3f814E3748ce",
+      "outstanding": "13052850558987847",
+      "outstandingLike": "13052850558.987847",
+      "inflated": true,
+      "tokenIds": [
+        "770"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0xd9Cd6de785C3b8F1939a8DD509019177B7D41a0E",
+      "outstanding": "12161043578516777",
+      "outstandingLike": "12161043578.516777",
+      "inflated": true,
+      "tokenIds": [
+        "731"
+      ]
+    },
+    {
+      "user": "0x895383ad6b172E00DB94c29d5a5C60D61dc5BB2d",
+      "bookNFT": "0x8EcBaA55E85429D968129207fad35f0d049424CA",
+      "outstanding": "11195385549116499",
+      "outstandingLike": "11195385549.116499",
+      "inflated": true,
+      "tokenIds": [
+        "387"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0xdDBa03e8e8459d4afD9ac6eA226209b7E56d5AF1",
+      "outstanding": "9010352848473815",
+      "outstandingLike": "9010352848.473815",
+      "inflated": true,
+      "tokenIds": [
+        "765"
+      ]
+    },
+    {
+      "user": "0xFF3cbb33c42049ba23C313f05F2907285Ef9086f",
+      "bookNFT": "0x78b29A83c1Ef7a7ef0faA0eC11Cb3809E5B78402",
+      "outstanding": "7698468369846759",
+      "outstandingLike": "7698468369.846759",
+      "inflated": true,
+      "tokenIds": [
+        "981"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x6f7D621827d817B80C07a644a0A75579444BE530",
+      "outstanding": "7335657775531606",
+      "outstandingLike": "7335657775.531606",
+      "inflated": true,
+      "tokenIds": [
+        "899"
+      ]
+    },
+    {
+      "user": "0x8EB12Be95E325376721Dd6dDeA39306171fAc71d",
+      "bookNFT": "0x2fa5F63792Ea0f3501C842417eF8E61F41c5E60f",
+      "outstanding": "7236026274035630",
+      "outstandingLike": "7236026274.03563",
+      "inflated": true,
+      "tokenIds": [
+        "495"
+      ]
+    },
+    {
+      "user": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x7d05a166589a26A892BE616579a05432a2401314",
+      "outstanding": "7001643647968258",
+      "outstandingLike": "7001643647.968258",
+      "inflated": true,
+      "tokenIds": [
+        "304"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x6d4f3EB092a8312a52104B8786Cf5D6305261D07",
+      "outstanding": "6821234955166070",
+      "outstandingLike": "6821234955.16607",
+      "inflated": true,
+      "tokenIds": [
+        "728"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x5668ae4acDdE1E4143ae8229AF951CEa386a94c9",
+      "outstanding": "6704176387915267",
+      "outstandingLike": "6704176387.915267",
+      "inflated": true,
+      "tokenIds": [
+        "747"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0xB790e3B54f17eBC1534F5096438b227AEc613C4e",
+      "outstanding": "6416217437738432",
+      "outstandingLike": "6416217437.738432",
+      "inflated": true,
+      "tokenIds": [
+        "1119"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x34091a775D8aC20C402f352BAEBa2CD7E268856d",
+      "outstanding": "6267011453067647",
+      "outstandingLike": "6267011453.067647",
+      "inflated": true,
+      "tokenIds": [
+        "1236"
+      ]
+    },
+    {
+      "user": "0x3B5a2B705f21398c0329581570618082a7D4c12c",
+      "bookNFT": "0x22263b9c327817dF2B11d64dfeC2b4A754fE4457",
+      "outstanding": "6237130139541492",
+      "outstandingLike": "6237130139.541492",
+      "inflated": true,
+      "tokenIds": [
+        "1090"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x21E66DBd47d6376242956DaA7348682EBAd79D3B",
+      "outstanding": "4361301919452814",
+      "outstandingLike": "4361301919.452814",
+      "inflated": true,
+      "tokenIds": [
+        "720"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x0526Eb0EDF7707683f1bA4DCf8Ad35b853490762",
+      "outstanding": "3613291981430258",
+      "outstandingLike": "3613291981.430258",
+      "inflated": true,
+      "tokenIds": [
+        "805"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0xb73f103207aB7A1e7c0c1f3218f52dF5bb812C32",
+      "outstanding": "2585435547811560",
+      "outstandingLike": "2585435547.81156",
+      "inflated": true,
+      "tokenIds": [
+        "806"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0xF9e993C8a9fBc63a910DCd1B02b3359cCC373919",
+      "outstanding": "2198772522923929",
+      "outstandingLike": "2198772522.923929",
+      "inflated": true,
+      "tokenIds": [
+        "986"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x2fa5F63792Ea0f3501C842417eF8E61F41c5E60f",
+      "outstanding": "2170807882210689",
+      "outstandingLike": "2170807882.210689",
+      "inflated": true,
+      "tokenIds": [
+        "685"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x7d05a166589a26A892BE616579a05432a2401314",
+      "outstanding": "2100492965196041",
+      "outstandingLike": "2100492965.196041",
+      "inflated": true,
+      "tokenIds": [
+        "643"
+      ]
+    },
+    {
+      "user": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x97FA87D601701ea51164CfC4e0e00dde004A9CA0",
+      "outstanding": "84448237902457",
+      "outstandingLike": "84448237.902457",
+      "inflated": true,
+      "tokenIds": [
+        "117"
+      ]
+    },
+    {
+      "user": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0x955b8520D9026D6247690E0dC8c5E1b1434C4078",
+      "outstanding": "15015387790",
+      "outstandingLike": "15015.38779",
+      "inflated": true,
+      "tokenIds": [
+        "1518"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x97770A1E0023046D387aC987BbCC100f35a14844",
+      "outstanding": "6270726970",
+      "outstandingLike": "6270.72697",
+      "inflated": true,
+      "tokenIds": [
+        "719"
+      ]
+    },
+    {
+      "user": "0x36F322fC85B24aB13263CFE9217B28f8E2b38381",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "outstanding": "4647613800",
+      "outstandingLike": "4647.6138",
+      "inflated": true,
+      "tokenIds": [
+        "576"
+      ]
+    },
+    {
+      "user": "0x3FfC07ED6a65E379E39Bef93e713ee3Ff77a56e4",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "outstanding": "3548243566",
+      "outstandingLike": "3548.243566",
+      "inflated": true,
+      "tokenIds": [
+        "535"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x91A7e8b5a3331cAf708ad3F90C71Cec10f37B125",
+      "outstanding": "3377185167",
+      "outstandingLike": "3377.185167",
+      "inflated": true,
+      "tokenIds": [
+        "794"
+      ]
+    },
+    {
+      "user": "0x3f31371E915efe4067C241b9dDC919919b6871c5",
+      "bookNFT": "0x97770A1E0023046D387aC987BbCC100f35a14844",
+      "outstanding": "2464874280",
+      "outstandingLike": "2464.87428",
+      "inflated": true,
+      "tokenIds": [
+        "853"
+      ]
+    },
+    {
+      "user": "0xC3667DcAD0d71301E913b6cb8741538B7CFe251c",
+      "bookNFT": "0x9483913D6207c0Dd3c54D7856C23145F1279cA52",
+      "outstanding": "2322138211",
+      "outstandingLike": "2322.138211",
+      "inflated": true,
+      "tokenIds": [
+        "129"
+      ]
+    },
+    {
+      "user": "0xBCa9846312aA78aB6f570FfaDee22863B1163FC1",
+      "bookNFT": "0x9483913D6207c0Dd3c54D7856C23145F1279cA52",
+      "outstanding": "2098145488",
+      "outstandingLike": "2098.145488",
+      "inflated": true,
+      "tokenIds": [
+        "617"
+      ]
+    },
+    {
+      "user": "0xC3667DcAD0d71301E913b6cb8741538B7CFe251c",
+      "bookNFT": "0xA20Cc05e12F456b2b97aE2fDAbE0952598831f1C",
+      "outstanding": "1969575813",
+      "outstandingLike": "1969.575813",
+      "inflated": true,
+      "tokenIds": [
+        "1340"
+      ]
+    },
+    {
+      "user": "0x310CFFB4198eCBf3F1f9064846d7473E177621AE",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "outstanding": "1965926565",
+      "outstandingLike": "1965.926565",
+      "inflated": true,
+      "tokenIds": [
+        "921"
+      ]
+    },
+    {
+      "user": "0x662A79fBc9ae681d7cD19A7275Aa8b3187CcA622",
+      "bookNFT": "0x4D69ecb8Da3B16D5828eC0DCd17B1310Cb96D3A0",
+      "outstanding": "1229902460",
+      "outstandingLike": "1229.90246",
+      "inflated": true,
+      "tokenIds": [
+        "1433"
+      ]
+    },
+    {
+      "user": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x97770A1E0023046D387aC987BbCC100f35a14844",
+      "outstanding": "1201291810",
+      "outstandingLike": "1201.29181",
+      "inflated": true,
+      "tokenIds": [
+        "297"
+      ]
+    },
+    {
+      "user": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0x8EcBaA55E85429D968129207fad35f0d049424CA",
+      "outstanding": "820042582",
+      "outstandingLike": "820.042582",
+      "inflated": true,
+      "tokenIds": [
+        "1517"
+      ]
+    },
+    {
+      "user": "0xF0269C48252Cd4c942A54F7c2e1a0D5870FDb348",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "outstanding": "763583590",
+      "outstandingLike": "763.58359",
+      "inflated": true,
+      "tokenIds": [
+        "918"
+      ]
+    },
+    {
+      "user": "0x36F322fC85B24aB13263CFE9217B28f8E2b38381",
+      "bookNFT": "0xb8Ae0a0C0380F81F4b14120A948228BACC327415",
+      "outstanding": "711474283",
+      "outstandingLike": "711.474283",
+      "inflated": true,
+      "tokenIds": [
+        "609"
+      ]
+    },
+    {
+      "user": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x19B884c94b9E27f14e997db63dFa8F1F5EF40E2c",
+      "outstanding": "662613270",
+      "outstandingLike": "662.61327",
+      "inflated": true,
+      "tokenIds": [
+        "148"
+      ]
+    },
+    {
+      "user": "0xC4B2d5a6eDba534A848336173e4136f078E1b7ef",
+      "bookNFT": "0xa1D7F3e0a45206CFf39110aF4a7542407289e829",
+      "outstanding": "610803341",
+      "outstandingLike": "610.803341",
+      "inflated": true,
+      "tokenIds": [
+        "97"
+      ]
+    },
+    {
+      "user": "0x3FfC07ED6a65E379E39Bef93e713ee3Ff77a56e4",
+      "bookNFT": "0x6EEf0D7C24c6b872e480154dEb8b7430f54603E3",
+      "outstanding": "571399441",
+      "outstandingLike": "571.399441",
+      "inflated": true,
+      "tokenIds": [
+        "374"
+      ]
+    },
+    {
+      "user": "0xC3667DcAD0d71301E913b6cb8741538B7CFe251c",
+      "bookNFT": "0xa1D7F3e0a45206CFf39110aF4a7542407289e829",
+      "outstanding": "569865797",
+      "outstandingLike": "569.865797",
+      "inflated": true,
+      "tokenIds": [
+        "1084"
+      ]
+    },
+    {
+      "user": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0xA20Cc05e12F456b2b97aE2fDAbE0952598831f1C",
+      "outstanding": "500503612",
+      "outstandingLike": "500.503612",
+      "inflated": true,
+      "tokenIds": [
+        "1188"
+      ]
+    },
+    {
+      "user": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x87140Bef332E48D1F2341db740E388460609152E",
+      "outstanding": "453125399",
+      "outstandingLike": "453.125399",
+      "inflated": false,
+      "tokenIds": [
+        "311"
+      ]
+    },
+    {
+      "user": "0xa17Cf0B41dFA1c18ef832c486e084C962A997eFE",
+      "bookNFT": "0x91A7e8b5a3331cAf708ad3F90C71Cec10f37B125",
+      "outstanding": "443662190",
+      "outstandingLike": "443.66219",
+      "inflated": true,
+      "tokenIds": [
+        "589"
+      ]
+    },
+    {
+      "user": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x8Abc20B4506988B555117e43A701D8658A9D370f",
+      "outstanding": "432092318",
+      "outstandingLike": "432.092318",
+      "inflated": true,
+      "tokenIds": [
+        "210"
+      ]
+    },
+    {
+      "user": "0xC6473A964F160B24576946d5c616caDE88B0465C",
+      "bookNFT": "0x91A7e8b5a3331cAf708ad3F90C71Cec10f37B125",
+      "outstanding": "389717156",
+      "outstandingLike": "389.717156",
+      "inflated": true,
+      "tokenIds": [
+        "157"
+      ]
+    },
+    {
+      "user": "0xac770FE814f733a7c74F3698e9ff49b0AcEFDa75",
+      "bookNFT": "0xd984aBfe4F9dcdbee653bF9d1247EDD0e2102C51",
+      "outstanding": "378246862",
+      "outstandingLike": "378.246862",
+      "inflated": true,
+      "tokenIds": [
+        "107"
+      ]
+    },
+    {
+      "user": "0x66AD8D3E0db87Ae882C1788e2cda9e31cDB4F013",
+      "bookNFT": "0x97770A1E0023046D387aC987BbCC100f35a14844",
+      "outstanding": "376181596",
+      "outstandingLike": "376.181596",
+      "inflated": true,
+      "tokenIds": [
+        "1050"
+      ]
+    },
+    {
+      "user": "0x662A79fBc9ae681d7cD19A7275Aa8b3187CcA622",
+      "bookNFT": "0x3bf42DA7f5781d3940B2318484c907Ee33e81d8D",
+      "outstanding": "363592437",
+      "outstandingLike": "363.592437",
+      "inflated": true,
+      "tokenIds": [
+        "968"
+      ]
+    },
+    {
+      "user": "0x64110F5bd00561cC7D1Df17f8FAf7168A80985Ac",
+      "bookNFT": "0x5a84A921113340E8edD133931b55EB6e855259Ce",
+      "outstanding": "355859369",
+      "outstandingLike": "355.859369",
+      "inflated": true,
+      "tokenIds": [
+        "361"
+      ]
+    },
+    {
+      "user": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0x6f7D621827d817B80C07a644a0A75579444BE530",
+      "outstanding": "348006992",
+      "outstandingLike": "348.006992",
+      "inflated": true,
+      "tokenIds": [
+        "1505"
+      ]
+    },
+    {
+      "user": "0x662A79fBc9ae681d7cD19A7275Aa8b3187CcA622",
+      "bookNFT": "0x6EEf0D7C24c6b872e480154dEb8b7430f54603E3",
+      "outstanding": "295694330",
+      "outstandingLike": "295.69433",
+      "inflated": true,
+      "tokenIds": [
+        "963"
+      ]
+    },
+    {
+      "user": "0x35cf10a5D2a240b9cB7Ac44442B8A326F6961e66",
+      "bookNFT": "0x19B884c94b9E27f14e997db63dFa8F1F5EF40E2c",
+      "outstanding": "288567377",
+      "outstandingLike": "288.567377",
+      "inflated": true,
+      "tokenIds": [
+        "131"
+      ]
+    },
+    {
+      "user": "0x662A79fBc9ae681d7cD19A7275Aa8b3187CcA622",
+      "bookNFT": "0x6B9184df38427a61814e638900fd9BE999E0bD02",
+      "outstanding": "267421949",
+      "outstandingLike": "267.421949",
+      "inflated": true,
+      "tokenIds": [
+        "1067"
+      ]
+    },
+    {
+      "user": "0x8F176D80F72eA56Fbf61b5E56b84414689EA26bA",
+      "bookNFT": "0xD08EB66DAe9Bad58626ac4ED6A4a102b134b7457",
+      "outstanding": "264619170",
+      "outstandingLike": "264.61917",
+      "inflated": true,
+      "tokenIds": [
+        "915"
+      ]
+    },
+    {
+      "user": "0x2696cBF8Ef06175cd2DDb80b928f7A8E81De1e3e",
+      "bookNFT": "0x9483913D6207c0Dd3c54D7856C23145F1279cA52",
+      "outstanding": "257934868",
+      "outstandingLike": "257.934868",
+      "inflated": true,
+      "tokenIds": [
+        "912"
+      ]
+    },
+    {
+      "user": "0x8F176D80F72eA56Fbf61b5E56b84414689EA26bA",
+      "bookNFT": "0xa2223E10aE8Db458FB5c599DA3BBF95BB6665e23",
+      "outstanding": "239929146",
+      "outstandingLike": "239.929146",
+      "inflated": true,
+      "tokenIds": [
+        "46"
+      ]
+    },
+    {
+      "user": "0x874C506D93e1bc08d735730A2e20beD16CE5bDB9",
+      "bookNFT": "0x91A7e8b5a3331cAf708ad3F90C71Cec10f37B125",
+      "outstanding": "221831095",
+      "outstandingLike": "221.831095",
+      "inflated": true,
+      "tokenIds": [
+        "893"
+      ]
+    },
+    {
+      "user": "0x12cF06fC70CbcBfD9E8e1676029f7189053Ac981",
+      "bookNFT": "0x6EEf0D7C24c6b872e480154dEb8b7430f54603E3",
+      "outstanding": "193438204",
+      "outstandingLike": "193.438204",
+      "inflated": true,
+      "tokenIds": [
+        "375"
+      ]
+    },
+    {
+      "user": "0x66AD8D3E0db87Ae882C1788e2cda9e31cDB4F013",
+      "bookNFT": "0x91A7e8b5a3331cAf708ad3F90C71Cec10f37B125",
+      "outstanding": "176921914",
+      "outstandingLike": "176.921914",
+      "inflated": true,
+      "tokenIds": [
+        "354"
+      ]
+    },
+    {
+      "user": "0xb903F6B23A14707Eb4D0FB4E31C4c4e28EDbB8e7",
+      "bookNFT": "0x6EEf0D7C24c6b872e480154dEb8b7430f54603E3",
+      "outstanding": "173543835",
+      "outstandingLike": "173.543835",
+      "inflated": true,
+      "tokenIds": [
+        "1109"
+      ]
+    },
+    {
+      "user": "0x662A79fBc9ae681d7cD19A7275Aa8b3187CcA622",
+      "bookNFT": "0xA20Cc05e12F456b2b97aE2fDAbE0952598831f1C",
+      "outstanding": "156980652",
+      "outstandingLike": "156.980652",
+      "inflated": true,
+      "tokenIds": [
+        "1439"
+      ]
+    },
+    {
+      "user": "0xB7f78A12c040ab03eEd909915a3605B91cb099f5",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "outstanding": "153862312",
+      "outstandingLike": "153.862312",
+      "inflated": true,
+      "tokenIds": [
+        "571"
+      ]
+    },
+    {
+      "user": "0x7D08f52539A8Fa695b474513437B1Ee8Bf5112d7",
+      "bookNFT": "0x334C13ABf78D5d29DDd32fca627179a5059B5814",
+      "outstanding": "134370399",
+      "outstandingLike": "134.370399",
+      "inflated": true,
+      "tokenIds": [
+        "50"
+      ]
+    },
+    {
+      "user": "0x63252957c9f9a6E7D4558Fd7cC64Be55E8d38A81",
+      "bookNFT": "0xeC56635DC9a3dC8bF453a1A960917F3A5eF265ec",
+      "outstanding": "132390424",
+      "outstandingLike": "132.390424",
+      "inflated": true,
+      "tokenIds": [
+        "144"
+      ]
+    },
+    {
+      "user": "0xea7d3868A81bBbB8814AFe37E199fc6ed49c3CaE",
+      "bookNFT": "0x9483913D6207c0Dd3c54D7856C23145F1279cA52",
+      "outstanding": "113881119",
+      "outstandingLike": "113.881119",
+      "inflated": true,
+      "tokenIds": [
+        "1352"
+      ]
+    },
+    {
+      "user": "0xa037Feb6508A8C2F93bb19f6721730C45921f2D0",
+      "bookNFT": "0x91A7e8b5a3331cAf708ad3F90C71Cec10f37B125",
+      "outstanding": "110904147",
+      "outstandingLike": "110.904147",
+      "inflated": true,
+      "tokenIds": [
+        "181"
+      ]
+    },
+    {
+      "user": "0x8F176D80F72eA56Fbf61b5E56b84414689EA26bA",
+      "bookNFT": "0x19B884c94b9E27f14e997db63dFa8F1F5EF40E2c",
+      "outstanding": "103298400",
+      "outstandingLike": "103.2984",
+      "inflated": true,
+      "tokenIds": [
+        "30"
+      ]
+    },
+    {
+      "user": "0x8F176D80F72eA56Fbf61b5E56b84414689EA26bA",
+      "bookNFT": "0x6B9184df38427a61814e638900fd9BE999E0bD02",
+      "outstanding": "96784271",
+      "outstandingLike": "96.784271",
+      "inflated": true,
+      "tokenIds": [
+        "1086"
+      ]
+    },
+    {
+      "user": "0xC3667DcAD0d71301E913b6cb8741538B7CFe251c",
+      "bookNFT": "0x334C13ABf78D5d29DDd32fca627179a5059B5814",
+      "outstanding": "87629489",
+      "outstandingLike": "87.629489",
+      "inflated": true,
+      "tokenIds": [
+        "15"
+      ]
+    },
+    {
+      "user": "0x0686BcD9e5A94d9f0b29EA7Ce1887d8B2dA21e86",
+      "bookNFT": "0x334C13ABf78D5d29DDd32fca627179a5059B5814",
+      "outstanding": "87629489",
+      "outstandingLike": "87.629489",
+      "inflated": true,
+      "tokenIds": [
+        "173"
+      ]
+    },
+    {
+      "user": "0x66AD8D3E0db87Ae882C1788e2cda9e31cDB4F013",
+      "bookNFT": "0x334C13ABf78D5d29DDd32fca627179a5059B5814",
+      "outstanding": "87629489",
+      "outstandingLike": "87.629489",
+      "inflated": true,
+      "tokenIds": [
+        "583"
+      ]
+    },
+    {
+      "user": "0xe584099C39d0eaE355C6b0F003767DD53dFb8F6a",
+      "bookNFT": "0x334C13ABf78D5d29DDd32fca627179a5059B5814",
+      "outstanding": "87629489",
+      "outstandingLike": "87.629489",
+      "inflated": true,
+      "tokenIds": [
+        "818"
+      ]
+    },
+    {
+      "user": "0xdc6B04B4e40fDe7c0e9ee1171F913FebDbB4b88B",
+      "bookNFT": "0xa1D7F3e0a45206CFf39110aF4a7542407289e829",
+      "outstanding": "85221059",
+      "outstandingLike": "85.221059",
+      "inflated": true,
+      "tokenIds": [
+        "416"
+      ]
+    },
+    {
+      "user": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x4D69ecb8Da3B16D5828eC0DCd17B1310Cb96D3A0",
+      "outstanding": "61437882",
+      "outstandingLike": "61.437882",
+      "inflated": true,
+      "tokenIds": [
+        "1441"
+      ]
+    },
+    {
+      "user": "0x7bd57425c60b32Be5a7DF107D3D119ADf7C8a440",
+      "bookNFT": "0x91A7e8b5a3331cAf708ad3F90C71Cec10f37B125",
+      "outstanding": "49690670",
+      "outstandingLike": "49.69067",
+      "inflated": true,
+      "tokenIds": [
+        "397"
+      ]
+    },
+    {
+      "user": "0xD1B884C27726D782585a2807C9e919a92786B2dB",
+      "bookNFT": "0x91A7e8b5a3331cAf708ad3F90C71Cec10f37B125",
+      "outstanding": "49690670",
+      "outstandingLike": "49.69067",
+      "inflated": true,
+      "tokenIds": [
+        "479"
+      ]
+    },
+    {
+      "user": "0x0686BcD9e5A94d9f0b29EA7Ce1887d8B2dA21e86",
+      "bookNFT": "0x91A7e8b5a3331cAf708ad3F90C71Cec10f37B125",
+      "outstanding": "43857486",
+      "outstandingLike": "43.857486",
+      "inflated": true,
+      "tokenIds": [
+        "226"
+      ]
+    },
+    {
+      "user": "0x8F176D80F72eA56Fbf61b5E56b84414689EA26bA",
+      "bookNFT": "0x91A7e8b5a3331cAf708ad3F90C71Cec10f37B125",
+      "outstanding": "43857486",
+      "outstandingLike": "43.857486",
+      "inflated": true,
+      "tokenIds": [
+        "293"
+      ]
+    },
+    {
+      "user": "0x874C506D93e1bc08d735730A2e20beD16CE5bDB9",
+      "bookNFT": "0x334C13ABf78D5d29DDd32fca627179a5059B5814",
+      "outstanding": "43814744",
+      "outstandingLike": "43.814744",
+      "inflated": true,
+      "tokenIds": [
+        "878"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x3bf42DA7f5781d3940B2318484c907Ee33e81d8D",
+      "outstanding": "40940508",
+      "outstandingLike": "40.940508",
+      "inflated": true,
+      "tokenIds": [
+        "369"
+      ]
+    },
+    {
+      "user": "0xe425120DfcCa03aee142d222a558ECA316D68fFb",
+      "bookNFT": "0xa1D7F3e0a45206CFf39110aF4a7542407289e829",
+      "outstanding": "39332796",
+      "outstandingLike": "39.332796",
+      "inflated": true,
+      "tokenIds": [
+        "392"
+      ]
+    },
+    {
+      "user": "0x0686BcD9e5A94d9f0b29EA7Ce1887d8B2dA21e86",
+      "bookNFT": "0x9483913D6207c0Dd3c54D7856C23145F1279cA52",
+      "outstanding": "38675730",
+      "outstandingLike": "38.67573",
+      "inflated": true,
+      "tokenIds": [
+        "175"
+      ]
+    },
+    {
+      "user": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x3bf42DA7f5781d3940B2318484c907Ee33e81d8D",
+      "outstanding": "38313235",
+      "outstandingLike": "38.313235",
+      "inflated": true,
+      "tokenIds": [
+        "206"
+      ]
+    },
+    {
+      "user": "0xa037Feb6508A8C2F93bb19f6721730C45921f2D0",
+      "bookNFT": "0x3bf42DA7f5781d3940B2318484c907Ee33e81d8D",
+      "outstanding": "36723419",
+      "outstandingLike": "36.723419",
+      "inflated": true,
+      "tokenIds": [
+        "180"
+      ]
+    },
+    {
+      "user": "0x20981700Abe3283E1de60C77588201fB399634EE",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "outstanding": "34710404",
+      "outstandingLike": "34.710404",
+      "inflated": true,
+      "tokenIds": [
+        "568"
+      ]
+    },
+    {
+      "user": "0x874C506D93e1bc08d735730A2e20beD16CE5bDB9",
+      "bookNFT": "0xa1D7F3e0a45206CFf39110aF4a7542407289e829",
+      "outstanding": "34189596",
+      "outstandingLike": "34.189596",
+      "inflated": true,
+      "tokenIds": [
+        "880"
+      ]
+    },
+    {
+      "user": "0x24cD9d885Fe462354E74BdC5361E0886441875DC",
+      "bookNFT": "0xa004d4a92B2C139aE5B6a2485458B60b484Aa3db",
+      "outstanding": "26137867",
+      "outstandingLike": "26.137867",
+      "inflated": false,
+      "tokenIds": [
+        "332"
+      ]
+    },
+    {
+      "user": "0x6f72fAa82c120ca06E25d01D7123EfF09257fcD3",
+      "bookNFT": "0x91A7e8b5a3331cAf708ad3F90C71Cec10f37B125",
+      "outstanding": "25030586",
+      "outstandingLike": "25.030586",
+      "inflated": true,
+      "tokenIds": [
+        "412"
+      ]
+    },
+    {
+      "user": "0x24cD9d885Fe462354E74BdC5361E0886441875DC",
+      "bookNFT": "0x97770A1E0023046D387aC987BbCC100f35a14844",
+      "outstanding": "24025836",
+      "outstandingLike": "24.025836",
+      "inflated": true,
+      "tokenIds": [
+        "280"
+      ]
+    },
+    {
+      "user": "0x874C506D93e1bc08d735730A2e20beD16CE5bDB9",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "outstanding": "22123273",
+      "outstandingLike": "22.123273",
+      "inflated": true,
+      "tokenIds": [
+        "888"
+      ]
+    },
+    {
+      "user": "0x6f72fAa82c120ca06E25d01D7123EfF09257fcD3",
+      "bookNFT": "0x97770A1E0023046D387aC987BbCC100f35a14844",
+      "outstanding": "18809079",
+      "outstandingLike": "18.809079",
+      "inflated": true,
+      "tokenIds": [
+        "413"
+      ]
+    },
+    {
+      "user": "0x82D3871bCBB8a8E9B9Db67471dA9EC87aD8d653e",
+      "bookNFT": "0x5a84A921113340E8edD133931b55EB6e855259Ce",
+      "outstanding": "15306575",
+      "outstandingLike": "15.306575",
+      "inflated": true,
+      "tokenIds": [
+        "478"
+      ]
+    },
+    {
+      "user": "0x1c088F9bF5C0c1Bdd63dF843F5fD328BC7a6E675",
+      "bookNFT": "0xD08EB66DAe9Bad58626ac4ED6A4a102b134b7457",
+      "outstanding": "14453119",
+      "outstandingLike": "14.453119",
+      "inflated": true,
+      "tokenIds": [
+        "934"
+      ]
+    },
+    {
+      "user": "0x3FfC07ED6a65E379E39Bef93e713ee3Ff77a56e4",
+      "bookNFT": "0xD08EB66DAe9Bad58626ac4ED6A4a102b134b7457",
+      "outstanding": "14453119",
+      "outstandingLike": "14.453119",
+      "inflated": true,
+      "tokenIds": [
+        "938"
+      ]
+    },
+    {
+      "user": "0x8F176D80F72eA56Fbf61b5E56b84414689EA26bA",
+      "bookNFT": "0xa1D7F3e0a45206CFf39110aF4a7542407289e829",
+      "outstanding": "14329095",
+      "outstandingLike": "14.329095",
+      "inflated": true,
+      "tokenIds": [
+        "108"
+      ]
+    },
+    {
+      "user": "0x3FfC07ED6a65E379E39Bef93e713ee3Ff77a56e4",
+      "bookNFT": "0x3bf42DA7f5781d3940B2318484c907Ee33e81d8D",
+      "outstanding": "14058008",
+      "outstandingLike": "14.058008",
+      "inflated": true,
+      "tokenIds": [
+        "6"
+      ]
+    },
+    {
+      "user": "0xC7D3aEA5789630fF007d78b0C0cbcf516ed01328",
+      "bookNFT": "0xeC56635DC9a3dC8bF453a1A960917F3A5eF265ec",
+      "outstanding": "13439106",
+      "outstandingLike": "13.439106",
+      "inflated": true,
+      "tokenIds": [
+        "411"
+      ]
+    },
+    {
+      "user": "0xe584099C39d0eaE355C6b0F003767DD53dFb8F6a",
+      "bookNFT": "0xd984aBfe4F9dcdbee653bF9d1247EDD0e2102C51",
+      "outstanding": "12999856",
+      "outstandingLike": "12.999856",
+      "inflated": true,
+      "tokenIds": [
+        "819"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0xa1D7F3e0a45206CFf39110aF4a7542407289e829",
+      "outstanding": "10144999",
+      "outstandingLike": "10.144999",
+      "inflated": true,
+      "tokenIds": [
+        "113"
+      ]
+    },
+    {
+      "user": "0x47e6c59d1AA905Eb1e847c91E1248a35b8AC3ab4",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "outstanding": "9791907",
+      "outstandingLike": "9.791907",
+      "inflated": true,
+      "tokenIds": [
+        "1008"
+      ]
+    },
+    {
+      "user": "0x1d1F6bEbaB8A03a09fd2E28A2D152a912d4D87c9",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "outstanding": "9515514",
+      "outstandingLike": "9.515514",
+      "inflated": true,
+      "tokenIds": [
+        "599"
+      ]
+    },
+    {
+      "user": "0xEb2b2A2Ad1a726BcC17D43F7C198625fe8Fd7d16",
+      "bookNFT": "0x334C13ABf78D5d29DDd32fca627179a5059B5814",
+      "outstanding": "9376355",
+      "outstandingLike": "9.376355",
+      "inflated": true,
+      "tokenIds": [
+        "324"
+      ]
+    },
+    {
+      "user": "0xea7d3868A81bBbB8814AFe37E199fc6ed49c3CaE",
+      "bookNFT": "0xD08EB66DAe9Bad58626ac4ED6A4a102b134b7457",
+      "outstanding": "8964623",
+      "outstandingLike": "8.964623",
+      "inflated": true,
+      "tokenIds": [
+        "1351"
+      ]
+    },
+    {
+      "user": "0x8F176D80F72eA56Fbf61b5E56b84414689EA26bA",
+      "bookNFT": "0x334C13ABf78D5d29DDd32fca627179a5059B5814",
+      "outstanding": "8762948",
+      "outstandingLike": "8.762948",
+      "inflated": true,
+      "tokenIds": [
+        "34"
+      ]
+    },
+    {
+      "user": "0x47e6c59d1AA905Eb1e847c91E1248a35b8AC3ab4",
+      "bookNFT": "0x334C13ABf78D5d29DDd32fca627179a5059B5814",
+      "outstanding": "8762948",
+      "outstandingLike": "8.762948",
+      "inflated": true,
+      "tokenIds": [
+        "164"
+      ]
+    },
+    {
+      "user": "0xDfC4f3454cc725C0A025D29268e7D0A03e8401f8",
+      "bookNFT": "0x334C13ABf78D5d29DDd32fca627179a5059B5814",
+      "outstanding": "8762948",
+      "outstandingLike": "8.762948",
+      "inflated": true,
+      "tokenIds": [
+        "342"
+      ]
+    },
+    {
+      "user": "0x22Bd0ec1E8B733B77f8B35447b27cAE41286F86e",
+      "bookNFT": "0x334C13ABf78D5d29DDd32fca627179a5059B5814",
+      "outstanding": "8762948",
+      "outstandingLike": "8.762948",
+      "inflated": true,
+      "tokenIds": [
+        "348"
+      ]
+    },
+    {
+      "user": "0x4Ac887471A53186Fc07877b9aB7ac1c639fEe9E6",
+      "bookNFT": "0x334C13ABf78D5d29DDd32fca627179a5059B5814",
+      "outstanding": "8762948",
+      "outstandingLike": "8.762948",
+      "inflated": true,
+      "tokenIds": [
+        "373"
+      ]
+    },
+    {
+      "user": "0x1d1F6bEbaB8A03a09fd2E28A2D152a912d4D87c9",
+      "bookNFT": "0x334C13ABf78D5d29DDd32fca627179a5059B5814",
+      "outstanding": "8762948",
+      "outstandingLike": "8.762948",
+      "inflated": true,
+      "tokenIds": [
+        "390"
+      ]
+    },
+    {
+      "user": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x9483913D6207c0Dd3c54D7856C23145F1279cA52",
+      "outstanding": "8537455",
+      "outstandingLike": "8.537455",
+      "inflated": true,
+      "tokenIds": [
+        "201"
+      ]
+    },
+    {
+      "user": "0x7D08f52539A8Fa695b474513437B1Ee8Bf5112d7",
+      "bookNFT": "0xb8Ae0a0C0380F81F4b14120A948228BACC327415",
+      "outstanding": "8233637",
+      "outstandingLike": "8.233637",
+      "inflated": true,
+      "tokenIds": [
+        "77"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0xa004d4a92B2C139aE5B6a2485458B60b484Aa3db",
+      "outstanding": "7841360",
+      "outstandingLike": "7.84136",
+      "inflated": false,
+      "tokenIds": [
+        "682"
+      ]
+    },
+    {
+      "user": "0x756672046297F17a1bfC4D592B22C6dfc4c35215",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "outstanding": "7735812",
+      "outstandingLike": "7.735812",
+      "inflated": true,
+      "tokenIds": [
+        "577"
+      ]
+    },
+    {
+      "user": "0x2696cBF8Ef06175cd2DDb80b928f7A8E81De1e3e",
+      "bookNFT": "0xD08EB66DAe9Bad58626ac4ED6A4a102b134b7457",
+      "outstanding": "7178296",
+      "outstandingLike": "7.178296",
+      "inflated": true,
+      "tokenIds": [
+        "951"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0xa2223E10aE8Db458FB5c599DA3BBF95BB6665e23",
+      "outstanding": "6874977",
+      "outstandingLike": "6.874977",
+      "inflated": true,
+      "tokenIds": [
+        "693"
+      ]
+    },
+    {
+      "user": "0x7fF3c36212F5B10846B7A2569b7b8a822a900050",
+      "bookNFT": "0xa1D7F3e0a45206CFf39110aF4a7542407289e829",
+      "outstanding": "5873624",
+      "outstandingLike": "5.873624",
+      "inflated": true,
+      "tokenIds": [
+        "72"
+      ]
+    },
+    {
+      "user": "0x3c5A725f73F9426A19c9258F85B7b60b3D8125A9",
+      "bookNFT": "0xd984aBfe4F9dcdbee653bF9d1247EDD0e2102C51",
+      "outstanding": "5607569",
+      "outstandingLike": "5.607569",
+      "inflated": true,
+      "tokenIds": [
+        "341"
+      ]
+    },
+    {
+      "user": "0x22ec2A291BaE09B5615C52B193D32DBD56385C30",
+      "bookNFT": "0xd984aBfe4F9dcdbee653bF9d1247EDD0e2102C51",
+      "outstanding": "5607569",
+      "outstandingLike": "5.607569",
+      "inflated": true,
+      "tokenIds": [
+        "403"
+      ]
+    },
+    {
+      "user": "0x0686BcD9e5A94d9f0b29EA7Ce1887d8B2dA21e86",
+      "bookNFT": "0xb8Ae0a0C0380F81F4b14120A948228BACC327415",
+      "outstanding": "5527358",
+      "outstandingLike": "5.527358",
+      "inflated": true,
+      "tokenIds": [
+        "176"
+      ]
+    },
+    {
+      "user": "0x7b94f66D075F201C5F28059C73Af3923c1D69A53",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "outstanding": "5437436",
+      "outstandingLike": "5.437436",
+      "inflated": true,
+      "tokenIds": [
+        "814"
+      ]
+    },
+    {
+      "user": "0x233441646EBa8E2cdd166E449dB605E05E74ABe2",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "outstanding": "5256526",
+      "outstandingLike": "5.256526",
+      "inflated": true,
+      "tokenIds": [
+        "817"
+      ]
+    },
+    {
+      "user": "0x47e6c59d1AA905Eb1e847c91E1248a35b8AC3ab4",
+      "bookNFT": "0xd984aBfe4F9dcdbee653bF9d1247EDD0e2102C51",
+      "outstanding": "5054863",
+      "outstandingLike": "5.054863",
+      "inflated": true,
+      "tokenIds": [
+        "166"
+      ]
+    },
+    {
+      "user": "0x65F3ea02d4de5d10589bEddAEbebCD10231E8708",
+      "bookNFT": "0x9483913D6207c0Dd3c54D7856C23145F1279cA52",
+      "outstanding": "4997884",
+      "outstandingLike": "4.997884",
+      "inflated": true,
+      "tokenIds": [
+        "1016"
+      ]
+    },
+    {
+      "user": "0xF0269C48252Cd4c942A54F7c2e1a0D5870FDb348",
+      "bookNFT": "0x9483913D6207c0Dd3c54D7856C23145F1279cA52",
+      "outstanding": "4660914",
+      "outstandingLike": "4.660914",
+      "inflated": true,
+      "tokenIds": [
+        "358"
+      ]
+    },
+    {
+      "user": "0x13d6f5A180A8ff82E2e74847D9bc91b537b03A2E",
+      "bookNFT": "0xD08EB66DAe9Bad58626ac4ED6A4a102b134b7457",
+      "outstanding": "4400753",
+      "outstandingLike": "4.400753",
+      "inflated": true,
+      "tokenIds": [
+        "908"
+      ]
+    },
+    {
+      "user": "0xF0269C48252Cd4c942A54F7c2e1a0D5870FDb348",
+      "bookNFT": "0x334C13ABf78D5d29DDd32fca627179a5059B5814",
+      "outstanding": "4381474",
+      "outstandingLike": "4.381474",
+      "inflated": true,
+      "tokenIds": [
+        "359"
+      ]
+    },
+    {
+      "user": "0xD5013D3802F2B870209058e0Ff105Bf97F8B822D",
+      "bookNFT": "0x3bf42DA7f5781d3940B2318484c907Ee33e81d8D",
+      "outstanding": "4279886",
+      "outstandingLike": "4.279886",
+      "inflated": true,
+      "tokenIds": [
+        "363"
+      ]
+    },
+    {
+      "user": "0xea267bDd43d310734057e5dBDB02330528C21f05",
+      "bookNFT": "0xD08EB66DAe9Bad58626ac4ED6A4a102b134b7457",
+      "outstanding": "4111729",
+      "outstandingLike": "4.111729",
+      "inflated": true,
+      "tokenIds": [
+        "1088"
+      ]
+    },
+    {
+      "user": "0x3d3e5223330a00C76027852E5272f208e0e17031",
+      "bookNFT": "0x91A7e8b5a3331cAf708ad3F90C71Cec10f37B125",
+      "outstanding": "3669174",
+      "outstandingLike": "3.669174",
+      "inflated": true,
+      "tokenIds": [
+        "197"
+      ]
+    },
+    {
+      "user": "0x874C506D93e1bc08d735730A2e20beD16CE5bDB9",
+      "bookNFT": "0x3bf42DA7f5781d3940B2318484c907Ee33e81d8D",
+      "outstanding": "3635924",
+      "outstandingLike": "3.635924",
+      "inflated": true,
+      "tokenIds": [
+        "892"
+      ]
+    },
+    {
+      "user": "0xB2206f941A5206B55BFA33E665687523A8bcEd80",
+      "bookNFT": "0x91A7e8b5a3331cAf708ad3F90C71Cec10f37B125",
+      "outstanding": "3585704",
+      "outstandingLike": "3.585704",
+      "inflated": true,
+      "tokenIds": [
+        "1282"
+      ]
+    },
+    {
+      "user": "0x8EB12Be95E325376721Dd6dDeA39306171fAc71d",
+      "bookNFT": "0xa1D7F3e0a45206CFf39110aF4a7542407289e829",
+      "outstanding": "3418959",
+      "outstandingLike": "3.418959",
+      "inflated": true,
+      "tokenIds": [
+        "484"
+      ]
+    },
+    {
+      "user": "0x24cD9d885Fe462354E74BdC5361E0886441875DC",
+      "bookNFT": "0x91A7e8b5a3331cAf708ad3F90C71Cec10f37B125",
+      "outstanding": "3095629",
+      "outstandingLike": "3.095629",
+      "inflated": true,
+      "tokenIds": [
+        "330"
+      ]
+    },
+    {
+      "user": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x91A7e8b5a3331cAf708ad3F90C71Cec10f37B125",
+      "outstanding": "3013676",
+      "outstandingLike": "3.013676",
+      "inflated": true,
+      "tokenIds": [
+        "204"
+      ]
+    },
+    {
+      "user": "0x880d1303B47CF2ca05FF0cd62543Dc2752BF8B37",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "outstanding": "2901854",
+      "outstandingLike": "2.901854",
+      "inflated": true,
+      "tokenIds": [
+        "937"
+      ]
+    },
+    {
+      "user": "0x13eDf0A12d119C961cfcAFD238e4DAA839324DdB",
+      "bookNFT": "0xa1D7F3e0a45206CFf39110aF4a7542407289e829",
+      "outstanding": "2865819",
+      "outstandingLike": "2.865819",
+      "inflated": true,
+      "tokenIds": [
+        "370"
+      ]
+    },
+    {
+      "user": "0x3Ec3637e54D54d1bD289C0272Ccb4A665eEcf725",
+      "bookNFT": "0xa1D7F3e0a45206CFf39110aF4a7542407289e829",
+      "outstanding": "2865819",
+      "outstandingLike": "2.865819",
+      "inflated": true,
+      "tokenIds": [
+        "1162"
+      ]
+    },
+    {
+      "user": "0x8F176D80F72eA56Fbf61b5E56b84414689EA26bA",
+      "bookNFT": "0xb8Ae0a0C0380F81F4b14120A948228BACC327415",
+      "outstanding": "2823306",
+      "outstandingLike": "2.823306",
+      "inflated": true,
+      "tokenIds": [
+        "37"
+      ]
+    },
+    {
+      "user": "0x1A5F2BeCc503a7D795bc8154061168856ef33C27",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "outstanding": "2718718",
+      "outstandingLike": "2.718718",
+      "inflated": true,
+      "tokenIds": [
+        "604"
+      ]
+    },
+    {
+      "user": "0xaD6000372440657550810e8cD337822821F321d9",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "outstanding": "2718718",
+      "outstandingLike": "2.718718",
+      "inflated": true,
+      "tokenIds": [
+        "810"
+      ]
+    },
+    {
+      "user": "0x1d1F6bEbaB8A03a09fd2E28A2D152a912d4D87c9",
+      "bookNFT": "0xb8Ae0a0C0380F81F4b14120A948228BACC327415",
+      "outstanding": "2371580",
+      "outstandingLike": "2.37158",
+      "inflated": true,
+      "tokenIds": [
+        "391"
+      ]
+    },
+    {
+      "user": "0x9692Fefe6ffa3d45769Cb6A8c9D11991fc143919",
+      "bookNFT": "0xb8Ae0a0C0380F81F4b14120A948228BACC327415",
+      "outstanding": "2371580",
+      "outstandingLike": "2.37158",
+      "inflated": true,
+      "tokenIds": [
+        "393"
+      ]
+    },
+    {
+      "user": "0x550Bf893A4DC87A76F99726581c8f6bBE87a028d",
+      "bookNFT": "0xb8Ae0a0C0380F81F4b14120A948228BACC327415",
+      "outstanding": "2371580",
+      "outstandingLike": "2.37158",
+      "inflated": true,
+      "tokenIds": [
+        "624"
+      ]
+    },
+    {
+      "user": "0xea2CA5022a73e881Ea5716e6955ab665b46819Cf",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "outstanding": "1946461",
+      "outstandingLike": "1.946461",
+      "inflated": true,
+      "tokenIds": [
+        "919"
+      ]
+    },
+    {
+      "user": "0x3FfC07ED6a65E379E39Bef93e713ee3Ff77a56e4",
+      "bookNFT": "0x595FA2345b754c5F957099E2D8a976617C40710c",
+      "outstanding": "1890681",
+      "outstandingLike": "1.890681",
+      "inflated": true,
+      "tokenIds": [
+        "9"
+      ]
+    },
+    {
+      "user": "0x550Bf893A4DC87A76F99726581c8f6bBE87a028d",
+      "bookNFT": "0x5a84A921113340E8edD133931b55EB6e855259Ce",
+      "outstanding": "1732268",
+      "outstandingLike": "1.732268",
+      "inflated": true,
+      "tokenIds": [
+        "625"
+      ]
+    },
+    {
+      "user": "0xE29Ca6542347879b0aF2A534b865023adB9A39C0",
+      "bookNFT": "0xb8Ae0a0C0380F81F4b14120A948228BACC327415",
+      "outstanding": "1646727",
+      "outstandingLike": "1.646727",
+      "inflated": true,
+      "tokenIds": [
+        "1063"
+      ]
+    },
+    {
+      "user": "0x9d22F2058b4EA321dE701c75fB907d806e5922BA",
+      "bookNFT": "0x334C13ABf78D5d29DDd32fca627179a5059B5814",
+      "outstanding": "1544144",
+      "outstandingLike": "1.544144",
+      "inflated": true,
+      "tokenIds": [
+        "1"
+      ]
+    },
+    {
+      "user": "0x3FfC07ED6a65E379E39Bef93e713ee3Ff77a56e4",
+      "bookNFT": "0x334C13ABf78D5d29DDd32fca627179a5059B5814",
+      "outstanding": "1544144",
+      "outstandingLike": "1.544144",
+      "inflated": true,
+      "tokenIds": [
+        "85"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x17A8B5B45Df12bE61EE5c057C463634C7B64b00c",
+      "outstanding": "1440260",
+      "outstandingLike": "1.44026",
+      "inflated": false,
+      "tokenIds": [
+        "1130"
+      ]
+    },
+    {
+      "user": "0x7D08f52539A8Fa695b474513437B1Ee8Bf5112d7",
+      "bookNFT": "0xd984aBfe4F9dcdbee653bF9d1247EDD0e2102C51",
+      "outstanding": "1364984",
+      "outstandingLike": "1.364984",
+      "inflated": true,
+      "tokenIds": [
+        "65"
+      ]
+    },
+    {
+      "user": "0x8F176D80F72eA56Fbf61b5E56b84414689EA26bA",
+      "bookNFT": "0xd984aBfe4F9dcdbee653bF9d1247EDD0e2102C51",
+      "outstanding": "1299985",
+      "outstandingLike": "1.299985",
+      "inflated": true,
+      "tokenIds": [
+        "35"
+      ]
+    },
+    {
+      "user": "0xC6473A964F160B24576946d5c616caDE88B0465C",
+      "bookNFT": "0x19B884c94b9E27f14e997db63dFa8F1F5EF40E2c",
+      "outstanding": "1292257",
+      "outstandingLike": "1.292257",
+      "inflated": true,
+      "tokenIds": [
+        "286"
+      ]
+    },
+    {
+      "user": "0x9d22F2058b4EA321dE701c75fB907d806e5922BA",
+      "bookNFT": "0xd984aBfe4F9dcdbee653bF9d1247EDD0e2102C51",
+      "outstanding": "927682",
+      "outstandingLike": "0.927682",
+      "inflated": true,
+      "tokenIds": [
+        "4"
+      ]
+    },
+    {
+      "user": "0x3d3e5223330a00C76027852E5272f208e0e17031",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "outstanding": "921881",
+      "outstandingLike": "0.921881",
+      "inflated": true,
+      "tokenIds": [
+        "932"
+      ]
+    },
+    {
+      "user": "0x24cD9d885Fe462354E74BdC5361E0886441875DC",
+      "bookNFT": "0x334C13ABf78D5d29DDd32fca627179a5059B5814",
+      "outstanding": "876294",
+      "outstandingLike": "0.876294",
+      "inflated": true,
+      "tokenIds": [
+        "283"
+      ]
+    },
+    {
+      "user": "0x8EB12Be95E325376721Dd6dDeA39306171fAc71d",
+      "bookNFT": "0x334C13ABf78D5d29DDd32fca627179a5059B5814",
+      "outstanding": "876294",
+      "outstandingLike": "0.876294",
+      "inflated": true,
+      "tokenIds": [
+        "417"
+      ]
+    },
+    {
+      "user": "0xB0fD5a878DBF3F9358A251caF9b6Fc692A999cA7",
+      "bookNFT": "0xD08EB66DAe9Bad58626ac4ED6A4a102b134b7457",
+      "outstanding": "754414",
+      "outstandingLike": "0.754414",
+      "inflated": true,
+      "tokenIds": [
+        "1081"
+      ]
+    },
+    {
+      "user": "0x9Bd0787873B50990c14Ef9155D7a095753C22485",
+      "bookNFT": "0xa1D7F3e0a45206CFf39110aF4a7542407289e829",
+      "outstanding": "716454",
+      "outstandingLike": "0.716454",
+      "inflated": true,
+      "tokenIds": [
+        "552"
+      ]
+    },
+    {
+      "user": "0xf987062380BE7B7bF5Ce8fC9C75c8A00652De636",
+      "bookNFT": "0x9483913D6207c0Dd3c54D7856C23145F1279cA52",
+      "outstanding": "699381",
+      "outstandingLike": "0.699381",
+      "inflated": true,
+      "tokenIds": [
+        "850"
+      ]
+    },
+    {
+      "user": "0x9Bd0787873B50990c14Ef9155D7a095753C22485",
+      "bookNFT": "0x91A7e8b5a3331cAf708ad3F90C71Cec10f37B125",
+      "outstanding": "591539",
+      "outstandingLike": "0.591539",
+      "inflated": true,
+      "tokenIds": [
+        "551"
+      ]
+    },
+    {
+      "user": "0xF0177457dD06f99fA1973aDA68903DdF3B6De2BD",
+      "bookNFT": "0xa1D7F3e0a45206CFf39110aF4a7542407289e829",
+      "outstanding": "587362",
+      "outstandingLike": "0.587362",
+      "inflated": true,
+      "tokenIds": [
+        "1344"
+      ]
+    },
+    {
+      "user": "0x24cD9d885Fe462354E74BdC5361E0886441875DC",
+      "bookNFT": "0xd984aBfe4F9dcdbee653bF9d1247EDD0e2102C51",
+      "outstanding": "560756",
+      "outstandingLike": "0.560756",
+      "inflated": true,
+      "tokenIds": [
+        "282"
+      ]
+    },
+    {
+      "user": "0x8EB12Be95E325376721Dd6dDeA39306171fAc71d",
+      "bookNFT": "0xd984aBfe4F9dcdbee653bF9d1247EDD0e2102C51",
+      "outstanding": "560756",
+      "outstandingLike": "0.560756",
+      "inflated": true,
+      "tokenIds": [
+        "418"
+      ]
+    },
+    {
+      "user": "0xe155Fb7F921b46383D83CaE0165a9717De04162F",
+      "bookNFT": "0xb8Ae0a0C0380F81F4b14120A948228BACC327415",
+      "outstanding": "552735",
+      "outstandingLike": "0.552735",
+      "inflated": true,
+      "tokenIds": [
+        "1096"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x19B884c94b9E27f14e997db63dFa8F1F5EF40E2c",
+      "outstanding": "516492",
+      "outstandingLike": "0.516492",
+      "inflated": true,
+      "tokenIds": [
+        "784"
+      ]
+    },
+    {
+      "user": "0xbf2217e4d458B4219DF6943853a053Ad4db772fa",
+      "bookNFT": "0x9483913D6207c0Dd3c54D7856C23145F1279cA52",
+      "outstanding": "515727",
+      "outstandingLike": "0.515727",
+      "inflated": true,
+      "tokenIds": [
+        "989"
+      ]
+    },
+    {
+      "user": "0x02e74F3b930f8443DE58e9D3Bd57fc6b1612e627",
+      "bookNFT": "0x4D69ecb8Da3B16D5828eC0DCd17B1310Cb96D3A0",
+      "outstanding": "496390",
+      "outstandingLike": "0.49639",
+      "inflated": true,
+      "tokenIds": [
+        "1470"
+      ]
+    },
+    {
+      "user": "0x9Bd0787873B50990c14Ef9155D7a095753C22485",
+      "bookNFT": "0x3bf42DA7f5781d3940B2318484c907Ee33e81d8D",
+      "outstanding": "459042",
+      "outstandingLike": "0.459042",
+      "inflated": true,
+      "tokenIds": [
+        "399"
+      ]
+    },
+    {
+      "user": "0xC6473A964F160B24576946d5c616caDE88B0465C",
+      "bookNFT": "0xd984aBfe4F9dcdbee653bF9d1247EDD0e2102C51",
+      "outstanding": "448025",
+      "outstandingLike": "0.448025",
+      "inflated": true,
+      "tokenIds": [
+        "274"
+      ]
+    },
+    {
+      "user": "0xC25D144E6Fc60f507864E83606dAe5746b5FFA21",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "outstanding": "437985",
+      "outstandingLike": "0.437985",
+      "inflated": true,
+      "tokenIds": [
+        "615"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0xeC56635DC9a3dC8bF453a1A960917F3A5eF265ec",
+      "outstanding": "403173",
+      "outstandingLike": "0.403173",
+      "inflated": true,
+      "tokenIds": [
+        "808"
+      ]
+    },
+    {
+      "user": "0x62720DaC71D20AB6ca7e45F222dCFc77A69f9fb3",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "outstanding": "326396",
+      "outstandingLike": "0.326396",
+      "inflated": true,
+      "tokenIds": [
+        "1011"
+      ]
+    },
+    {
+      "user": "0x9Bd0787873B50990c14Ef9155D7a095753C22485",
+      "bookNFT": "0xd984aBfe4F9dcdbee653bF9d1247EDD0e2102C51",
+      "outstanding": "324996",
+      "outstandingLike": "0.324996",
+      "inflated": true,
+      "tokenIds": [
+        "543"
+      ]
+    },
+    {
+      "user": "0x7fF3c36212F5B10846B7A2569b7b8a822a900050",
+      "bookNFT": "0xD08EB66DAe9Bad58626ac4ED6A4a102b134b7457",
+      "outstanding": "314339",
+      "outstandingLike": "0.314339",
+      "inflated": true,
+      "tokenIds": [
+        "916"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x334C13ABf78D5d29DDd32fca627179a5059B5814",
+      "outstanding": "262888",
+      "outstandingLike": "0.262888",
+      "inflated": true,
+      "tokenIds": [
+        "796"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0xA20Cc05e12F456b2b97aE2fDAbE0952598831f1C",
+      "outstanding": "249034",
+      "outstandingLike": "0.249034",
+      "inflated": true,
+      "tokenIds": [
+        "1253"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x6EEf0D7C24c6b872e480154dEb8b7430f54603E3",
+      "outstanding": "236306",
+      "outstandingLike": "0.236306",
+      "inflated": true,
+      "tokenIds": [
+        "758"
+      ]
+    },
+    {
+      "user": "0xDc7cd28a98E780711D72CC0a7AB484B3ccF89910",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "outstanding": "231581",
+      "outstandingLike": "0.231581",
+      "inflated": true,
+      "tokenIds": [
+        "863"
+      ]
+    },
+    {
+      "user": "0x0896E95b1750843432D10Ca0BAbf8bbD67d6C675",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "outstanding": "190310",
+      "outstandingLike": "0.19031",
+      "inflated": true,
+      "tokenIds": [
+        "582"
+      ]
+    },
+    {
+      "user": "0x625B192B5019bcA08F4C312ba4319203e5e07e94",
+      "bookNFT": "0x9483913D6207c0Dd3c54D7856C23145F1279cA52",
+      "outstanding": "189089",
+      "outstandingLike": "0.189089",
+      "inflated": true,
+      "tokenIds": [
+        "133"
+      ]
+    },
+    {
+      "user": "0x625B192B5019bcA08F4C312ba4319203e5e07e94",
+      "bookNFT": "0x3bf42DA7f5781d3940B2318484c907Ee33e81d8D",
+      "outstanding": "183617",
+      "outstandingLike": "0.183617",
+      "inflated": true,
+      "tokenIds": [
+        "134"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x87140Bef332E48D1F2341db740E388460609152E",
+      "outstanding": "177545",
+      "outstandingLike": "0.177545",
+      "inflated": false,
+      "tokenIds": [
+        "663"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x9483913D6207c0Dd3c54D7856C23145F1279cA52",
+      "outstanding": "149936",
+      "outstandingLike": "0.149936",
+      "inflated": true,
+      "tokenIds": [
+        "803"
+      ]
+    },
+    {
+      "user": "0x9Bd0787873B50990c14Ef9155D7a095753C22485",
+      "bookNFT": "0xb8Ae0a0C0380F81F4b14120A948228BACC327415",
+      "outstanding": "138183",
+      "outstandingLike": "0.138183",
+      "inflated": true,
+      "tokenIds": [
+        "546"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x8Abc20B4506988B555117e43A701D8658A9D370f",
+      "outstanding": "115912",
+      "outstandingLike": "0.115912",
+      "inflated": true,
+      "tokenIds": [
+        "735"
+      ]
+    },
+    {
+      "user": "0x41E2A4646D4D04e1D31FC1D6cc2d221633E469e5",
+      "bookNFT": "0x595FA2345b754c5F957099E2D8a976617C40710c",
+      "outstanding": "94534",
+      "outstandingLike": "0.094534",
+      "inflated": true,
+      "tokenIds": [
+        "16"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0xb8Ae0a0C0380F81F4b14120A948228BACC327415",
+      "outstanding": "71147",
+      "outstandingLike": "0.071147",
+      "inflated": true,
+      "tokenIds": [
+        "802"
+      ]
+    },
+    {
+      "user": "0xd99B54a04AA66aF4B8F4066352a8353ac55f4766",
+      "bookNFT": "0x9483913D6207c0Dd3c54D7856C23145F1279cA52",
+      "outstanding": "69938",
+      "outstandingLike": "0.069938",
+      "inflated": true,
+      "tokenIds": [
+        "612"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x5a84A921113340E8edD133931b55EB6e855259Ce",
+      "outstanding": "51968",
+      "outstandingLike": "0.051968",
+      "inflated": true,
+      "tokenIds": [
+        "801"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0xd984aBfe4F9dcdbee653bF9d1247EDD0e2102C51",
+      "outstanding": "50548",
+      "outstandingLike": "0.050548",
+      "inflated": true,
+      "tokenIds": [
+        "756"
+      ]
+    },
+    {
+      "user": "0x625B192B5019bcA08F4C312ba4319203e5e07e94",
+      "bookNFT": "0xd984aBfe4F9dcdbee653bF9d1247EDD0e2102C51",
+      "outstanding": "44802",
+      "outstandingLike": "0.044802",
+      "inflated": true,
+      "tokenIds": [
+        "378"
+      ]
+    },
+    {
+      "user": "0xee3500175076c19Cf45889fdfd2eC52029bAca0C",
+      "bookNFT": "0x3bf42DA7f5781d3940B2318484c907Ee33e81d8D",
+      "outstanding": "38313",
+      "outstandingLike": "0.038313",
+      "inflated": true,
+      "tokenIds": [
+        "480"
+      ]
+    },
+    {
+      "user": "0x5B357b6DFBc10151dd4775c70b5355a7C8498f29",
+      "bookNFT": "0xD08EB66DAe9Bad58626ac4ED6A4a102b134b7457",
+      "outstanding": "31433",
+      "outstandingLike": "0.031433",
+      "inflated": true,
+      "tokenIds": [
+        "909"
+      ]
+    },
+    {
+      "user": "0x874C506D93e1bc08d735730A2e20beD16CE5bDB9",
+      "bookNFT": "0xD08EB66DAe9Bad58626ac4ED6A4a102b134b7457",
+      "outstanding": "31433",
+      "outstandingLike": "0.031433",
+      "inflated": true,
+      "tokenIds": [
+        "1543"
+      ]
+    },
+    {
+      "user": "0xB2206f941A5206B55BFA33E665687523A8bcEd80",
+      "bookNFT": "0xD08EB66DAe9Bad58626ac4ED6A4a102b134b7457",
+      "outstanding": "31433",
+      "outstandingLike": "0.031433",
+      "inflated": true,
+      "tokenIds": [
+        "1397"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x6B9184df38427a61814e638900fd9BE999E0bD02",
+      "outstanding": "29035",
+      "outstandingLike": "0.029035",
+      "inflated": true,
+      "tokenIds": [
+        "1123"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0xD08EB66DAe9Bad58626ac4ED6A4a102b134b7457",
+      "outstanding": "23521",
+      "outstandingLike": "0.023521",
+      "inflated": true,
+      "tokenIds": [
+        "929"
+      ]
+    },
+    {
+      "user": "0xd3448A4843981BaEB66459Faab20cB6e669419F4",
+      "bookNFT": "0xd984aBfe4F9dcdbee653bF9d1247EDD0e2102C51",
+      "outstanding": "14450",
+      "outstandingLike": "0.01445",
+      "inflated": true,
+      "tokenIds": [
+        "1072"
+      ]
+    },
+    {
+      "user": "0x9a4D3d8426479987dc5cEa2637b4757d68cECa17",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "outstanding": "12909",
+      "outstandingLike": "0.012909",
+      "inflated": true,
+      "tokenIds": [
+        "956"
+      ]
+    },
+    {
+      "user": "0x775E80246A1C3aac7ce389B481a8e74E1F2FEbCB",
+      "bookNFT": "0x9483913D6207c0Dd3c54D7856C23145F1279cA52",
+      "outstanding": "63",
+      "outstandingLike": "0.000063",
+      "inflated": true,
+      "tokenIds": [
+        "971"
+      ]
+    },
+    {
+      "user": "0x7fF3c36212F5B10846B7A2569b7b8a822a900050",
+      "bookNFT": "0x6B9184df38427a61814e638900fd9BE999E0bD02",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "1074"
+      ]
+    },
+    {
+      "user": "0x13d6f5A180A8ff82E2e74847D9bc91b537b03A2E",
+      "bookNFT": "0x595FA2345b754c5F957099E2D8a976617C40710c",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "21"
+      ]
+    },
+    {
+      "user": "0x13d6f5A180A8ff82E2e74847D9bc91b537b03A2E",
+      "bookNFT": "0xDd624795D4670f029CcFB90926d2aFfDf084C3aB",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": false,
+      "tokenIds": [
+        "22"
+      ]
+    },
+    {
+      "user": "0x13d6f5A180A8ff82E2e74847D9bc91b537b03A2E",
+      "bookNFT": "0x19B884c94b9E27f14e997db63dFa8F1F5EF40E2c",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "25"
+      ]
+    },
+    {
+      "user": "0x8F176D80F72eA56Fbf61b5E56b84414689EA26bA",
+      "bookNFT": "0xDd624795D4670f029CcFB90926d2aFfDf084C3aB",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": false,
+      "tokenIds": [
+        "27"
+      ]
+    },
+    {
+      "user": "0x8F176D80F72eA56Fbf61b5E56b84414689EA26bA",
+      "bookNFT": "0x595FA2345b754c5F957099E2D8a976617C40710c",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "28"
+      ]
+    },
+    {
+      "user": "0x13d6f5A180A8ff82E2e74847D9bc91b537b03A2E",
+      "bookNFT": "0x5a84A921113340E8edD133931b55EB6e855259Ce",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "53"
+      ]
+    },
+    {
+      "user": "0x13d6f5A180A8ff82E2e74847D9bc91b537b03A2E",
+      "bookNFT": "0xa2223E10aE8Db458FB5c599DA3BBF95BB6665e23",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "58"
+      ]
+    },
+    {
+      "user": "0x7fF3c36212F5B10846B7A2569b7b8a822a900050",
+      "bookNFT": "0xb8Ae0a0C0380F81F4b14120A948228BACC327415",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "70"
+      ]
+    },
+    {
+      "user": "0x7fF3c36212F5B10846B7A2569b7b8a822a900050",
+      "bookNFT": "0x334C13ABf78D5d29DDd32fca627179a5059B5814",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "73"
+      ]
+    },
+    {
+      "user": "0x7D08f52539A8Fa695b474513437B1Ee8Bf5112d7",
+      "bookNFT": "0xDd624795D4670f029CcFB90926d2aFfDf084C3aB",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": false,
+      "tokenIds": [
+        "78"
+      ]
+    },
+    {
+      "user": "0x7D08f52539A8Fa695b474513437B1Ee8Bf5112d7",
+      "bookNFT": "0x595FA2345b754c5F957099E2D8a976617C40710c",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "79"
+      ]
+    },
+    {
+      "user": "0x7fF3c36212F5B10846B7A2569b7b8a822a900050",
+      "bookNFT": "0xDd624795D4670f029CcFB90926d2aFfDf084C3aB",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": false,
+      "tokenIds": [
+        "81"
+      ]
+    },
+    {
+      "user": "0x7fF3c36212F5B10846B7A2569b7b8a822a900050",
+      "bookNFT": "0x595FA2345b754c5F957099E2D8a976617C40710c",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "83"
+      ]
+    },
+    {
+      "user": "0x7fF3c36212F5B10846B7A2569b7b8a822a900050",
+      "bookNFT": "0x5a84A921113340E8edD133931b55EB6e855259Ce",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "87"
+      ]
+    },
+    {
+      "user": "0xC4B2d5a6eDba534A848336173e4136f078E1b7ef",
+      "bookNFT": "0x334C13ABf78D5d29DDd32fca627179a5059B5814",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "98"
+      ]
+    },
+    {
+      "user": "0x775E80246A1C3aac7ce389B481a8e74E1F2FEbCB",
+      "bookNFT": "0xb8Ae0a0C0380F81F4b14120A948228BACC327415",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "101"
+      ]
+    },
+    {
+      "user": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x5Bd162A3F47B40f57d41f0667e51B37D2b790cE8",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": false,
+      "tokenIds": [
+        "149"
+      ]
+    },
+    {
+      "user": "0x7fF3c36212F5B10846B7A2569b7b8a822a900050",
+      "bookNFT": "0x19B884c94b9E27f14e997db63dFa8F1F5EF40E2c",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "192"
+      ]
+    },
+    {
+      "user": "0x979b80a90E51318Eb046a5b90E2F4c742e14366e",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "598"
+      ]
+    },
+    {
+      "user": "0xadF8936D5Fd9DFC6438c982714681a1B3d5a83c2",
+      "bookNFT": "0x6B9184df38427a61814e638900fd9BE999E0bD02",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "1077"
+      ]
+    },
+    {
+      "user": "0x5B357b6DFBc10151dd4775c70b5355a7C8498f29",
+      "bookNFT": "0x595FA2345b754c5F957099E2D8a976617C40710c",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "255"
+      ]
+    },
+    {
+      "user": "0x5B357b6DFBc10151dd4775c70b5355a7C8498f29",
+      "bookNFT": "0xDd624795D4670f029CcFB90926d2aFfDf084C3aB",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": false,
+      "tokenIds": [
+        "256"
+      ]
+    },
+    {
+      "user": "0x3d3e5223330a00C76027852E5272f208e0e17031",
+      "bookNFT": "0x5Bd162A3F47B40f57d41f0667e51B37D2b790cE8",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": false,
+      "tokenIds": [
+        "290"
+      ]
+    },
+    {
+      "user": "0x66AD8D3E0db87Ae882C1788e2cda9e31cDB4F013",
+      "bookNFT": "0xa004d4a92B2C139aE5B6a2485458B60b484Aa3db",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": false,
+      "tokenIds": [
+        "355"
+      ]
+    },
+    {
+      "user": "0xD5013D3802F2B870209058e0Ff105Bf97F8B822D",
+      "bookNFT": "0x5Bd162A3F47B40f57d41f0667e51B37D2b790cE8",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": false,
+      "tokenIds": [
+        "365"
+      ]
+    },
+    {
+      "user": "0x625B192B5019bcA08F4C312ba4319203e5e07e94",
+      "bookNFT": "0x334C13ABf78D5d29DDd32fca627179a5059B5814",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "377"
+      ]
+    },
+    {
+      "user": "0x625B192B5019bcA08F4C312ba4319203e5e07e94",
+      "bookNFT": "0x5Bd162A3F47B40f57d41f0667e51B37D2b790cE8",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": false,
+      "tokenIds": [
+        "379"
+      ]
+    },
+    {
+      "user": "0xE002Bfb4106F3ccc1729EEF333Dc87A5411bB775",
+      "bookNFT": "0x334C13ABf78D5d29DDd32fca627179a5059B5814",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "404"
+      ]
+    },
+    {
+      "user": "0x8EB12Be95E325376721Dd6dDeA39306171fAc71d",
+      "bookNFT": "0xDd624795D4670f029CcFB90926d2aFfDf084C3aB",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": false,
+      "tokenIds": [
+        "512"
+      ]
+    },
+    {
+      "user": "0x8EB12Be95E325376721Dd6dDeA39306171fAc71d",
+      "bookNFT": "0x595FA2345b754c5F957099E2D8a976617C40710c",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "513"
+      ]
+    },
+    {
+      "user": "0x2696cBF8Ef06175cd2DDb80b928f7A8E81De1e3e",
+      "bookNFT": "0x334C13ABf78D5d29DDd32fca627179a5059B5814",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "525"
+      ]
+    },
+    {
+      "user": "0x2696cBF8Ef06175cd2DDb80b928f7A8E81De1e3e",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "539"
+      ]
+    },
+    {
+      "user": "0x8F176D80F72eA56Fbf61b5E56b84414689EA26bA",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "540"
+      ]
+    },
+    {
+      "user": "0x2EdA6e34136F734e99cFdA84fD62f2d5f2343b51",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "541"
+      ]
+    },
+    {
+      "user": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "554"
+      ]
+    },
+    {
+      "user": "0xac770FE814f733a7c74F3698e9ff49b0AcEFDa75",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "574"
+      ]
+    },
+    {
+      "user": "0x2A79fA796Ae55302e69f40DB7383179Bf38b6A28",
+      "bookNFT": "0xD08EB66DAe9Bad58626ac4ED6A4a102b134b7457",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "1547"
+      ]
+    },
+    {
+      "user": "0xA8a98a84f2403deDf70cc77cCF524faF7431066b",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "1055"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "605"
+      ]
+    },
+    {
+      "user": "0x765c6F7a13b989461165367D4C4F470D4B467f85",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "611"
+      ]
+    },
+    {
+      "user": "0xB0fD5a878DBF3F9358A251caF9b6Fc692A999cA7",
+      "bookNFT": "0x6EEf0D7C24c6b872e480154dEb8b7430f54603E3",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "1082"
+      ]
+    },
+    {
+      "user": "0xce9787148249216E6010D0C8eA4c458B8e93909F",
+      "bookNFT": "0x6B9184df38427a61814e638900fd9BE999E0bD02",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "1076"
+      ]
+    },
+    {
+      "user": "0xd3448A4843981BaEB66459Faab20cB6e669419F4",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "1073"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x5Bd162A3F47B40f57d41f0667e51B37D2b790cE8",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": false,
+      "tokenIds": [
+        "701"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0xDd624795D4670f029CcFB90926d2aFfDf084C3aB",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": false,
+      "tokenIds": [
+        "783"
+      ]
+    },
+    {
+      "user": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x595FA2345b754c5F957099E2D8a976617C40710c",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "790"
+      ]
+    },
+    {
+      "user": "0x0686BcD9e5A94d9f0b29EA7Ce1887d8B2dA21e86",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "815"
+      ]
+    },
+    {
+      "user": "0xbf2217e4d458B4219DF6943853a053Ad4db772fa",
+      "bookNFT": "0x6B9184df38427a61814e638900fd9BE999E0bD02",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "1089"
+      ]
+    },
+    {
+      "user": "0xa2b7350aDA8c594581C78962F01988600E611aa6",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "895"
+      ]
+    },
+    {
+      "user": "0x07A43459F8a515EF8EEFA85D993285cf64D80F78",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "920"
+      ]
+    },
+    {
+      "user": "0x0eC01C8b47d83F4965F91a42DfDbbe391AAD4b79",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "922"
+      ]
+    },
+    {
+      "user": "0x662A79fBc9ae681d7cD19A7275Aa8b3187CcA622",
+      "bookNFT": "0x87140Bef332E48D1F2341db740E388460609152E",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": false,
+      "tokenIds": [
+        "964"
+      ]
+    },
+    {
+      "user": "0x3f6B1945F22De27540fe293E35F1256594B7a13c",
+      "bookNFT": "0xeC56635DC9a3dC8bF453a1A960917F3A5eF265ec",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "995"
+      ]
+    },
+    {
+      "user": "0x625B192B5019bcA08F4C312ba4319203e5e07e94",
+      "bookNFT": "0x6EEf0D7C24c6b872e480154dEb8b7430f54603E3",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "1178"
+      ]
+    },
+    {
+      "user": "0xDd0fc492DeCA435a75A1f850240772e2664D3990",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "1051"
+      ]
+    },
+    {
+      "user": "0x662A79fBc9ae681d7cD19A7275Aa8b3187CcA622",
+      "bookNFT": "0x17A8B5B45Df12bE61EE5c057C463634C7B64b00c",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": false,
+      "tokenIds": [
+        "1110"
+      ]
+    },
+    {
+      "user": "0xC6d5ED6D13bdB38cCb5c4B34f6f64FEf6623ab2D",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "1135"
+      ]
+    },
+    {
+      "user": "0x955DA9462C4960Cf9aEd82B111c12FB13704e09a",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "1136"
+      ]
+    },
+    {
+      "user": "0x66AD8D3E0db87Ae882C1788e2cda9e31cDB4F013",
+      "bookNFT": "0x6EEf0D7C24c6b872e480154dEb8b7430f54603E3",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "1261"
+      ]
+    },
+    {
+      "user": "0x2B3F6105B7802196728979e23099161312BF4140",
+      "bookNFT": "0xa004d4a92B2C139aE5B6a2485458B60b484Aa3db",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": false,
+      "tokenIds": [
+        "1299"
+      ]
+    },
+    {
+      "user": "0xF0177457dD06f99fA1973aDA68903DdF3B6De2BD",
+      "bookNFT": "0x9483913D6207c0Dd3c54D7856C23145F1279cA52",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "1343"
+      ]
+    },
+    {
+      "user": "0x662A79fBc9ae681d7cD19A7275Aa8b3187CcA622",
+      "bookNFT": "0xf54e4B28493b4Ec8f2Cf97E0f8209f71FBaC1254",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": false,
+      "tokenIds": [
+        "1363"
+      ]
+    },
+    {
+      "user": "0x7fF3c36212F5B10846B7A2569b7b8a822a900050",
+      "bookNFT": "0xf54e4B28493b4Ec8f2Cf97E0f8209f71FBaC1254",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": false,
+      "tokenIds": [
+        "1367"
+      ]
+    },
+    {
+      "user": "0x7fF3c36212F5B10846B7A2569b7b8a822a900050",
+      "bookNFT": "0x5Bd162A3F47B40f57d41f0667e51B37D2b790cE8",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": false,
+      "tokenIds": [
+        "1369"
+      ]
+    },
+    {
+      "user": "0x662A79fBc9ae681d7cD19A7275Aa8b3187CcA622",
+      "bookNFT": "0xa2223E10aE8Db458FB5c599DA3BBF95BB6665e23",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "1420"
+      ]
+    },
+    {
+      "user": "0xbf2217e4d458B4219DF6943853a053Ad4db772fa",
+      "bookNFT": "0xeC56635DC9a3dC8bF453a1A960917F3A5eF265ec",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "1431"
+      ]
+    },
+    {
+      "user": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0x93bec61F64227EeBBD0bB14E1AeCE56D63B9e0F7",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "1501"
+      ]
+    },
+    {
+      "user": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0xB790e3B54f17eBC1534F5096438b227AEc613C4e",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "1502"
+      ]
+    },
+    {
+      "user": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0x51D9A55CeeA0fc14BD8DbA60af5284F0e17fC936",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "1503"
+      ]
+    },
+    {
+      "user": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0x3928C8E06f5f814811f6d70ae91da85B4E133b89",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "1504"
+      ]
+    },
+    {
+      "user": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0x0526Eb0EDF7707683f1bA4DCf8Ad35b853490762",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "1506"
+      ]
+    },
+    {
+      "user": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0x5668ae4acDdE1E4143ae8229AF951CEa386a94c9",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "1507"
+      ]
+    },
+    {
+      "user": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0x991739959726cb96f1caFF52c968f4f2912795Ff",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "1508"
+      ]
+    },
+    {
+      "user": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0x6d4f3EB092a8312a52104B8786Cf5D6305261D07",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "1509"
+      ]
+    },
+    {
+      "user": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0xd9Cd6de785C3b8F1939a8DD509019177B7D41a0E",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "1510"
+      ]
+    },
+    {
+      "user": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0xAB976072B6Be23De212437d8f42375D5131daFb9",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "1511"
+      ]
+    },
+    {
+      "user": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0x21E66DBd47d6376242956DaA7348682EBAd79D3B",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "1512"
+      ]
+    },
+    {
+      "user": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0xdDBa03e8e8459d4afD9ac6eA226209b7E56d5AF1",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "1513"
+      ]
+    },
+    {
+      "user": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0x34091a775D8aC20C402f352BAEBa2CD7E268856d",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "1514"
+      ]
+    },
+    {
+      "user": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0x0d9daD7d5BA162c98260398B5494cC133292b5Ad",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "1515"
+      ]
+    },
+    {
+      "user": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0x22263b9c327817dF2B11d64dfeC2b4A754fE4457",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "1516"
+      ]
+    },
+    {
+      "user": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0x6DC830BCe79D7d6F6db60d0bFAE8389192Bbf630",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "1519"
+      ]
+    },
+    {
+      "user": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0x3ed61aeeC1DA28A93eE9963f2D21FdD802CBc063",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "1520"
+      ]
+    },
+    {
+      "user": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0x97FA87D601701ea51164CfC4e0e00dde004A9CA0",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "1521"
+      ]
+    },
+    {
+      "user": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0x5aDCb8a737e4AaABf7Ff6b656Acd5dc60E983757",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "1522"
+      ]
+    },
+    {
+      "user": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0xb73f103207aB7A1e7c0c1f3218f52dF5bb812C32",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "1523"
+      ]
+    },
+    {
+      "user": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0xa750Ef555fC0368987974b34e058200a81BEd78d",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "1524"
+      ]
+    },
+    {
+      "user": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0x9cA7f7FAF79544FEEF185b50749D3f814E3748ce",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "1525"
+      ]
+    },
+    {
+      "user": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0x3ccD28dfa50a169435002b0BC3A363a0A7E23aa0",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "1526"
+      ]
+    },
+    {
+      "user": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0x78b29A83c1Ef7a7ef0faA0eC11Cb3809E5B78402",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "1527"
+      ]
+    },
+    {
+      "user": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0xF9e993C8a9fBc63a910DCd1B02b3359cCC373919",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "1528"
+      ]
+    },
+    {
+      "user": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0x2fa5F63792Ea0f3501C842417eF8E61F41c5E60f",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "1529"
+      ]
+    },
+    {
+      "user": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0x7d05a166589a26A892BE616579a05432a2401314",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "1530"
+      ]
+    },
+    {
+      "user": "0x874C506D93e1bc08d735730A2e20beD16CE5bDB9",
+      "bookNFT": "0x4D69ecb8Da3B16D5828eC0DCd17B1310Cb96D3A0",
+      "outstanding": "0",
+      "outstandingLike": "0.0",
+      "inflated": true,
+      "tokenIds": [
+        "1539"
+      ]
+    }
+  ],
+  "byUser": [
+    {
+      "user": "0x662a79fbc9ae681d7cd19a7275aa8b3187cca622",
+      "outstanding": "876358113844393964337",
+      "outstandingLike": "876358113844393.964337"
+    },
+    {
+      "user": "0xea13e2a6c52ce61c506247267d15d3bba7caba53",
+      "outstanding": "508667427255387040488",
+      "outstandingLike": "508667427255387.040488"
+    },
+    {
+      "user": "0x3ffc07ed6a65e379e39bef93e713ee3ff77a56e4",
+      "outstanding": "347859463590107752272",
+      "outstandingLike": "347859463590107.752272"
+    },
+    {
+      "user": "0x98e6269f33d3191b6e6dedd01e93c51cc14257d3",
+      "outstanding": "259647101576113776559",
+      "outstandingLike": "259647101576113.776559"
+    },
+    {
+      "user": "0x4d58578253de8d9deb6a57faf43e0e3226c9629b",
+      "outstanding": "240413982940412345436",
+      "outstandingLike": "240413982940412.345436"
+    },
+    {
+      "user": "0x3f31371e915efe4067c241b9ddc919919b6871c5",
+      "outstanding": "185917138988660596870",
+      "outstandingLike": "185917138988660.59687"
+    },
+    {
+      "user": "0x7ff3c36212f5b10846b7a2569b7b8a822a900050",
+      "outstanding": "100466985129006187963",
+      "outstandingLike": "100466985129006.187963"
+    },
+    {
+      "user": "0x8f176d80f72ea56fbf61b5e56b84414689ea26ba",
+      "outstanding": "99918730989198189704",
+      "outstandingLike": "99918730989198.189704"
+    },
+    {
+      "user": "0x66ad8d3e0db87ae882c1788e2cda9e31cdb4f013",
+      "outstanding": "86733831190007536412",
+      "outstandingLike": "86733831190007.536412"
+    },
+    {
+      "user": "0x63252957c9f9a6e7d4558fd7cc64be55e8d38a81",
+      "outstanding": "66731330539218814457",
+      "outstandingLike": "66731330539218.814457"
+    },
+    {
+      "user": "0xb2206f941a5206b55bfa33e665687523a8bced80",
+      "outstanding": "59750062884151700606",
+      "outstandingLike": "59750062884151.700606"
+    },
+    {
+      "user": "0x64110f5bd00561cc7d1df17f8faf7168a80985ac",
+      "outstanding": "40278286252388530678",
+      "outstandingLike": "40278286252388.530678"
+    },
+    {
+      "user": "0x13d6f5a180a8ff82e2e74847d9bc91b537b03a2e",
+      "outstanding": "36504459713031121801",
+      "outstandingLike": "36504459713031.121801"
+    },
+    {
+      "user": "0x0415c6d6204b1360511f8961dd91b02e489d6ed6",
+      "outstanding": "34774707858129764518",
+      "outstandingLike": "34774707858129.764518"
+    },
+    {
+      "user": "0xdbc1278e2275f6ab82d8b4a032bfc0e2a127f6b6",
+      "outstanding": "34774707858058632602",
+      "outstandingLike": "34774707858058.632602"
+    },
+    {
+      "user": "0xa037feb6508a8c2f93bb19f6721730c45921f2d0",
+      "outstanding": "25988042248159944834",
+      "outstandingLike": "25988042248159.944834"
+    },
+    {
+      "user": "0x11be308ab7c4f0e330feb1f1f7ed5e21185b8066",
+      "outstanding": "24041398294084608940",
+      "outstandingLike": "24041398294084.60894"
+    },
+    {
+      "user": "0x64ee2f93e3f18a46e4c6a7aca6c2eb9edb8c0ca0",
+      "outstanding": "19166828771213738289",
+      "outstandingLike": "19166828771213.738289"
+    },
+    {
+      "user": "0x6ba3525b364445f4ed3244ff0a151c8baea934ca",
+      "outstanding": "17850491134009017846",
+      "outstandingLike": "17850491134009.017846"
+    },
+    {
+      "user": "0xc3667dcad0d71301e913b6cb8741538b7cfe251c",
+      "outstanding": "12449525796711686795",
+      "outstandingLike": "12449525796711.686795"
+    },
+    {
+      "user": "0xe584099c39d0eae355c6b0f003767dd53dfb8f6a",
+      "outstanding": "11195385549217128937",
+      "outstandingLike": "11195385549217.128937"
+    },
+    {
+      "user": "0xfb0757a4a21a849ae6142341736976b3c86f00ab",
+      "outstanding": "11086748667435570320",
+      "outstandingLike": "11086748667435.57032"
+    },
+    {
+      "user": "0x874c506d93e1bc08d735730a2e20bed16ce5bdb9",
+      "outstanding": "8881842734790365298",
+      "outstandingLike": "8881842734790.365298"
+    },
+    {
+      "user": "0x0686bcd9e5a94d9f0b29ea7ce1887d8b2da21e86",
+      "outstanding": "8299683861305113952",
+      "outstandingLike": "8299683861305.113952"
+    },
+    {
+      "user": "0x7d08f52539a8fa695b474513437b1ee8bf5112d7",
+      "outstanding": "6833496662896369920",
+      "outstandingLike": "6833496662896.36992"
+    },
+    {
+      "user": "0x12cf06fc70cbcbfd9e8e1676029f7189053ac981",
+      "outstanding": "4775403636405060095",
+      "outstandingLike": "4775403636405.060095"
+    },
+    {
+      "user": "0x5b2eb37b05cb28dbce6d83ec25071860bc6b36cc",
+      "outstanding": "4040468522820867073",
+      "outstandingLike": "4040468522820.867073"
+    },
+    {
+      "user": "0x880d1303b47cf2ca05ff0cd62543dc2752bf8b37",
+      "outstanding": "3863643765817001785",
+      "outstandingLike": "3863643765817.001785"
+    },
+    {
+      "user": "0x3d3e5223330a00c76027852e5272f208e0e17031",
+      "outstanding": "3527375984500370281",
+      "outstandingLike": "3527375984500.370281"
+    },
+    {
+      "user": "0x8450451c0ade41470d7d376f72fd2e8e59d6af9d",
+      "outstanding": "3477470785808957962",
+      "outstandingLike": "3477470785808.957962"
+    },
+    {
+      "user": "0x1bb6c8cb55a4abd964e53614d60eba9e2ab3059d",
+      "outstanding": "3477470785808957962",
+      "outstandingLike": "3477470785808.957962"
+    },
+    {
+      "user": "0xd5013d3802f2b870209058e0ff105bf97f8b822d",
+      "outstanding": "2598804224820860706",
+      "outstandingLike": "2598804224820.860706"
+    },
+    {
+      "user": "0x21fedf67de7a7dd7b01b83536d333d3b35a28c6d",
+      "outstanding": "2598804224812264492",
+      "outstandingLike": "2598804224812.264492"
+    },
+    {
+      "user": "0xc6473a964f160b24576946d5c616cade88b0465c",
+      "outstanding": "2373421736779457438",
+      "outstandingLike": "2373421736779.457438"
+    },
+    {
+      "user": "0xf991da2020b7d9613036792889d3b5384cabbfca",
+      "outstanding": "2337608068022211106",
+      "outstandingLike": "2337608068022.211106"
+    },
+    {
+      "user": "0x39c8b49ca48d266785a01cc2141eb936c2f11028",
+      "outstanding": "1986567912656780083",
+      "outstandingLike": "1986567912656.780083"
+    },
+    {
+      "user": "0x4ac887471a53186fc07877b9ab7ac1c639fee9e6",
+      "outstanding": "1938115704220872539",
+      "outstandingLike": "1938115704220.872539"
+    },
+    {
+      "user": "0xdabd93cecd32b0474d0f798be56ac0888b9edc6b",
+      "outstanding": "1916682877109551310",
+      "outstandingLike": "1916682877109.55131"
+    },
+    {
+      "user": "0xadf8936d5fd9dfc6438c982714681a1b3d5a83c2",
+      "outstanding": "1916682877100000000",
+      "outstandingLike": "1916682877100.0"
+    },
+    {
+      "user": "0xd10bcb42c7b5381cbb278afc02ce0ddac76ccd4b",
+      "outstanding": "1481190916791303457",
+      "outstandingLike": "1481190916791.303457"
+    },
+    {
+      "user": "0x9bd0787873b50990c14ef9155d7a095753c22485",
+      "outstanding": "1471356045977245745",
+      "outstandingLike": "1471356045977.245745"
+    },
+    {
+      "user": "0x02e74f3b930f8443de58e9d3bd57fc6b1612e627",
+      "outstanding": "1409829724000496390",
+      "outstandingLike": "1409829724000.49639"
+    },
+    {
+      "user": "0x23ad30b8f1d8ba2f3ce3abeabd9666b9add798d6",
+      "outstanding": "1125995474000000000",
+      "outstandingLike": "1125995474000.0"
+    },
+    {
+      "user": "0x2696cbf8ef06175cd2ddb80b928f7a8e81de1e3e",
+      "outstanding": "1123850032965113164",
+      "outstandingLike": "1123850032965.113164"
+    },
+    {
+      "user": "0xb903f6b23a14707eb4d0fb4e31c4c4e28edbb8e7",
+      "outstanding": "1119538555097249195",
+      "outstandingLike": "1119538555097.249195"
+    },
+    {
+      "user": "0x1d1f6bebab8a03a09fd2e28a2d152a912d4d87c9",
+      "outstanding": "1119538554932300001",
+      "outstandingLike": "1119538554932.300001"
+    },
+    {
+      "user": "0x955da9462c4960cf9aed82b111c12fb13704e09a",
+      "outstanding": "1119538554911649959",
+      "outstandingLike": "1119538554911.649959"
+    },
+    {
+      "user": "0xe0b429fd64880a49df7e488722e676d51d13ed34",
+      "outstanding": "1119538554911649959",
+      "outstandingLike": "1119538554911.649959"
+    },
+    {
+      "user": "0x342fd1b0d75966f88870cbbad9caf4afa04998e6",
+      "outstanding": "1119538554900000000",
+      "outstandingLike": "1119538554900.0"
+    },
+    {
+      "user": "0xf0177457dd06f99fa1973ada68903ddf3b6de2bd",
+      "outstanding": "805565725029456448",
+      "outstandingLike": "805565725029.456448"
+    },
+    {
+      "user": "0xa3920714f9fdf92eca5e112017ab1d31cfcb8588",
+      "outstanding": "435095018632928262",
+      "outstandingLike": "435095018632.928262"
+    },
+    {
+      "user": "0xdc7cd28a98e780711d72cc0a7ab484b3ccf89910",
+      "outstanding": "347747078582213330",
+      "outstandingLike": "347747078582.21333"
+    },
+    {
+      "user": "0x625b192b5019bca08f4c312ba4319203e5e07e94",
+      "outstanding": "306904549591246289",
+      "outstandingLike": "306904549591.246289"
+    },
+    {
+      "user": "0x8eb12be95e325376721dd6ddea39306171fac71d",
+      "outstanding": "265456523822006035",
+      "outstandingLike": "265456523822.006035"
+    },
+    {
+      "user": "0x24cd9d885fe462354e74bdc5361e0886441875dc",
+      "outstanding": "209488367233281031",
+      "outstandingLike": "209488367233.281031"
+    },
+    {
+      "user": "0xf28baad89cdfb9caeda0ca7bb4a978adbd432ed5",
+      "outstanding": "191668287715869858",
+      "outstandingLike": "191668287715.869858"
+    },
+    {
+      "user": "0x6f72faa82c120ca06e25d01d7123eff09257fcd3",
+      "outstanding": "145376730692266817",
+      "outstandingLike": "145376730692.266817"
+    },
+    {
+      "user": "0x9d22f2058b4ea321de701c75fb907d806e5922ba",
+      "outstanding": "111953855494842362",
+      "outstandingLike": "111953855494.842362"
+    },
+    {
+      "user": "0x6bc21a147962a8399c82d50445a8b479e7817335",
+      "outstanding": "111953855491164995",
+      "outstandingLike": "111953855491.164995"
+    },
+    {
+      "user": "0x9ec2660d482f5ae9cdc6835af0a4f604701a93e5",
+      "outstanding": "71288151108980734",
+      "outstandingLike": "71288151108.980734"
+    },
+    {
+      "user": "0xbf2217e4d458b4219df6943853a053ad4db772fa",
+      "outstanding": "22737449842737872",
+      "outstandingLike": "22737449842.737872"
+    },
+    {
+      "user": "0x895383ad6b172e00db94c29d5a5c60d61dc5bb2d",
+      "outstanding": "11195385549116499",
+      "outstandingLike": "11195385549.116499"
+    },
+    {
+      "user": "0xff3cbb33c42049ba23c313f05f2907285ef9086f",
+      "outstanding": "7698468369846759",
+      "outstandingLike": "7698468369.846759"
+    },
+    {
+      "user": "0x3b5a2b705f21398c0329581570618082a7d4c12c",
+      "outstanding": "6237130139541492",
+      "outstandingLike": "6237130139.541492"
+    },
+    {
+      "user": "0x78eddc163275e9e254557313cad83d88e680c99f",
+      "outstanding": "16183437364",
+      "outstandingLike": "16183.437364"
+    },
+    {
+      "user": "0x36f322fc85b24ab13263cfe9217b28f8e2b38381",
+      "outstanding": "5359088083",
+      "outstandingLike": "5359.088083"
+    },
+    {
+      "user": "0xbca9846312aa78ab6f570ffadee22863b1163fc1",
+      "outstanding": "2098145488",
+      "outstandingLike": "2098.145488"
+    },
+    {
+      "user": "0x310cffb4198ecbf3f1f9064846d7473e177621ae",
+      "outstanding": "1965926565",
+      "outstandingLike": "1965.926565"
+    },
+    {
+      "user": "0xf0269c48252cd4c942a54f7c2e1a0d5870fdb348",
+      "outstanding": "772625978",
+      "outstandingLike": "772.625978"
+    },
+    {
+      "user": "0xc4b2d5a6edba534a848336173e4136f078e1b7ef",
+      "outstanding": "610803341",
+      "outstandingLike": "610.803341"
+    },
+    {
+      "user": "0xa17cf0b41dfa1c18ef832c486e084c962a997efe",
+      "outstanding": "443662190",
+      "outstandingLike": "443.66219"
+    },
+    {
+      "user": "0xac770fe814f733a7c74f3698e9ff49b0acefda75",
+      "outstanding": "378246862",
+      "outstandingLike": "378.246862"
+    },
+    {
+      "user": "0x35cf10a5d2a240b9cb7ac44442b8a326f6961e66",
+      "outstanding": "288567377",
+      "outstandingLike": "288.567377"
+    },
+    {
+      "user": "0xb7f78a12c040ab03eed909915a3605b91cb099f5",
+      "outstanding": "153862312",
+      "outstandingLike": "153.862312"
+    },
+    {
+      "user": "0xea7d3868a81bbbb8814afe37e199fc6ed49c3cae",
+      "outstanding": "122845742",
+      "outstandingLike": "122.845742"
+    },
+    {
+      "user": "0xdc6b04b4e40fde7c0e9ee1171f913febdbb4b88b",
+      "outstanding": "85221059",
+      "outstandingLike": "85.221059"
+    },
+    {
+      "user": "0x7bd57425c60b32be5a7df107d3d119adf7c8a440",
+      "outstanding": "49690670",
+      "outstandingLike": "49.69067"
+    },
+    {
+      "user": "0xd1b884c27726d782585a2807c9e919a92786b2db",
+      "outstanding": "49690670",
+      "outstandingLike": "49.69067"
+    },
+    {
+      "user": "0xe425120dfcca03aee142d222a558eca316d68ffb",
+      "outstanding": "39332796",
+      "outstandingLike": "39.332796"
+    },
+    {
+      "user": "0x20981700abe3283e1de60c77588201fb399634ee",
+      "outstanding": "34710404",
+      "outstandingLike": "34.710404"
+    },
+    {
+      "user": "0x47e6c59d1aa905eb1e847c91e1248a35b8ac3ab4",
+      "outstanding": "23609718",
+      "outstandingLike": "23.609718"
+    },
+    {
+      "user": "0x82d3871bcbb8a8e9b9db67471da9ec87ad8d653e",
+      "outstanding": "15306575",
+      "outstandingLike": "15.306575"
+    },
+    {
+      "user": "0x1c088f9bf5c0c1bdd63df843f5fd328bc7a6e675",
+      "outstanding": "14453119",
+      "outstandingLike": "14.453119"
+    },
+    {
+      "user": "0xc7d3aea5789630ff007d78b0c0cbcf516ed01328",
+      "outstanding": "13439106",
+      "outstandingLike": "13.439106"
+    },
+    {
+      "user": "0xeb2b2a2ad1a726bcc17d43f7c198625fe8fd7d16",
+      "outstanding": "9376355",
+      "outstandingLike": "9.376355"
+    },
+    {
+      "user": "0xdfc4f3454cc725c0a025d29268e7d0a03e8401f8",
+      "outstanding": "8762948",
+      "outstandingLike": "8.762948"
+    },
+    {
+      "user": "0x22bd0ec1e8b733b77f8b35447b27cae41286f86e",
+      "outstanding": "8762948",
+      "outstandingLike": "8.762948"
+    },
+    {
+      "user": "0x756672046297f17a1bfc4d592b22c6dfc4c35215",
+      "outstanding": "7735812",
+      "outstandingLike": "7.735812"
+    },
+    {
+      "user": "0x3c5a725f73f9426a19c9258f85b7b60b3d8125a9",
+      "outstanding": "5607569",
+      "outstandingLike": "5.607569"
+    },
+    {
+      "user": "0x22ec2a291bae09b5615c52b193d32dbd56385c30",
+      "outstanding": "5607569",
+      "outstandingLike": "5.607569"
+    },
+    {
+      "user": "0x7b94f66d075f201c5f28059c73af3923c1d69a53",
+      "outstanding": "5437436",
+      "outstandingLike": "5.437436"
+    },
+    {
+      "user": "0x233441646eba8e2cdd166e449db605e05e74abe2",
+      "outstanding": "5256526",
+      "outstandingLike": "5.256526"
+    },
+    {
+      "user": "0x65f3ea02d4de5d10589beddaebebcd10231e8708",
+      "outstanding": "4997884",
+      "outstandingLike": "4.997884"
+    },
+    {
+      "user": "0xea267bdd43d310734057e5dbdb02330528c21f05",
+      "outstanding": "4111729",
+      "outstandingLike": "4.111729"
+    },
+    {
+      "user": "0x550bf893a4dc87a76f99726581c8f6bbe87a028d",
+      "outstanding": "4103848",
+      "outstandingLike": "4.103848"
+    },
+    {
+      "user": "0x13edf0a12d119c961cfcafd238e4daa839324ddb",
+      "outstanding": "2865819",
+      "outstandingLike": "2.865819"
+    },
+    {
+      "user": "0x3ec3637e54d54d1bd289c0272ccb4a665eecf725",
+      "outstanding": "2865819",
+      "outstandingLike": "2.865819"
+    },
+    {
+      "user": "0x1a5f2becc503a7d795bc8154061168856ef33c27",
+      "outstanding": "2718718",
+      "outstandingLike": "2.718718"
+    },
+    {
+      "user": "0xad6000372440657550810e8cd337822821f321d9",
+      "outstanding": "2718718",
+      "outstandingLike": "2.718718"
+    },
+    {
+      "user": "0x9692fefe6ffa3d45769cb6a8c9d11991fc143919",
+      "outstanding": "2371580",
+      "outstandingLike": "2.37158"
+    },
+    {
+      "user": "0xea2ca5022a73e881ea5716e6955ab665b46819cf",
+      "outstanding": "1946461",
+      "outstandingLike": "1.946461"
+    },
+    {
+      "user": "0xe29ca6542347879b0af2a534b865023adb9a39c0",
+      "outstanding": "1646727",
+      "outstandingLike": "1.646727"
+    },
+    {
+      "user": "0xb0fd5a878dbf3f9358a251caf9b6fc692a999ca7",
+      "outstanding": "754414",
+      "outstandingLike": "0.754414"
+    },
+    {
+      "user": "0xf987062380be7b7bf5ce8fc9c75c8a00652de636",
+      "outstanding": "699381",
+      "outstandingLike": "0.699381"
+    },
+    {
+      "user": "0xe155fb7f921b46383d83cae0165a9717de04162f",
+      "outstanding": "552735",
+      "outstandingLike": "0.552735"
+    },
+    {
+      "user": "0xc25d144e6fc60f507864e83606dae5746b5ffa21",
+      "outstanding": "437985",
+      "outstandingLike": "0.437985"
+    },
+    {
+      "user": "0x62720dac71d20ab6ca7e45f222dcfc77a69f9fb3",
+      "outstanding": "326396",
+      "outstandingLike": "0.326396"
+    },
+    {
+      "user": "0x0896e95b1750843432d10ca0babf8bbd67d6c675",
+      "outstanding": "190310",
+      "outstandingLike": "0.19031"
+    },
+    {
+      "user": "0x41e2a4646d4d04e1d31fc1d6cc2d221633e469e5",
+      "outstanding": "94534",
+      "outstandingLike": "0.094534"
+    },
+    {
+      "user": "0xd99b54a04aa66af4b8f4066352a8353ac55f4766",
+      "outstanding": "69938",
+      "outstandingLike": "0.069938"
+    },
+    {
+      "user": "0xee3500175076c19cf45889fdfd2ec52029baca0c",
+      "outstanding": "38313",
+      "outstandingLike": "0.038313"
+    },
+    {
+      "user": "0x5b357b6dfbc10151dd4775c70b5355a7c8498f29",
+      "outstanding": "31433",
+      "outstandingLike": "0.031433"
+    },
+    {
+      "user": "0xd3448a4843981baeb66459faab20cb6e669419f4",
+      "outstanding": "14450",
+      "outstandingLike": "0.01445"
+    },
+    {
+      "user": "0x9a4d3d8426479987dc5cea2637b4757d68ceca17",
+      "outstanding": "12909",
+      "outstandingLike": "0.012909"
+    },
+    {
+      "user": "0x775e80246a1c3aac7ce389b481a8e74e1f2febcb",
+      "outstanding": "63",
+      "outstandingLike": "0.000063"
+    },
+    {
+      "user": "0x979b80a90e51318eb046a5b90e2f4c742e14366e",
+      "outstanding": "0",
+      "outstandingLike": "0.0"
+    },
+    {
+      "user": "0xe002bfb4106f3ccc1729eef333dc87a5411bb775",
+      "outstanding": "0",
+      "outstandingLike": "0.0"
+    },
+    {
+      "user": "0x2eda6e34136f734e99cfda84fd62f2d5f2343b51",
+      "outstanding": "0",
+      "outstandingLike": "0.0"
+    },
+    {
+      "user": "0x2a79fa796ae55302e69f40db7383179bf38b6a28",
+      "outstanding": "0",
+      "outstandingLike": "0.0"
+    },
+    {
+      "user": "0xa8a98a84f2403dedf70cc77ccf524faf7431066b",
+      "outstanding": "0",
+      "outstandingLike": "0.0"
+    },
+    {
+      "user": "0x765c6f7a13b989461165367d4c4f470d4b467f85",
+      "outstanding": "0",
+      "outstandingLike": "0.0"
+    },
+    {
+      "user": "0xce9787148249216e6010d0c8ea4c458b8e93909f",
+      "outstanding": "0",
+      "outstandingLike": "0.0"
+    },
+    {
+      "user": "0xa2b7350ada8c594581c78962f01988600e611aa6",
+      "outstanding": "0",
+      "outstandingLike": "0.0"
+    },
+    {
+      "user": "0x07a43459f8a515ef8eefa85d993285cf64d80f78",
+      "outstanding": "0",
+      "outstandingLike": "0.0"
+    },
+    {
+      "user": "0x0ec01c8b47d83f4965f91a42dfdbbe391aad4b79",
+      "outstanding": "0",
+      "outstandingLike": "0.0"
+    },
+    {
+      "user": "0x3f6b1945f22de27540fe293e35f1256594b7a13c",
+      "outstanding": "0",
+      "outstandingLike": "0.0"
+    },
+    {
+      "user": "0xdd0fc492deca435a75a1f850240772e2664d3990",
+      "outstanding": "0",
+      "outstandingLike": "0.0"
+    },
+    {
+      "user": "0xc6d5ed6d13bdb38ccb5c4b34f6f64fef6623ab2d",
+      "outstanding": "0",
+      "outstandingLike": "0.0"
+    },
+    {
+      "user": "0x2b3f6105b7802196728979e23099161312bf4140",
+      "outstanding": "0",
+      "outstandingLike": "0.0"
+    }
+  ]
+}
