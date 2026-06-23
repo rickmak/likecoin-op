@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "chainId": 8453,
+    "network": "base",
+    "block": 47723548,
+    "collective": "0x4506Ac2dD1e9A470d92a3D1656E1a99C676E1c8E",
+    "stakePosition": "0x508610D3009cda82Ac1a40D2b322Ed31932D16b1",
+    "positionCount": 1390,
+    "poolCount": 508,
+    "snapshotFile": "/home/rickmak/likecoin-op/likecoin3/snapshot/8453-47723548.json"
+  },
+  "driftedBookNFTs": [],
+  "drifted": [],
+  "inflated": []
+}
