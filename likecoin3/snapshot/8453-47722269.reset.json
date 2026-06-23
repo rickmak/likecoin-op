@@ -1,0 +1,5013 @@
+{
+  "meta": {
+    "chainId": 8453,
+    "network": "base",
+    "block": 47722269,
+    "collective": "0x4506Ac2dD1e9A470d92a3D1656E1a99C676E1c8E",
+    "stakePosition": "0x508610D3009cda82Ac1a40D2b322Ed31932D16b1",
+    "positionCount": 1390,
+    "poolCount": 508,
+    "snapshotFile": "/home/rickmak/likecoin-op/likecoin3/snapshot/8453-47722269.json",
+    "driftFile": "/home/rickmak/likecoin-op/likecoin3/snapshot/8453-47722269.drift.json",
+    "poolsToReset": 56,
+    "positionsToReset": 432,
+    "grandFunded": "47961751782",
+    "grandOwed": "47961751782"
+  },
+  "pools": [
+    {
+      "bookNFT": "0x0526Eb0EDF7707683f1bA4DCf8Ad35b853490762",
+      "positions": 2,
+      "tokenIds": [
+        "805",
+        "1506"
+      ],
+      "expectedTotalStaked": "3000002",
+      "recordedTotalStaked": "1",
+      "rewardPendingFunded": "0",
+      "sumClaimable": "3613291981430258",
+      "inflated": true,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0x0d9daD7d5BA162c98260398B5494cC133292b5Ad",
+      "positions": 7,
+      "tokenIds": [
+        "49",
+        "296",
+        "1048",
+        "715",
+        "851",
+        "1044",
+        "1515"
+      ],
+      "expectedTotalStaked": "22304000002",
+      "recordedTotalStaked": "1",
+      "rewardPendingFunded": "0",
+      "sumClaimable": "536219347551113398288",
+      "inflated": true,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0x17A8B5B45Df12bE61EE5c057C463634C7B64b00c",
+      "positions": 2,
+      "tokenIds": [
+        "1110",
+        "1130"
+      ],
+      "expectedTotalStaked": "52963173386",
+      "recordedTotalStaked": "52003000000",
+      "rewardPendingFunded": "1440261",
+      "sumClaimable": "1440260",
+      "inflated": false,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "positions": 39,
+      "tokenIds": [
+        "599",
+        "598",
+        "535",
+        "539",
+        "540",
+        "541",
+        "554",
+        "568",
+        "571",
+        "574",
+        "576",
+        "577",
+        "582",
+        "1055",
+        "604",
+        "605",
+        "611",
+        "615",
+        "1073",
+        "810",
+        "1011",
+        "814",
+        "815",
+        "817",
+        "863",
+        "888",
+        "895",
+        "921",
+        "918",
+        "919",
+        "920",
+        "922",
+        "932",
+        "937",
+        "956",
+        "1008",
+        "1051",
+        "1135",
+        "1136"
+      ],
+      "expectedTotalStaked": "397454508166",
+      "recordedTotalStaked": "360214648000",
+      "rewardPendingFunded": "8132702840",
+      "sumClaimable": "11186207518",
+      "inflated": true,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0x19B884c94b9E27f14e997db63dFa8F1F5EF40E2c",
+      "positions": 7,
+      "tokenIds": [
+        "25",
+        "30",
+        "131",
+        "148",
+        "192",
+        "286",
+        "784"
+      ],
+      "expectedTotalStaked": "56078644803",
+      "recordedTotalStaked": "55803000000",
+      "rewardPendingFunded": "1052725764",
+      "sumClaimable": "1056287796",
+      "inflated": true,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0x21E66DBd47d6376242956DaA7348682EBAd79D3B",
+      "positions": 5,
+      "tokenIds": [
+        "261",
+        "281",
+        "415",
+        "720",
+        "1512"
+      ],
+      "expectedTotalStaked": "613000002",
+      "recordedTotalStaked": "1",
+      "rewardPendingFunded": "0",
+      "sumClaimable": "891159359418767302",
+      "inflated": true,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0x22263b9c327817dF2B11d64dfeC2b4A754fE4457",
+      "positions": 12,
+      "tokenIds": [
+        "185",
+        "207",
+        "353",
+        "364",
+        "550",
+        "1090",
+        "789",
+        "858",
+        "939",
+        "969",
+        "1103",
+        "1516"
+      ],
+      "expectedTotalStaked": "23128240002",
+      "recordedTotalStaked": "1",
+      "rewardPendingFunded": "0",
+      "sumClaimable": "601057678244743322235",
+      "inflated": true,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0x2fa5F63792Ea0f3501C842417eF8E61F41c5E60f",
+      "positions": 4,
+      "tokenIds": [
+        "244",
+        "495",
+        "685",
+        "1529"
+      ],
+      "expectedTotalStaked": "113000002",
+      "recordedTotalStaked": "1",
+      "rewardPendingFunded": "0",
+      "sumClaimable": "81767096896602620",
+      "inflated": true,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0x334C13ABf78D5d29DDd32fca627179a5059B5814",
+      "positions": 24,
+      "tokenIds": [
+        "1",
+        "15",
+        "34",
+        "50",
+        "73",
+        "85",
+        "98",
+        "164",
+        "173",
+        "283",
+        "324",
+        "342",
+        "348",
+        "359",
+        "373",
+        "377",
+        "390",
+        "404",
+        "417",
+        "525",
+        "583",
+        "796",
+        "818",
+        "878"
+      ],
+      "expectedTotalStaked": "10343392471",
+      "recordedTotalStaked": "10310000000",
+      "rewardPendingFunded": "597216233",
+      "sumClaimable": "600142380",
+      "inflated": true,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0x34091a775D8aC20C402f352BAEBa2CD7E268856d",
+      "positions": 4,
+      "tokenIds": [
+        "1191",
+        "1236",
+        "1269",
+        "1514"
+      ],
+      "expectedTotalStaked": "1103000002",
+      "recordedTotalStaked": "1",
+      "rewardPendingFunded": "0",
+      "sumClaimable": "2304171211137003815",
+      "inflated": true,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0x3928C8E06f5f814811f6d70ae91da85B4E133b89",
+      "positions": 12,
+      "tokenIds": [
+        "42",
+        "155",
+        "158",
+        "213",
+        "331",
+        "347",
+        "380",
+        "400",
+        "514",
+        "781",
+        "960",
+        "1504"
+      ],
+      "expectedTotalStaked": "7069528436",
+      "recordedTotalStaked": "1",
+      "rewardPendingFunded": "0",
+      "sumClaimable": "58674851049782479269",
+      "inflated": true,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0x3bf42DA7f5781d3940B2318484c907Ee33e81d8D",
+      "positions": 10,
+      "tokenIds": [
+        "6",
+        "134",
+        "180",
+        "206",
+        "363",
+        "369",
+        "399",
+        "480",
+        "892",
+        "968"
+      ],
+      "expectedTotalStaked": "14462001248",
+      "recordedTotalStaked": "14400210000",
+      "rewardPendingFunded": "497355937",
+      "sumClaimable": "502224389",
+      "inflated": true,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0x3ccD28dfa50a169435002b0BC3A363a0A7E23aa0",
+      "positions": 4,
+      "tokenIds": [
+        "1078",
+        "1125",
+        "1416",
+        "1526"
+      ],
+      "expectedTotalStaked": "10003000002",
+      "recordedTotalStaked": "1",
+      "rewardPendingFunded": "0",
+      "sumClaimable": "107836597507646425621",
+      "inflated": true,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0x3ed61aeeC1DA28A93eE9963f2D21FdD802CBc063",
+      "positions": 6,
+      "tokenIds": [
+        "39",
+        "116",
+        "123",
+        "591",
+        "776",
+        "1520"
+      ],
+      "expectedTotalStaked": "4003000002",
+      "recordedTotalStaked": "1",
+      "rewardPendingFunded": "0",
+      "sumClaimable": "19806666824161955731",
+      "inflated": true,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0x4D69ecb8Da3B16D5828eC0DCd17B1310Cb96D3A0",
+      "positions": 4,
+      "tokenIds": [
+        "1470",
+        "1433",
+        "1441",
+        "1539"
+      ],
+      "expectedTotalStaked": "110486337084",
+      "recordedTotalStaked": "110300000000",
+      "rewardPendingFunded": "60789458",
+      "sumClaimable": "61934272",
+      "inflated": true,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0x51D9A55CeeA0fc14BD8DbA60af5284F0e17fC936",
+      "positions": 5,
+      "tokenIds": [
+        "179",
+        "289",
+        "742",
+        "1260",
+        "1503"
+      ],
+      "expectedTotalStaked": "3013000002",
+      "recordedTotalStaked": "1",
+      "rewardPendingFunded": "0",
+      "sumClaimable": "15036436361248519863",
+      "inflated": true,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0x5668ae4acDdE1E4143ae8229AF951CEa386a94c9",
+      "positions": 4,
+      "tokenIds": [
+        "305",
+        "356",
+        "747",
+        "1507"
+      ],
+      "expectedTotalStaked": "1103000002",
+      "recordedTotalStaked": "1",
+      "rewardPendingFunded": "0",
+      "sumClaimable": "2464902185717725459",
+      "inflated": true,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0x595FA2345b754c5F957099E2D8a976617C40710c",
+      "positions": 9,
+      "tokenIds": [
+        "9",
+        "16",
+        "21",
+        "28",
+        "79",
+        "83",
+        "255",
+        "513",
+        "790"
+      ],
+      "expectedTotalStaked": "7096612610",
+      "recordedTotalStaked": "7035000000",
+      "rewardPendingFunded": "1767150",
+      "sumClaimable": "1985215",
+      "inflated": true,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0x5Bd162A3F47B40f57d41f0667e51B37D2b790cE8",
+      "positions": 6,
+      "tokenIds": [
+        "149",
+        "290",
+        "365",
+        "379",
+        "701",
+        "1369"
+      ],
+      "expectedTotalStaked": "1743184943",
+      "recordedTotalStaked": "1413000000",
+      "rewardPendingFunded": "0",
+      "sumClaimable": "0",
+      "inflated": false,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0x5a84A921113340E8edD133931b55EB6e855259Ce",
+      "positions": 6,
+      "tokenIds": [
+        "53",
+        "87",
+        "361",
+        "478",
+        "625",
+        "801"
+      ],
+      "expectedTotalStaked": "21845972282",
+      "recordedTotalStaked": "21303000000",
+      "rewardPendingFunded": "363544447",
+      "sumClaimable": "372950180",
+      "inflated": true,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0x5aDCb8a737e4AaABf7Ff6b656Acd5dc60E983757",
+      "positions": 11,
+      "tokenIds": [
+        "5",
+        "18",
+        "23",
+        "80",
+        "82",
+        "518",
+        "146",
+        "420",
+        "797",
+        "974",
+        "1522"
+      ],
+      "expectedTotalStaked": "10350971626",
+      "recordedTotalStaked": "1",
+      "rewardPendingFunded": "0",
+      "sumClaimable": "116329397981999817741",
+      "inflated": true,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0x6B9184df38427a61814e638900fd9BE999E0bD02",
+      "positions": 7,
+      "tokenIds": [
+        "1074",
+        "1077",
+        "1076",
+        "1089",
+        "1067",
+        "1086",
+        "1123"
+      ],
+      "expectedTotalStaked": "23777179547",
+      "recordedTotalStaked": "23551930000",
+      "rewardPendingFunded": "359755950",
+      "sumClaimable": "364235255",
+      "inflated": true,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0x6DC830BCe79D7d6F6db60d0bFAE8389192Bbf630",
+      "positions": 5,
+      "tokenIds": [
+        "834",
+        "848",
+        "877",
+        "1213",
+        "1519"
+      ],
+      "expectedTotalStaked": "10103000002",
+      "recordedTotalStaked": "1",
+      "rewardPendingFunded": "0",
+      "sumClaimable": "112009421783684748663",
+      "inflated": true,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0x6EEf0D7C24c6b872e480154dEb8b7430f54603E3",
+      "positions": 8,
+      "tokenIds": [
+        "374",
+        "375",
+        "1082",
+        "758",
+        "963",
+        "1178",
+        "1109",
+        "1261"
+      ],
+      "expectedTotalStaked": "41367830007",
+      "recordedTotalStaked": "40826000000",
+      "rewardPendingFunded": "1218290515",
+      "sumClaimable": "1234312116",
+      "inflated": true,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0x6d4f3EB092a8312a52104B8786Cf5D6305261D07",
+      "positions": 5,
+      "tokenIds": [
+        "247",
+        "728",
+        "1002",
+        "1203",
+        "1509"
+      ],
+      "expectedTotalStaked": "1213000002",
+      "recordedTotalStaked": "1",
+      "rewardPendingFunded": "0",
+      "sumClaimable": "2758052666652744979",
+      "inflated": true,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0x6f7D621827d817B80C07a644a0A75579444BE530",
+      "positions": 4,
+      "tokenIds": [
+        "866",
+        "899",
+        "1360",
+        "1505"
+      ],
+      "expectedTotalStaked": "1103000002",
+      "recordedTotalStaked": "1",
+      "rewardPendingFunded": "174003496",
+      "sumClaimable": "2697076836472222745",
+      "inflated": true,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0x78b29A83c1Ef7a7ef0faA0eC11Cb3809E5B78402",
+      "positions": 2,
+      "tokenIds": [
+        "981",
+        "1527"
+      ],
+      "expectedTotalStaked": "10000002",
+      "recordedTotalStaked": "1",
+      "rewardPendingFunded": "0",
+      "sumClaimable": "7698468369846759",
+      "inflated": true,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0x7d05a166589a26A892BE616579a05432a2401314",
+      "positions": 3,
+      "tokenIds": [
+        "304",
+        "643",
+        "1530"
+      ],
+      "expectedTotalStaked": "13000002",
+      "recordedTotalStaked": "1",
+      "rewardPendingFunded": "0",
+      "sumClaimable": "9102136613164299",
+      "inflated": true,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0x87140Bef332E48D1F2341db740E388460609152E",
+      "positions": 3,
+      "tokenIds": [
+        "311",
+        "663",
+        "964"
+      ],
+      "expectedTotalStaked": "40694818312",
+      "recordedTotalStaked": "40103000000",
+      "rewardPendingFunded": "453302945",
+      "sumClaimable": "453302944",
+      "inflated": false,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0x8Abc20B4506988B555117e43A701D8658A9D370f",
+      "positions": 2,
+      "tokenIds": [
+        "210",
+        "735"
+      ],
+      "expectedTotalStaked": "11186251384",
+      "recordedTotalStaked": "11003000000",
+      "rewardPendingFunded": "425127866",
+      "sumClaimable": "432208230",
+      "inflated": true,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0x8EcBaA55E85429D968129207fad35f0d049424CA",
+      "positions": 19,
+      "tokenIds": [
+        "0",
+        "52",
+        "57",
+        "145",
+        "162",
+        "259",
+        "284",
+        "338",
+        "345",
+        "376",
+        "387",
+        "388",
+        "389",
+        "545",
+        "773",
+        "820",
+        "859",
+        "879",
+        "1517"
+      ],
+      "expectedTotalStaked": "9801000002",
+      "recordedTotalStaked": "1",
+      "rewardPendingFunded": "410021291",
+      "sumClaimable": "109725973767553406826",
+      "inflated": true,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0x91A7e8b5a3331cAf708ad3F90C71Cec10f37B125",
+      "positions": 16,
+      "tokenIds": [
+        "157",
+        "181",
+        "197",
+        "204",
+        "226",
+        "293",
+        "330",
+        "354",
+        "397",
+        "412",
+        "479",
+        "551",
+        "589",
+        "794",
+        "893",
+        "1282"
+      ],
+      "expectedTotalStaked": "133879728559",
+      "recordedTotalStaked": "133879040000",
+      "rewardPendingFunded": "4946276580",
+      "sumClaimable": "4946304289",
+      "inflated": true,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0x93bec61F64227EeBBD0bB14E1AeCE56D63B9e0F7",
+      "positions": 5,
+      "tokenIds": [
+        "251",
+        "709",
+        "1064",
+        "1168",
+        "1501"
+      ],
+      "expectedTotalStaked": "5603000002",
+      "recordedTotalStaked": "1",
+      "rewardPendingFunded": "0",
+      "sumClaimable": "45135847574202657246",
+      "inflated": true,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0x9483913D6207c0Dd3c54D7856C23145F1279cA52",
+      "positions": 15,
+      "tokenIds": [
+        "129",
+        "133",
+        "175",
+        "201",
+        "358",
+        "989",
+        "612",
+        "617",
+        "803",
+        "850",
+        "912",
+        "971",
+        "1016",
+        "1343",
+        "1352"
+      ],
+      "expectedTotalStaked": "96422483515",
+      "recordedTotalStaked": "96401750000",
+      "rewardPendingFunded": "4849441858",
+      "sumClaimable": "4850595740",
+      "inflated": true,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0x955b8520D9026D6247690E0dC8c5E1b1434C4078",
+      "positions": 14,
+      "tokenIds": [
+        "867",
+        "869",
+        "872",
+        "875",
+        "894",
+        "900",
+        "903",
+        "907",
+        "931",
+        "950",
+        "957",
+        "972",
+        "1223",
+        "1518"
+      ],
+      "expectedTotalStaked": "24415050002",
+      "recordedTotalStaked": "1",
+      "rewardPendingFunded": "8003427314",
+      "sumClaimable": "861129587318877668579",
+      "inflated": true,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0x97770A1E0023046D387aC987BbCC100f35a14844",
+      "positions": 6,
+      "tokenIds": [
+        "280",
+        "297",
+        "413",
+        "719",
+        "853",
+        "1050"
+      ],
+      "expectedTotalStaked": "82613313454",
+      "recordedTotalStaked": "82613000000",
+      "rewardPendingFunded": "10355883371",
+      "sumClaimable": "10355909571",
+      "inflated": true,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0x97FA87D601701ea51164CfC4e0e00dde004A9CA0",
+      "positions": 10,
+      "tokenIds": [
+        "32",
+        "117",
+        "156",
+        "326",
+        "402",
+        "804",
+        "847",
+        "911",
+        "1338",
+        "1521"
+      ],
+      "expectedTotalStaked": "8856008844",
+      "recordedTotalStaked": "1",
+      "rewardPendingFunded": "0",
+      "sumClaimable": "84582033650115352164",
+      "inflated": true,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0x991739959726cb96f1caFF52c968f4f2912795Ff",
+      "positions": 5,
+      "tokenIds": [
+        "1177",
+        "1144",
+        "1304",
+        "1314",
+        "1508"
+      ],
+      "expectedTotalStaked": "10842721378",
+      "recordedTotalStaked": "1",
+      "rewardPendingFunded": "0",
+      "sumClaimable": "122088551953319350304",
+      "inflated": true,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0x9cA7f7FAF79544FEEF185b50749D3f814E3748ce",
+      "positions": 8,
+      "tokenIds": [
+        "45",
+        "74",
+        "88",
+        "593",
+        "618",
+        "770",
+        "884",
+        "1525"
+      ],
+      "expectedTotalStaked": "3503000002",
+      "recordedTotalStaked": "1",
+      "rewardPendingFunded": "0",
+      "sumClaimable": "15241378502405950179",
+      "inflated": true,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0xA20Cc05e12F456b2b97aE2fDAbE0952598831f1C",
+      "positions": 4,
+      "tokenIds": [
+        "1340",
+        "1188",
+        "1253",
+        "1439"
+      ],
+      "expectedTotalStaked": "135028598369",
+      "recordedTotalStaked": "135003000000",
+      "rewardPendingFunded": "2624759753",
+      "sumClaimable": "2627309111",
+      "inflated": true,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0xAB976072B6Be23De212437d8f42375D5131daFb9",
+      "positions": 5,
+      "tokenIds": [
+        "40",
+        "111",
+        "487",
+        "557",
+        "1511"
+      ],
+      "expectedTotalStaked": "2267000002",
+      "recordedTotalStaked": "1",
+      "rewardPendingFunded": "0",
+      "sumClaimable": "7436699935485414614",
+      "inflated": true,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0xB790e3B54f17eBC1534F5096438b227AEc613C4e",
+      "positions": 2,
+      "tokenIds": [
+        "1119",
+        "1502"
+      ],
+      "expectedTotalStaked": "3000002",
+      "recordedTotalStaked": "1",
+      "rewardPendingFunded": "0",
+      "sumClaimable": "6416217437738432",
+      "inflated": true,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0xD08EB66DAe9Bad58626ac4ED6A4a102b134b7457",
+      "positions": 13,
+      "tokenIds": [
+        "909",
+        "1088",
+        "908",
+        "915",
+        "916",
+        "929",
+        "934",
+        "938",
+        "951",
+        "1081",
+        "1543",
+        "1397",
+        "1351"
+      ],
+      "expectedTotalStaked": "110034487762",
+      "recordedTotalStaked": "109803000000",
+      "rewardPendingFunded": "310910590",
+      "sumClaimable": "319367382",
+      "inflated": true,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0xDd624795D4670f029CcFB90926d2aFfDf084C3aB",
+      "positions": 7,
+      "tokenIds": [
+        "22",
+        "27",
+        "78",
+        "81",
+        "256",
+        "512",
+        "783"
+      ],
+      "expectedTotalStaked": "5305557239",
+      "recordedTotalStaked": "5233000000",
+      "rewardPendingFunded": "2",
+      "sumClaimable": "0",
+      "inflated": false,
+      "proratedByStake": true
+    },
+    {
+      "bookNFT": "0xF9e993C8a9fBc63a910DCd1B02b3359cCC373919",
+      "positions": 2,
+      "tokenIds": [
+        "986",
+        "1528"
+      ],
+      "expectedTotalStaked": "3000002",
+      "recordedTotalStaked": "1",
+      "rewardPendingFunded": "0",
+      "sumClaimable": "2198772522923929",
+      "inflated": true,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0xa004d4a92B2C139aE5B6a2485458B60b484Aa3db",
+      "positions": 4,
+      "tokenIds": [
+        "332",
+        "355",
+        "682",
+        "1299"
+      ],
+      "expectedTotalStaked": "2374378671",
+      "recordedTotalStaked": "2113000000",
+      "rewardPendingFunded": "33979228",
+      "sumClaimable": "33979227",
+      "inflated": false,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0xa1D7F3e0a45206CFf39110aF4a7542407289e829",
+      "positions": 13,
+      "tokenIds": [
+        "72",
+        "97",
+        "108",
+        "113",
+        "370",
+        "392",
+        "416",
+        "484",
+        "552",
+        "880",
+        "1084",
+        "1162",
+        "1344"
+      ],
+      "expectedTotalStaked": "65806473929",
+      "recordedTotalStaked": "65593000000",
+      "rewardPendingFunded": "1307228865",
+      "sumClaimable": "1380214720",
+      "inflated": true,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0xa2223E10aE8Db458FB5c599DA3BBF95BB6665e23",
+      "positions": 4,
+      "tokenIds": [
+        "46",
+        "58",
+        "693",
+        "1420"
+      ],
+      "expectedTotalStaked": "5207696699",
+      "recordedTotalStaked": "5204000000",
+      "rewardPendingFunded": "174009553",
+      "sumClaimable": "246804123",
+      "inflated": true,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0xa750Ef555fC0368987974b34e058200a81BEd78d",
+      "positions": 13,
+      "tokenIds": [
+        "11",
+        "14",
+        "104",
+        "125",
+        "202",
+        "236",
+        "239",
+        "279",
+        "532",
+        "788",
+        "967",
+        "1262",
+        "1524"
+      ],
+      "expectedTotalStaked": "18314118227",
+      "recordedTotalStaked": "1",
+      "rewardPendingFunded": "0",
+      "sumClaimable": "351023568111278291526",
+      "inflated": true,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0xb73f103207aB7A1e7c0c1f3218f52dF5bb812C32",
+      "positions": 2,
+      "tokenIds": [
+        "806",
+        "1523"
+      ],
+      "expectedTotalStaked": "3000002",
+      "recordedTotalStaked": "1",
+      "rewardPendingFunded": "0",
+      "sumClaimable": "2585435547811560",
+      "inflated": true,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0xb8Ae0a0C0380F81F4b14120A948228BACC327415",
+      "positions": 13,
+      "tokenIds": [
+        "37",
+        "70",
+        "77",
+        "101",
+        "176",
+        "391",
+        "393",
+        "546",
+        "609",
+        "1063",
+        "624",
+        "802",
+        "1096"
+      ],
+      "expectedTotalStaked": "34638787593",
+      "recordedTotalStaked": "34638000000",
+      "rewardPendingFunded": "737563453",
+      "sumClaimable": "737582116",
+      "inflated": true,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0xd984aBfe4F9dcdbee653bF9d1247EDD0e2102C51",
+      "positions": 15,
+      "tokenIds": [
+        "4",
+        "35",
+        "65",
+        "107",
+        "166",
+        "274",
+        "282",
+        "341",
+        "378",
+        "403",
+        "418",
+        "543",
+        "756",
+        "819",
+        "1072"
+      ],
+      "expectedTotalStaked": "24322489350",
+      "recordedTotalStaked": "24284530000",
+      "rewardPendingFunded": "412474123",
+      "sumClaimable": "413113703",
+      "inflated": true,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0xd9Cd6de785C3b8F1939a8DD509019177B7D41a0E",
+      "positions": 4,
+      "tokenIds": [
+        "215",
+        "731",
+        "1266",
+        "1510"
+      ],
+      "expectedTotalStaked": "3003000002",
+      "recordedTotalStaked": "1",
+      "rewardPendingFunded": "0",
+      "sumClaimable": "12173204620626681189",
+      "inflated": true,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0xdDBa03e8e8459d4afD9ac6eA226209b7E56d5AF1",
+      "positions": 4,
+      "tokenIds": [
+        "138",
+        "421",
+        "765",
+        "1513"
+      ],
+      "expectedTotalStaked": "2013000002",
+      "recordedTotalStaked": "1",
+      "rewardPendingFunded": "311565373",
+      "sumClaimable": "6673127857799581691",
+      "inflated": true,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0xeC56635DC9a3dC8bF453a1A960917F3A5eF265ec",
+      "positions": 5,
+      "tokenIds": [
+        "144",
+        "411",
+        "808",
+        "995",
+        "1431"
+      ],
+      "expectedTotalStaked": "10042420000",
+      "recordedTotalStaked": "10041738042",
+      "rewardPendingFunded": "146187565",
+      "sumClaimable": "146232703",
+      "inflated": true,
+      "proratedByStake": false
+    },
+    {
+      "bookNFT": "0xf54e4B28493b4Ec8f2Cf97E0f8209f71FBaC1254",
+      "positions": 2,
+      "tokenIds": [
+        "1363",
+        "1367"
+      ],
+      "expectedTotalStaked": "51105723062",
+      "recordedTotalStaked": "51100000000",
+      "rewardPendingFunded": "1",
+      "sumClaimable": "0",
+      "inflated": false,
+      "proratedByStake": true
+    }
+  ],
+  "distribution": [
+    {
+      "tokenId": "0",
+      "owner": "0x9d22F2058b4EA321dE701c75fB907d806e5922BA",
+      "bookNFT": "0x8EcBaA55E85429D968129207fad35f0d049424CA",
+      "stakedAmount": "10000000",
+      "claimable": "111953855492370536",
+      "owed": "418346",
+      "owedLike": "0.418346"
+    },
+    {
+      "tokenId": "52",
+      "owner": "0x7D08f52539A8Fa695b474513437B1Ee8Bf5112d7",
+      "bookNFT": "0x8EcBaA55E85429D968129207fad35f0d049424CA",
+      "stakedAmount": "510000000",
+      "claimable": "5709646630049414792",
+      "owed": "21335665",
+      "owedLike": "21.335665"
+    },
+    {
+      "tokenId": "57",
+      "owner": "0xb903F6B23A14707Eb4D0FB4E31C4c4e28EDbB8e7",
+      "bookNFT": "0x8EcBaA55E85429D968129207fad35f0d049424CA",
+      "stakedAmount": "100000000",
+      "claimable": "1119538554923705360",
+      "owed": "4183463",
+      "owedLike": "4.183463"
+    },
+    {
+      "tokenId": "145",
+      "owner": "0x63252957c9f9a6E7D4558Fd7cC64Be55E8d38A81",
+      "bookNFT": "0x8EcBaA55E85429D968129207fad35f0d049424CA",
+      "stakedAmount": "2000000000",
+      "claimable": "22390771098103880340",
+      "owed": "83669276",
+      "owedLike": "83.669276"
+    },
+    {
+      "tokenId": "162",
+      "owner": "0xC6473A964F160B24576946d5c616caDE88B0465C",
+      "bookNFT": "0x8EcBaA55E85429D968129207fad35f0d049424CA",
+      "stakedAmount": "212000000",
+      "claimable": "2373421736388000000",
+      "owed": "8868943",
+      "owedLike": "8.868943"
+    },
+    {
+      "tokenId": "259",
+      "owner": "0x6bc21A147962a8399C82D50445a8B479e7817335",
+      "bookNFT": "0x8EcBaA55E85429D968129207fad35f0d049424CA",
+      "stakedAmount": "10000000",
+      "claimable": "111953855491164995",
+      "owed": "418346",
+      "owedLike": "0.418346"
+    },
+    {
+      "tokenId": "284",
+      "owner": "0x24cD9d885Fe462354E74BdC5361E0886441875DC",
+      "bookNFT": "0x8EcBaA55E85429D968129207fad35f0d049424CA",
+      "stakedAmount": "10000000",
+      "claimable": "111953855491164995",
+      "owed": "418346",
+      "owedLike": "0.418346"
+    },
+    {
+      "tokenId": "338",
+      "owner": "0x342Fd1B0d75966f88870cBbAD9CAf4AFa04998E6",
+      "bookNFT": "0x8EcBaA55E85429D968129207fad35f0d049424CA",
+      "stakedAmount": "100000000",
+      "claimable": "1119538554900000000",
+      "owed": "4183463",
+      "owedLike": "4.183463"
+    },
+    {
+      "tokenId": "345",
+      "owner": "0x955DA9462C4960Cf9aEd82B111c12FB13704e09a",
+      "bookNFT": "0x8EcBaA55E85429D968129207fad35f0d049424CA",
+      "stakedAmount": "100000000",
+      "claimable": "1119538554911649959",
+      "owed": "4183463",
+      "owedLike": "4.183463"
+    },
+    {
+      "tokenId": "376",
+      "owner": "0x625B192B5019bcA08F4C312ba4319203e5e07e94",
+      "bookNFT": "0x8EcBaA55E85429D968129207fad35f0d049424CA",
+      "stakedAmount": "20000000",
+      "claimable": "223907710980000000",
+      "owed": "836692",
+      "owedLike": "0.836692"
+    },
+    {
+      "tokenId": "387",
+      "owner": "0x895383ad6b172E00DB94c29d5a5C60D61dc5BB2d",
+      "bookNFT": "0x8EcBaA55E85429D968129207fad35f0d049424CA",
+      "stakedAmount": "1000000",
+      "claimable": "11195385549116499",
+      "owed": "41834",
+      "owedLike": "0.041834"
+    },
+    {
+      "tokenId": "388",
+      "owner": "0xE0B429Fd64880A49DF7e488722e676d51D13Ed34",
+      "bookNFT": "0x8EcBaA55E85429D968129207fad35f0d049424CA",
+      "stakedAmount": "100000000",
+      "claimable": "1119538554911649959",
+      "owed": "4183463",
+      "owedLike": "4.183463"
+    },
+    {
+      "tokenId": "389",
+      "owner": "0x1d1F6bEbaB8A03a09fd2E28A2D152a912d4D87c9",
+      "bookNFT": "0x8EcBaA55E85429D968129207fad35f0d049424CA",
+      "stakedAmount": "100000000",
+      "claimable": "1119538554911649959",
+      "owed": "4183463",
+      "owedLike": "4.183463"
+    },
+    {
+      "tokenId": "545",
+      "owner": "0x9Bd0787873B50990c14Ef9155D7a095753C22485",
+      "bookNFT": "0x8EcBaA55E85429D968129207fad35f0d049424CA",
+      "stakedAmount": "25000000",
+      "claimable": "279884638725000000",
+      "owed": "1045865",
+      "owedLike": "1.045865"
+    },
+    {
+      "tokenId": "773",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x8EcBaA55E85429D968129207fad35f0d049424CA",
+      "stakedAmount": "3000000",
+      "claimable": "33586156647349498",
+      "owed": "125503",
+      "owedLike": "0.125503"
+    },
+    {
+      "tokenId": "820",
+      "owner": "0xe584099C39d0eaE355C6b0F003767DD53dFb8F6a",
+      "bookNFT": "0x8EcBaA55E85429D968129207fad35f0d049424CA",
+      "stakedAmount": "1000000000",
+      "claimable": "11195385549116499592",
+      "owed": "41834638",
+      "owedLike": "41.834638"
+    },
+    {
+      "tokenId": "859",
+      "owner": "0x3f31371E915efe4067C241b9dDC919919b6871c5",
+      "bookNFT": "0x8EcBaA55E85429D968129207fad35f0d049424CA",
+      "stakedAmount": "5000000000",
+      "claimable": "55976927745582497964",
+      "owed": "209173203",
+      "owedLike": "209.173203"
+    },
+    {
+      "tokenId": "879",
+      "owner": "0x874C506D93e1bc08d735730A2e20beD16CE5bDB9",
+      "bookNFT": "0x8EcBaA55E85429D968129207fad35f0d049424CA",
+      "stakedAmount": "500000000",
+      "claimable": "5597692774558249796",
+      "owed": "20917319",
+      "owedLike": "20.917319"
+    },
+    {
+      "tokenId": "1517",
+      "owner": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0x8EcBaA55E85429D968129207fad35f0d049424CA",
+      "stakedAmount": "2",
+      "claimable": "820042582",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1",
+      "owner": "0x9d22F2058b4EA321dE701c75fB907d806e5922BA",
+      "bookNFT": "0x334C13ABf78D5d29DDd32fca627179a5059B5814",
+      "stakedAmount": "10000000",
+      "claimable": "1544144",
+      "owed": "1536615",
+      "owedLike": "1.536615"
+    },
+    {
+      "tokenId": "15",
+      "owner": "0xC3667DcAD0d71301E913b6cb8741538B7CFe251c",
+      "bookNFT": "0x334C13ABf78D5d29DDd32fca627179a5059B5814",
+      "stakedAmount": "1000000000",
+      "claimable": "87629489",
+      "owed": "87202229",
+      "owedLike": "87.202229"
+    },
+    {
+      "tokenId": "34",
+      "owner": "0x8F176D80F72eA56Fbf61b5E56b84414689EA26bA",
+      "bookNFT": "0x334C13ABf78D5d29DDd32fca627179a5059B5814",
+      "stakedAmount": "100000000",
+      "claimable": "8762948",
+      "owed": "8720222",
+      "owedLike": "8.720222"
+    },
+    {
+      "tokenId": "50",
+      "owner": "0x7D08f52539A8Fa695b474513437B1Ee8Bf5112d7",
+      "bookNFT": "0x334C13ABf78D5d29DDd32fca627179a5059B5814",
+      "stakedAmount": "1533392471",
+      "claimable": "134370399",
+      "owed": "133715244",
+      "owedLike": "133.715244"
+    },
+    {
+      "tokenId": "73",
+      "owner": "0x7fF3c36212F5B10846B7A2569b7b8a822a900050",
+      "bookNFT": "0x334C13ABf78D5d29DDd32fca627179a5059B5814",
+      "stakedAmount": "1000000000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "85",
+      "owner": "0x3FfC07ED6a65E379E39Bef93e713ee3Ff77a56e4",
+      "bookNFT": "0x334C13ABf78D5d29DDd32fca627179a5059B5814",
+      "stakedAmount": "10000000",
+      "claimable": "1544144",
+      "owed": "1536615",
+      "owedLike": "1.536615"
+    },
+    {
+      "tokenId": "98",
+      "owner": "0xC4B2d5a6eDba534A848336173e4136f078E1b7ef",
+      "bookNFT": "0x334C13ABf78D5d29DDd32fca627179a5059B5814",
+      "stakedAmount": "1000000000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "164",
+      "owner": "0x47e6c59d1AA905Eb1e847c91E1248a35b8AC3ab4",
+      "bookNFT": "0x334C13ABf78D5d29DDd32fca627179a5059B5814",
+      "stakedAmount": "100000000",
+      "claimable": "8762948",
+      "owed": "8720222",
+      "owedLike": "8.720222"
+    },
+    {
+      "tokenId": "173",
+      "owner": "0x0686BcD9e5A94d9f0b29EA7Ce1887d8B2dA21e86",
+      "bookNFT": "0x334C13ABf78D5d29DDd32fca627179a5059B5814",
+      "stakedAmount": "1000000000",
+      "claimable": "87629489",
+      "owed": "87202229",
+      "owedLike": "87.202229"
+    },
+    {
+      "tokenId": "283",
+      "owner": "0x24cD9d885Fe462354E74BdC5361E0886441875DC",
+      "bookNFT": "0x334C13ABf78D5d29DDd32fca627179a5059B5814",
+      "stakedAmount": "10000000",
+      "claimable": "876294",
+      "owed": "872021",
+      "owedLike": "0.872021"
+    },
+    {
+      "tokenId": "324",
+      "owner": "0xEb2b2A2Ad1a726BcC17D43F7C198625fe8Fd7d16",
+      "bookNFT": "0x334C13ABf78D5d29DDd32fca627179a5059B5814",
+      "stakedAmount": "107000000",
+      "claimable": "9376355",
+      "owed": "9330638",
+      "owedLike": "9.330638"
+    },
+    {
+      "tokenId": "342",
+      "owner": "0xDfC4f3454cc725C0A025D29268e7D0A03e8401f8",
+      "bookNFT": "0x334C13ABf78D5d29DDd32fca627179a5059B5814",
+      "stakedAmount": "100000000",
+      "claimable": "8762948",
+      "owed": "8720222",
+      "owedLike": "8.720222"
+    },
+    {
+      "tokenId": "348",
+      "owner": "0x22Bd0ec1E8B733B77f8B35447b27cAE41286F86e",
+      "bookNFT": "0x334C13ABf78D5d29DDd32fca627179a5059B5814",
+      "stakedAmount": "100000000",
+      "claimable": "8762948",
+      "owed": "8720222",
+      "owedLike": "8.720222"
+    },
+    {
+      "tokenId": "359",
+      "owner": "0xF0269C48252Cd4c942A54F7c2e1a0D5870FDb348",
+      "bookNFT": "0x334C13ABf78D5d29DDd32fca627179a5059B5814",
+      "stakedAmount": "50000000",
+      "claimable": "4381474",
+      "owed": "4360111",
+      "owedLike": "4.360111"
+    },
+    {
+      "tokenId": "373",
+      "owner": "0x4Ac887471A53186Fc07877b9aB7ac1c639fEe9E6",
+      "bookNFT": "0x334C13ABf78D5d29DDd32fca627179a5059B5814",
+      "stakedAmount": "100000000",
+      "claimable": "8762948",
+      "owed": "8720222",
+      "owedLike": "8.720222"
+    },
+    {
+      "tokenId": "377",
+      "owner": "0x625B192B5019bcA08F4C312ba4319203e5e07e94",
+      "bookNFT": "0x334C13ABf78D5d29DDd32fca627179a5059B5814",
+      "stakedAmount": "10000000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "390",
+      "owner": "0x1d1F6bEbaB8A03a09fd2E28A2D152a912d4D87c9",
+      "bookNFT": "0x334C13ABf78D5d29DDd32fca627179a5059B5814",
+      "stakedAmount": "100000000",
+      "claimable": "8762948",
+      "owed": "8720222",
+      "owedLike": "8.720222"
+    },
+    {
+      "tokenId": "404",
+      "owner": "0xE002Bfb4106F3ccc1729EEF333Dc87A5411bB775",
+      "bookNFT": "0x334C13ABf78D5d29DDd32fca627179a5059B5814",
+      "stakedAmount": "500000000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "417",
+      "owner": "0x8EB12Be95E325376721Dd6dDeA39306171fAc71d",
+      "bookNFT": "0x334C13ABf78D5d29DDd32fca627179a5059B5814",
+      "stakedAmount": "10000000",
+      "claimable": "876294",
+      "owed": "872021",
+      "owedLike": "0.872021"
+    },
+    {
+      "tokenId": "525",
+      "owner": "0x2696cBF8Ef06175cd2DDb80b928f7A8E81De1e3e",
+      "bookNFT": "0x334C13ABf78D5d29DDd32fca627179a5059B5814",
+      "stakedAmount": "1000000000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "583",
+      "owner": "0x66AD8D3E0db87Ae882C1788e2cda9e31cDB4F013",
+      "bookNFT": "0x334C13ABf78D5d29DDd32fca627179a5059B5814",
+      "stakedAmount": "1000000000",
+      "claimable": "87629489",
+      "owed": "87202229",
+      "owedLike": "87.202229"
+    },
+    {
+      "tokenId": "796",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x334C13ABf78D5d29DDd32fca627179a5059B5814",
+      "stakedAmount": "3000000",
+      "claimable": "262888",
+      "owed": "261606",
+      "owedLike": "0.261606"
+    },
+    {
+      "tokenId": "818",
+      "owner": "0xe584099C39d0eaE355C6b0F003767DD53dFb8F6a",
+      "bookNFT": "0x334C13ABf78D5d29DDd32fca627179a5059B5814",
+      "stakedAmount": "1000000000",
+      "claimable": "87629489",
+      "owed": "87202229",
+      "owedLike": "87.202229"
+    },
+    {
+      "tokenId": "878",
+      "owner": "0x874C506D93e1bc08d735730A2e20beD16CE5bDB9",
+      "bookNFT": "0x334C13ABf78D5d29DDd32fca627179a5059B5814",
+      "stakedAmount": "500000000",
+      "claimable": "43814744",
+      "owed": "43601114",
+      "owedLike": "43.601114"
+    },
+    {
+      "tokenId": "4",
+      "owner": "0x9d22F2058b4EA321dE701c75fB907d806e5922BA",
+      "bookNFT": "0xd984aBfe4F9dcdbee653bF9d1247EDD0e2102C51",
+      "stakedAmount": "10000000",
+      "claimable": "927682",
+      "owed": "926245",
+      "owedLike": "0.926245"
+    },
+    {
+      "tokenId": "35",
+      "owner": "0x8F176D80F72eA56Fbf61b5E56b84414689EA26bA",
+      "bookNFT": "0xd984aBfe4F9dcdbee653bF9d1247EDD0e2102C51",
+      "stakedAmount": "100000000",
+      "claimable": "1299985",
+      "owed": "1297972",
+      "owedLike": "1.297972"
+    },
+    {
+      "tokenId": "65",
+      "owner": "0x7D08f52539A8Fa695b474513437B1Ee8Bf5112d7",
+      "bookNFT": "0xd984aBfe4F9dcdbee653bF9d1247EDD0e2102C51",
+      "stakedAmount": "105000000",
+      "claimable": "1364984",
+      "owed": "1362870",
+      "owedLike": "1.36287"
+    },
+    {
+      "tokenId": "107",
+      "owner": "0xac770FE814f733a7c74F3698e9ff49b0AcEFDa75",
+      "bookNFT": "0xd984aBfe4F9dcdbee653bF9d1247EDD0e2102C51",
+      "stakedAmount": "22448489350",
+      "claimable": "378246862",
+      "owed": "377661271",
+      "owedLike": "377.661271"
+    },
+    {
+      "tokenId": "166",
+      "owner": "0x47e6c59d1AA905Eb1e847c91E1248a35b8AC3ab4",
+      "bookNFT": "0xd984aBfe4F9dcdbee653bF9d1247EDD0e2102C51",
+      "stakedAmount": "300000000",
+      "claimable": "5054863",
+      "owed": "5047037",
+      "owedLike": "5.047037"
+    },
+    {
+      "tokenId": "274",
+      "owner": "0xC6473A964F160B24576946d5c616caDE88B0465C",
+      "bookNFT": "0xd984aBfe4F9dcdbee653bF9d1247EDD0e2102C51",
+      "stakedAmount": "100000000",
+      "claimable": "448025",
+      "owed": "447331",
+      "owedLike": "0.447331"
+    },
+    {
+      "tokenId": "282",
+      "owner": "0x24cD9d885Fe462354E74BdC5361E0886441875DC",
+      "bookNFT": "0xd984aBfe4F9dcdbee653bF9d1247EDD0e2102C51",
+      "stakedAmount": "10000000",
+      "claimable": "560756",
+      "owed": "559887",
+      "owedLike": "0.559887"
+    },
+    {
+      "tokenId": "341",
+      "owner": "0x3c5A725f73F9426A19c9258F85B7b60b3D8125A9",
+      "bookNFT": "0xd984aBfe4F9dcdbee653bF9d1247EDD0e2102C51",
+      "stakedAmount": "100000000",
+      "claimable": "5607569",
+      "owed": "5598887",
+      "owedLike": "5.598887"
+    },
+    {
+      "tokenId": "378",
+      "owner": "0x625B192B5019bcA08F4C312ba4319203e5e07e94",
+      "bookNFT": "0xd984aBfe4F9dcdbee653bF9d1247EDD0e2102C51",
+      "stakedAmount": "10000000",
+      "claimable": "44802",
+      "owed": "44732",
+      "owedLike": "0.044732"
+    },
+    {
+      "tokenId": "403",
+      "owner": "0x22ec2A291BaE09B5615C52B193D32DBD56385C30",
+      "bookNFT": "0xd984aBfe4F9dcdbee653bF9d1247EDD0e2102C51",
+      "stakedAmount": "100000000",
+      "claimable": "5607569",
+      "owed": "5598887",
+      "owedLike": "5.598887"
+    },
+    {
+      "tokenId": "418",
+      "owner": "0x8EB12Be95E325376721Dd6dDeA39306171fAc71d",
+      "bookNFT": "0xd984aBfe4F9dcdbee653bF9d1247EDD0e2102C51",
+      "stakedAmount": "10000000",
+      "claimable": "560756",
+      "owed": "559887",
+      "owedLike": "0.559887"
+    },
+    {
+      "tokenId": "543",
+      "owner": "0x9Bd0787873B50990c14Ef9155D7a095753C22485",
+      "bookNFT": "0xd984aBfe4F9dcdbee653bF9d1247EDD0e2102C51",
+      "stakedAmount": "25000000",
+      "claimable": "324996",
+      "owed": "324492",
+      "owedLike": "0.324492"
+    },
+    {
+      "tokenId": "756",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0xd984aBfe4F9dcdbee653bF9d1247EDD0e2102C51",
+      "stakedAmount": "3000000",
+      "claimable": "50548",
+      "owed": "50469",
+      "owedLike": "0.050469"
+    },
+    {
+      "tokenId": "819",
+      "owner": "0xe584099C39d0eaE355C6b0F003767DD53dFb8F6a",
+      "bookNFT": "0xd984aBfe4F9dcdbee653bF9d1247EDD0e2102C51",
+      "stakedAmount": "1000000000",
+      "claimable": "12999856",
+      "owed": "12979729",
+      "owedLike": "12.979729"
+    },
+    {
+      "tokenId": "1072",
+      "owner": "0xd3448A4843981BaEB66459Faab20cB6e669419F4",
+      "bookNFT": "0xd984aBfe4F9dcdbee653bF9d1247EDD0e2102C51",
+      "stakedAmount": "1000000",
+      "claimable": "14450",
+      "owed": "14427",
+      "owedLike": "0.014427"
+    },
+    {
+      "tokenId": "5",
+      "owner": "0x3FfC07ED6a65E379E39Bef93e713ee3Ff77a56e4",
+      "bookNFT": "0x5aDCb8a737e4AaABf7Ff6b656Acd5dc60E983757",
+      "stakedAmount": "10000000",
+      "claimable": "112385003974414223",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "18",
+      "owner": "0x8F176D80F72eA56Fbf61b5E56b84414689EA26bA",
+      "bookNFT": "0x5aDCb8a737e4AaABf7Ff6b656Acd5dc60E983757",
+      "stakedAmount": "5500000000",
+      "claimable": "61811751798664235977",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "23",
+      "owner": "0x13d6f5A180A8ff82E2e74847D9bc91b537b03A2E",
+      "bookNFT": "0x5aDCb8a737e4AaABf7Ff6b656Acd5dc60E983757",
+      "stakedAmount": "2419971624",
+      "claimable": "27196851887654721048",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "80",
+      "owner": "0x7D08f52539A8Fa695b474513437B1Ee8Bf5112d7",
+      "bookNFT": "0x5aDCb8a737e4AaABf7Ff6b656Acd5dc60E983757",
+      "stakedAmount": "100000000",
+      "claimable": "1123850032702986108",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "82",
+      "owner": "0x7fF3c36212F5B10846B7A2569b7b8a822a900050",
+      "bookNFT": "0x5aDCb8a737e4AaABf7Ff6b656Acd5dc60E983757",
+      "stakedAmount": "1000000000",
+      "claimable": "11238500327000000000",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "518",
+      "owner": "0xf991Da2020B7D9613036792889D3B5384cAbBFCa",
+      "bookNFT": "0x5aDCb8a737e4AaABf7Ff6b656Acd5dc60E983757",
+      "stakedAmount": "208000000",
+      "claimable": "2337608068022211106",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "146",
+      "owner": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x5aDCb8a737e4AaABf7Ff6b656Acd5dc60E983757",
+      "stakedAmount": "1000000000",
+      "claimable": "11238500327029861086",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "420",
+      "owner": "0x8EB12Be95E325376721Dd6dDeA39306171fAc71d",
+      "bookNFT": "0x5aDCb8a737e4AaABf7Ff6b656Acd5dc60E983757",
+      "stakedAmount": "10000000",
+      "claimable": "112385003270298610",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "797",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x5aDCb8a737e4AaABf7Ff6b656Acd5dc60E983757",
+      "stakedAmount": "3000000",
+      "claimable": "33715500981089583",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "974",
+      "owner": "0x2696cBF8Ef06175cd2DDb80b928f7A8E81De1e3e",
+      "bookNFT": "0x5aDCb8a737e4AaABf7Ff6b656Acd5dc60E983757",
+      "stakedAmount": "100000000",
+      "claimable": "1123850032700000000",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1522",
+      "owner": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0x5aDCb8a737e4AaABf7Ff6b656Acd5dc60E983757",
+      "stakedAmount": "2",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "6",
+      "owner": "0x3FfC07ED6a65E379E39Bef93e713ee3Ff77a56e4",
+      "bookNFT": "0x3bf42DA7f5781d3940B2318484c907Ee33e81d8D",
+      "stakedAmount": "100000000",
+      "claimable": "14058008",
+      "owed": "13921732",
+      "owedLike": "13.921732"
+    },
+    {
+      "tokenId": "134",
+      "owner": "0x625B192B5019bcA08F4C312ba4319203e5e07e94",
+      "bookNFT": "0x3bf42DA7f5781d3940B2318484c907Ee33e81d8D",
+      "stakedAmount": "10000000",
+      "claimable": "183617",
+      "owed": "181837",
+      "owedLike": "0.181837"
+    },
+    {
+      "tokenId": "180",
+      "owner": "0xa037Feb6508A8C2F93bb19f6721730C45921f2D0",
+      "bookNFT": "0x3bf42DA7f5781d3940B2318484c907Ee33e81d8D",
+      "stakedAmount": "2000000000",
+      "claimable": "36723419",
+      "owed": "36367430",
+      "owedLike": "36.36743"
+    },
+    {
+      "tokenId": "206",
+      "owner": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x3bf42DA7f5781d3940B2318484c907Ee33e81d8D",
+      "stakedAmount": "1000001248",
+      "claimable": "38313235",
+      "owed": "37941834",
+      "owedLike": "37.941834"
+    },
+    {
+      "tokenId": "363",
+      "owner": "0xD5013D3802F2B870209058e0Ff105Bf97F8B822D",
+      "bookNFT": "0x3bf42DA7f5781d3940B2318484c907Ee33e81d8D",
+      "stakedAmount": "100000000",
+      "claimable": "4279886",
+      "owed": "4238397",
+      "owedLike": "4.238397"
+    },
+    {
+      "tokenId": "369",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x3bf42DA7f5781d3940B2318484c907Ee33e81d8D",
+      "stakedAmount": "1126000000",
+      "claimable": "40940508",
+      "owed": "40543639",
+      "owedLike": "40.543639"
+    },
+    {
+      "tokenId": "399",
+      "owner": "0x9Bd0787873B50990c14Ef9155D7a095753C22485",
+      "bookNFT": "0x3bf42DA7f5781d3940B2318484c907Ee33e81d8D",
+      "stakedAmount": "25000000",
+      "claimable": "459042",
+      "owed": "454592",
+      "owedLike": "0.454592"
+    },
+    {
+      "tokenId": "480",
+      "owner": "0xee3500175076c19Cf45889fdfd2eC52029bAca0C",
+      "bookNFT": "0x3bf42DA7f5781d3940B2318484c907Ee33e81d8D",
+      "stakedAmount": "1000000",
+      "claimable": "38313",
+      "owed": "37941",
+      "owedLike": "0.037941"
+    },
+    {
+      "tokenId": "892",
+      "owner": "0x874C506D93e1bc08d735730A2e20beD16CE5bDB9",
+      "bookNFT": "0x3bf42DA7f5781d3940B2318484c907Ee33e81d8D",
+      "stakedAmount": "100000000",
+      "claimable": "3635924",
+      "owed": "3600678",
+      "owedLike": "3.600678"
+    },
+    {
+      "tokenId": "968",
+      "owner": "0x662A79fBc9ae681d7cD19A7275Aa8b3187CcA622",
+      "bookNFT": "0x3bf42DA7f5781d3940B2318484c907Ee33e81d8D",
+      "stakedAmount": "10000000000",
+      "claimable": "363592437",
+      "owed": "360067857",
+      "owedLike": "360.067857"
+    },
+    {
+      "tokenId": "9",
+      "owner": "0x3FfC07ED6a65E379E39Bef93e713ee3Ff77a56e4",
+      "bookNFT": "0x595FA2345b754c5F957099E2D8a976617C40710c",
+      "stakedAmount": "20000000",
+      "claimable": "1890681",
+      "owed": "1683001",
+      "owedLike": "1.683001"
+    },
+    {
+      "tokenId": "16",
+      "owner": "0x41E2A4646D4D04e1D31FC1D6cc2d221633E469e5",
+      "bookNFT": "0x595FA2345b754c5F957099E2D8a976617C40710c",
+      "stakedAmount": "1000000",
+      "claimable": "94534",
+      "owed": "84149",
+      "owedLike": "0.084149"
+    },
+    {
+      "tokenId": "21",
+      "owner": "0x13d6f5A180A8ff82E2e74847D9bc91b537b03A2E",
+      "bookNFT": "0x595FA2345b754c5F957099E2D8a976617C40710c",
+      "stakedAmount": "3462612610",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "28",
+      "owner": "0x8F176D80F72eA56Fbf61b5E56b84414689EA26bA",
+      "bookNFT": "0x595FA2345b754c5F957099E2D8a976617C40710c",
+      "stakedAmount": "1500000000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "79",
+      "owner": "0x7D08f52539A8Fa695b474513437B1Ee8Bf5112d7",
+      "bookNFT": "0x595FA2345b754c5F957099E2D8a976617C40710c",
+      "stakedAmount": "100000000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "83",
+      "owner": "0x7fF3c36212F5B10846B7A2569b7b8a822a900050",
+      "bookNFT": "0x595FA2345b754c5F957099E2D8a976617C40710c",
+      "stakedAmount": "1000000000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "255",
+      "owner": "0x5B357b6DFBc10151dd4775c70b5355a7C8498f29",
+      "bookNFT": "0x595FA2345b754c5F957099E2D8a976617C40710c",
+      "stakedAmount": "1000000000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "513",
+      "owner": "0x8EB12Be95E325376721Dd6dDeA39306171fAc71d",
+      "bookNFT": "0x595FA2345b754c5F957099E2D8a976617C40710c",
+      "stakedAmount": "10000000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "790",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x595FA2345b754c5F957099E2D8a976617C40710c",
+      "stakedAmount": "3000000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1074",
+      "owner": "0x7fF3c36212F5B10846B7A2569b7b8a822a900050",
+      "bookNFT": "0x6B9184df38427a61814e638900fd9BE999E0bD02",
+      "stakedAmount": "1000000000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1077",
+      "owner": "0xadF8936D5Fd9DFC6438c982714681a1B3d5a83c2",
+      "bookNFT": "0x6B9184df38427a61814e638900fd9BE999E0bD02",
+      "stakedAmount": "12053349547",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1076",
+      "owner": "0xce9787148249216E6010D0C8eA4c458B8e93909F",
+      "bookNFT": "0x6B9184df38427a61814e638900fd9BE999E0bD02",
+      "stakedAmount": "830000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1089",
+      "owner": "0xbf2217e4d458B4219DF6943853a053Ad4db772fa",
+      "bookNFT": "0x6B9184df38427a61814e638900fd9BE999E0bD02",
+      "stakedAmount": "10000000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1067",
+      "owner": "0x662A79fBc9ae681d7cD19A7275Aa8b3187CcA622",
+      "bookNFT": "0x6B9184df38427a61814e638900fd9BE999E0bD02",
+      "stakedAmount": "710000000",
+      "claimable": "267421949",
+      "owed": "264133239",
+      "owedLike": "264.133239"
+    },
+    {
+      "tokenId": "1086",
+      "owner": "0x8F176D80F72eA56Fbf61b5E56b84414689EA26bA",
+      "bookNFT": "0x6B9184df38427a61814e638900fd9BE999E0bD02",
+      "stakedAmount": "10000000000",
+      "claimable": "96784271",
+      "owed": "95594034",
+      "owedLike": "95.594034"
+    },
+    {
+      "tokenId": "1123",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x6B9184df38427a61814e638900fd9BE999E0bD02",
+      "stakedAmount": "3000000",
+      "claimable": "29035",
+      "owed": "28677",
+      "owedLike": "0.028677"
+    },
+    {
+      "tokenId": "11",
+      "owner": "0xadF8936D5Fd9DFC6438c982714681a1B3d5a83c2",
+      "bookNFT": "0xa750Ef555fC0368987974b34e058200a81BEd78d",
+      "stakedAmount": "100000000",
+      "claimable": "1916682877100000000",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "14",
+      "owner": "0xf28bAAD89cdFb9CAEDA0cA7bB4A978ADBD432ed5",
+      "bookNFT": "0xa750Ef555fC0368987974b34e058200a81BEd78d",
+      "stakedAmount": "10000000",
+      "claimable": "191668287715869858",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "104",
+      "owner": "0x63252957c9f9a6E7D4558Fd7cC64Be55E8d38A81",
+      "bookNFT": "0xa750Ef555fC0368987974b34e058200a81BEd78d",
+      "stakedAmount": "2000000000",
+      "claimable": "38333657542000000000",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "125",
+      "owner": "0x8F176D80F72eA56Fbf61b5E56b84414689EA26bA",
+      "bookNFT": "0xa750Ef555fC0368987974b34e058200a81BEd78d",
+      "stakedAmount": "1000000000",
+      "claimable": "19166828771000000000",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "202",
+      "owner": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0xa750Ef555fC0368987974b34e058200a81BEd78d",
+      "stakedAmount": "1000000000",
+      "claimable": "19166828771213738289",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "236",
+      "owner": "0x7fF3c36212F5B10846B7A2569b7b8a822a900050",
+      "bookNFT": "0xa750Ef555fC0368987974b34e058200a81BEd78d",
+      "stakedAmount": "1000000000",
+      "claimable": "19166828771000000000",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "239",
+      "owner": "0x64ee2f93e3f18a46E4c6A7Aca6C2Eb9edb8c0cA0",
+      "bookNFT": "0xa750Ef555fC0368987974b34e058200a81BEd78d",
+      "stakedAmount": "1000000000",
+      "claimable": "19166828771213738289",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "279",
+      "owner": "0x4Ac887471A53186Fc07877b9aB7ac1c639fEe9E6",
+      "bookNFT": "0xa750Ef555fC0368987974b34e058200a81BEd78d",
+      "stakedAmount": "101118225",
+      "claimable": "1938115704212109591",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "532",
+      "owner": "0xdaBD93cEcd32b0474D0f798be56ac0888B9edC6B",
+      "bookNFT": "0xa750Ef555fC0368987974b34e058200a81BEd78d",
+      "stakedAmount": "100000000",
+      "claimable": "1916682877109551310",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "788",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0xa750Ef555fC0368987974b34e058200a81BEd78d",
+      "stakedAmount": "3000000",
+      "claimable": "57500486313000000",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "967",
+      "owner": "0x662A79fBc9ae681d7cD19A7275Aa8b3187CcA622",
+      "bookNFT": "0xa750Ef555fC0368987974b34e058200a81BEd78d",
+      "stakedAmount": "10000000000",
+      "claimable": "191668287710400284189",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1262",
+      "owner": "0x66AD8D3E0db87Ae882C1788e2cda9e31cDB4F013",
+      "bookNFT": "0xa750Ef555fC0368987974b34e058200a81BEd78d",
+      "stakedAmount": "2000000000",
+      "claimable": "38333657542000000000",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1524",
+      "owner": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0xa750Ef555fC0368987974b34e058200a81BEd78d",
+      "stakedAmount": "2",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "22",
+      "owner": "0x13d6f5A180A8ff82E2e74847D9bc91b537b03A2E",
+      "bookNFT": "0xDd624795D4670f029CcFB90926d2aFfDf084C3aB",
+      "stakedAmount": "2292557239",
+      "claimable": "0",
+      "owed": "2",
+      "owedLike": "0.000002"
+    },
+    {
+      "tokenId": "27",
+      "owner": "0x8F176D80F72eA56Fbf61b5E56b84414689EA26bA",
+      "bookNFT": "0xDd624795D4670f029CcFB90926d2aFfDf084C3aB",
+      "stakedAmount": "700000000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "78",
+      "owner": "0x7D08f52539A8Fa695b474513437B1Ee8Bf5112d7",
+      "bookNFT": "0xDd624795D4670f029CcFB90926d2aFfDf084C3aB",
+      "stakedAmount": "100000000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "81",
+      "owner": "0x7fF3c36212F5B10846B7A2569b7b8a822a900050",
+      "bookNFT": "0xDd624795D4670f029CcFB90926d2aFfDf084C3aB",
+      "stakedAmount": "1000000000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "256",
+      "owner": "0x5B357b6DFBc10151dd4775c70b5355a7C8498f29",
+      "bookNFT": "0xDd624795D4670f029CcFB90926d2aFfDf084C3aB",
+      "stakedAmount": "1200000000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "512",
+      "owner": "0x8EB12Be95E325376721Dd6dDeA39306171fAc71d",
+      "bookNFT": "0xDd624795D4670f029CcFB90926d2aFfDf084C3aB",
+      "stakedAmount": "10000000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "783",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0xDd624795D4670f029CcFB90926d2aFfDf084C3aB",
+      "stakedAmount": "3000000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "25",
+      "owner": "0x13d6f5A180A8ff82E2e74847D9bc91b537b03A2E",
+      "bookNFT": "0x19B884c94b9E27f14e997db63dFa8F1F5EF40E2c",
+      "stakedAmount": "2100000000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "30",
+      "owner": "0x8F176D80F72eA56Fbf61b5E56b84414689EA26bA",
+      "bookNFT": "0x19B884c94b9E27f14e997db63dFa8F1F5EF40E2c",
+      "stakedAmount": "600000000",
+      "claimable": "103298400",
+      "owed": "102950055",
+      "owedLike": "102.950055"
+    },
+    {
+      "tokenId": "131",
+      "owner": "0x35cf10a5D2a240b9cB7Ac44442B8A326F6961e66",
+      "bookNFT": "0x19B884c94b9E27f14e997db63dFa8F1F5EF40E2c",
+      "stakedAmount": "1000000000",
+      "claimable": "288567377",
+      "owed": "287594265",
+      "owedLike": "287.594265"
+    },
+    {
+      "tokenId": "148",
+      "owner": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x19B884c94b9E27f14e997db63dFa8F1F5EF40E2c",
+      "stakedAmount": "51275644803",
+      "claimable": "662613270",
+      "owed": "660378795",
+      "owedLike": "660.378795"
+    },
+    {
+      "tokenId": "192",
+      "owner": "0x7fF3c36212F5B10846B7A2569b7b8a822a900050",
+      "bookNFT": "0x19B884c94b9E27f14e997db63dFa8F1F5EF40E2c",
+      "stakedAmount": "1000000000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "286",
+      "owner": "0xC6473A964F160B24576946d5c616caDE88B0465C",
+      "bookNFT": "0x19B884c94b9E27f14e997db63dFa8F1F5EF40E2c",
+      "stakedAmount": "100000000",
+      "claimable": "1292257",
+      "owed": "1287899",
+      "owedLike": "1.287899"
+    },
+    {
+      "tokenId": "784",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x19B884c94b9E27f14e997db63dFa8F1F5EF40E2c",
+      "stakedAmount": "3000000",
+      "claimable": "516492",
+      "owed": "514750",
+      "owedLike": "0.51475"
+    },
+    {
+      "tokenId": "32",
+      "owner": "0x8F176D80F72eA56Fbf61b5E56b84414689EA26bA",
+      "bookNFT": "0x97FA87D601701ea51164CfC4e0e00dde004A9CA0",
+      "stakedAmount": "1010000000",
+      "claimable": "9646315344869987322",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "117",
+      "owner": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x97FA87D601701ea51164CfC4e0e00dde004A9CA0",
+      "stakedAmount": "8842",
+      "claimable": "84448237902457",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "156",
+      "owner": "0x6ba3525B364445F4ed3244ff0a151c8bAea934cA",
+      "bookNFT": "0x97FA87D601701ea51164CfC4e0e00dde004A9CA0",
+      "stakedAmount": "1000000000",
+      "claimable": "9550807272599868101",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "326",
+      "owner": "0x12cF06fC70CbcBfD9E8e1676029f7189053Ac981",
+      "bookNFT": "0x97FA87D601701ea51164CfC4e0e00dde004A9CA0",
+      "stakedAmount": "500000000",
+      "claimable": "4775403636211621891",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "402",
+      "owner": "0x9Bd0787873B50990c14Ef9155D7a095753C22485",
+      "bookNFT": "0x97FA87D601701ea51164CfC4e0e00dde004A9CA0",
+      "stakedAmount": "35000000",
+      "claimable": "334278254522027213",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "804",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x97FA87D601701ea51164CfC4e0e00dde004A9CA0",
+      "stakedAmount": "3000000",
+      "claimable": "28652421817165097",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "847",
+      "owner": "0x39c8B49Ca48d266785A01cc2141Eb936c2f11028",
+      "bookNFT": "0x97FA87D601701ea51164CfC4e0e00dde004A9CA0",
+      "stakedAmount": "208000000",
+      "claimable": "1986567912656780083",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "911",
+      "owner": "0x02e74F3b930f8443DE58e9D3Bd57fc6b1612e627",
+      "bookNFT": "0x97FA87D601701ea51164CfC4e0e00dde004A9CA0",
+      "stakedAmount": "100000000",
+      "claimable": "955080727200000000",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1338",
+      "owner": "0xB2206f941A5206B55BFA33E665687523A8bcEd80",
+      "bookNFT": "0x97FA87D601701ea51164CfC4e0e00dde004A9CA0",
+      "stakedAmount": "6000000000",
+      "claimable": "57304843632000000000",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1521",
+      "owner": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0x97FA87D601701ea51164CfC4e0e00dde004A9CA0",
+      "stakedAmount": "2",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "37",
+      "owner": "0x8F176D80F72eA56Fbf61b5E56b84414689EA26bA",
+      "bookNFT": "0xb8Ae0a0C0380F81F4b14120A948228BACC327415",
+      "stakedAmount": "510787593",
+      "claimable": "2823306",
+      "owed": "2823234",
+      "owedLike": "2.823234"
+    },
+    {
+      "tokenId": "70",
+      "owner": "0x7fF3c36212F5B10846B7A2569b7b8a822a900050",
+      "bookNFT": "0xb8Ae0a0C0380F81F4b14120A948228BACC327415",
+      "stakedAmount": "1000000000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "77",
+      "owner": "0x7D08f52539A8Fa695b474513437B1Ee8Bf5112d7",
+      "bookNFT": "0xb8Ae0a0C0380F81F4b14120A948228BACC327415",
+      "stakedAmount": "500000000",
+      "claimable": "8233637",
+      "owed": "8233428",
+      "owedLike": "8.233428"
+    },
+    {
+      "tokenId": "101",
+      "owner": "0x775E80246A1C3aac7ce389B481a8e74E1F2FEbCB",
+      "bookNFT": "0xb8Ae0a0C0380F81F4b14120A948228BACC327415",
+      "stakedAmount": "1100000000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "176",
+      "owner": "0x0686BcD9e5A94d9f0b29EA7Ce1887d8B2dA21e86",
+      "bookNFT": "0xb8Ae0a0C0380F81F4b14120A948228BACC327415",
+      "stakedAmount": "1000000000",
+      "claimable": "5527358",
+      "owed": "5527218",
+      "owedLike": "5.527218"
+    },
+    {
+      "tokenId": "391",
+      "owner": "0x1d1F6bEbaB8A03a09fd2E28A2D152a912d4D87c9",
+      "bookNFT": "0xb8Ae0a0C0380F81F4b14120A948228BACC327415",
+      "stakedAmount": "100000000",
+      "claimable": "2371580",
+      "owed": "2371519",
+      "owedLike": "2.371519"
+    },
+    {
+      "tokenId": "393",
+      "owner": "0x9692Fefe6ffa3d45769Cb6A8c9D11991fc143919",
+      "bookNFT": "0xb8Ae0a0C0380F81F4b14120A948228BACC327415",
+      "stakedAmount": "100000000",
+      "claimable": "2371580",
+      "owed": "2371519",
+      "owedLike": "2.371519"
+    },
+    {
+      "tokenId": "546",
+      "owner": "0x9Bd0787873B50990c14Ef9155D7a095753C22485",
+      "bookNFT": "0xb8Ae0a0C0380F81F4b14120A948228BACC327415",
+      "stakedAmount": "25000000",
+      "claimable": "138183",
+      "owed": "138179",
+      "owedLike": "0.138179"
+    },
+    {
+      "tokenId": "609",
+      "owner": "0x36F322fC85B24aB13263CFE9217B28f8E2b38381",
+      "bookNFT": "0xb8Ae0a0C0380F81F4b14120A948228BACC327415",
+      "stakedAmount": "30000000000",
+      "claimable": "711474283",
+      "owed": "711456286",
+      "owedLike": "711.456286"
+    },
+    {
+      "tokenId": "1063",
+      "owner": "0xE29Ca6542347879b0aF2A534b865023adB9A39C0",
+      "bookNFT": "0xb8Ae0a0C0380F81F4b14120A948228BACC327415",
+      "stakedAmount": "100000000",
+      "claimable": "1646727",
+      "owed": "1646685",
+      "owedLike": "1.646685"
+    },
+    {
+      "tokenId": "624",
+      "owner": "0x550Bf893A4DC87A76F99726581c8f6bBE87a028d",
+      "bookNFT": "0xb8Ae0a0C0380F81F4b14120A948228BACC327415",
+      "stakedAmount": "100000000",
+      "claimable": "2371580",
+      "owed": "2371519",
+      "owedLike": "2.371519"
+    },
+    {
+      "tokenId": "802",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0xb8Ae0a0C0380F81F4b14120A948228BACC327415",
+      "stakedAmount": "3000000",
+      "claimable": "71147",
+      "owed": "71145",
+      "owedLike": "0.071145"
+    },
+    {
+      "tokenId": "1096",
+      "owner": "0xe155Fb7F921b46383D83CaE0165a9717De04162F",
+      "bookNFT": "0xb8Ae0a0C0380F81F4b14120A948228BACC327415",
+      "stakedAmount": "100000000",
+      "claimable": "552735",
+      "owed": "552721",
+      "owedLike": "0.552721"
+    },
+    {
+      "tokenId": "39",
+      "owner": "0x8F176D80F72eA56Fbf61b5E56b84414689EA26bA",
+      "bookNFT": "0x3ed61aeeC1DA28A93eE9963f2D21FdD802CBc063",
+      "stakedAmount": "1000000000",
+      "claimable": "4947955739387823801",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "116",
+      "owner": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x3ed61aeeC1DA28A93eE9963f2D21FdD802CBc063",
+      "stakedAmount": "1000000000",
+      "claimable": "4947955739555968459",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "123",
+      "owner": "0x7fF3c36212F5B10846B7A2569b7b8a822a900050",
+      "bookNFT": "0x3ed61aeeC1DA28A93eE9963f2D21FdD802CBc063",
+      "stakedAmount": "1000000000",
+      "claimable": "4947955739000000000",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "591",
+      "owner": "0x13d6f5A180A8ff82E2e74847D9bc91b537b03A2E",
+      "bookNFT": "0x3ed61aeeC1DA28A93eE9963f2D21FdD802CBc063",
+      "stakedAmount": "1000000000",
+      "claimable": "4947955739000000000",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "776",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x3ed61aeeC1DA28A93eE9963f2D21FdD802CBc063",
+      "stakedAmount": "3000000",
+      "claimable": "14843867218163471",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1520",
+      "owner": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0x3ed61aeeC1DA28A93eE9963f2D21FdD802CBc063",
+      "stakedAmount": "2",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "40",
+      "owner": "0x8F176D80F72eA56Fbf61b5E56b84414689EA26bA",
+      "bookNFT": "0xAB976072B6Be23De212437d8f42375D5131daFb9",
+      "stakedAmount": "10000000",
+      "claimable": "32804146164470289",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "111",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0xAB976072B6Be23De212437d8f42375D5131daFb9",
+      "stakedAmount": "247000000",
+      "claimable": "810262410262416149",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "487",
+      "owner": "0x8EB12Be95E325376721Dd6dDeA39306171fAc71d",
+      "bookNFT": "0xAB976072B6Be23De212437d8f42375D5131daFb9",
+      "stakedAmount": "10000000",
+      "claimable": "32804146164470289",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "557",
+      "owner": "0x662A79fBc9ae681d7cD19A7275Aa8b3187CcA622",
+      "bookNFT": "0xAB976072B6Be23De212437d8f42375D5131daFb9",
+      "stakedAmount": "2000000000",
+      "claimable": "6560829232894057887",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1511",
+      "owner": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0xAB976072B6Be23De212437d8f42375D5131daFb9",
+      "stakedAmount": "2",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "42",
+      "owner": "0x8F176D80F72eA56Fbf61b5E56b84414689EA26bA",
+      "bookNFT": "0x3928C8E06f5f814811f6d70ae91da85B4E133b89",
+      "stakedAmount": "511528434",
+      "claimable": "4245524288178607673",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "155",
+      "owner": "0x6ba3525B364445F4ed3244ff0a151c8bAea934cA",
+      "bookNFT": "0x3928C8E06f5f814811f6d70ae91da85B4E133b89",
+      "stakedAmount": "1000000000",
+      "claimable": "8299683861409149745",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "158",
+      "owner": "0x0686BcD9e5A94d9f0b29EA7Ce1887d8B2dA21e86",
+      "bookNFT": "0x3928C8E06f5f814811f6d70ae91da85B4E133b89",
+      "stakedAmount": "1000000000",
+      "claimable": "8299683861129423889",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "213",
+      "owner": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x3928C8E06f5f814811f6d70ae91da85B4E133b89",
+      "stakedAmount": "1000000000",
+      "claimable": "8299683861191206014",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "331",
+      "owner": "0x24cD9d885Fe462354E74BdC5361E0886441875DC",
+      "bookNFT": "0x3928C8E06f5f814811f6d70ae91da85B4E133b89",
+      "stakedAmount": "10000000",
+      "claimable": "82996838611912060",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "347",
+      "owner": "0xC3667DcAD0d71301E913b6cb8741538B7CFe251c",
+      "bookNFT": "0x3928C8E06f5f814811f6d70ae91da85B4E133b89",
+      "stakedAmount": "1500000000",
+      "claimable": "12449525791762477485",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "380",
+      "owner": "0x625B192B5019bcA08F4C312ba4319203e5e07e94",
+      "bookNFT": "0x3928C8E06f5f814811f6d70ae91da85B4E133b89",
+      "stakedAmount": "10000000",
+      "claimable": "82996838610828781",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "400",
+      "owner": "0x9Bd0787873B50990c14Ef9155D7a095753C22485",
+      "bookNFT": "0x3928C8E06f5f814811f6d70ae91da85B4E133b89",
+      "stakedAmount": "25000000",
+      "claimable": "207492096527680387",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "514",
+      "owner": "0x8EB12Be95E325376721Dd6dDeA39306171fAc71d",
+      "bookNFT": "0x3928C8E06f5f814811f6d70ae91da85B4E133b89",
+      "stakedAmount": "10000000",
+      "claimable": "82996838611912060",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "781",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x3928C8E06f5f814811f6d70ae91da85B4E133b89",
+      "stakedAmount": "3000000",
+      "claimable": "24899051583524954",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "960",
+      "owner": "0x662A79fBc9ae681d7cD19A7275Aa8b3187CcA622",
+      "bookNFT": "0x3928C8E06f5f814811f6d70ae91da85B4E133b89",
+      "stakedAmount": "2000000000",
+      "claimable": "16599367722165756221",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1504",
+      "owner": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0x3928C8E06f5f814811f6d70ae91da85B4E133b89",
+      "stakedAmount": "2",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "45",
+      "owner": "0x8F176D80F72eA56Fbf61b5E56b84414689EA26bA",
+      "bookNFT": "0x9cA7f7FAF79544FEEF185b50749D3f814E3748ce",
+      "stakedAmount": "10000000",
+      "claimable": "43509501863292826",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "74",
+      "owner": "0x7fF3c36212F5B10846B7A2569b7b8a822a900050",
+      "bookNFT": "0x9cA7f7FAF79544FEEF185b50749D3f814E3748ce",
+      "stakedAmount": "1000000000",
+      "claimable": "4350950186000000000",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "88",
+      "owner": "0x880d1303B47CF2ca05FF0cd62543Dc2752BF8B37",
+      "bookNFT": "0x9cA7f7FAF79544FEEF185b50749D3f814E3748ce",
+      "stakedAmount": "888000000",
+      "claimable": "3863643765814099931",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "593",
+      "owner": "0x13d6f5A180A8ff82E2e74847D9bc91b537b03A2E",
+      "bookNFT": "0x9cA7f7FAF79544FEEF185b50749D3f814E3748ce",
+      "stakedAmount": "1002000000",
+      "claimable": "4359652086372000000",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "618",
+      "owner": "0xA3920714f9fDf92eCa5e112017Ab1D31cFcb8588",
+      "bookNFT": "0x9cA7f7FAF79544FEEF185b50749D3f814E3748ce",
+      "stakedAmount": "100000000",
+      "claimable": "435095018632928262",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "770",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x9cA7f7FAF79544FEEF185b50749D3f814E3748ce",
+      "stakedAmount": "3000000",
+      "claimable": "13052850558987847",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "884",
+      "owner": "0x874C506D93e1bc08d735730A2e20beD16CE5bDB9",
+      "bookNFT": "0x9cA7f7FAF79544FEEF185b50749D3f814E3748ce",
+      "stakedAmount": "500000000",
+      "claimable": "2175475093164641313",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1525",
+      "owner": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0x9cA7f7FAF79544FEEF185b50749D3f814E3748ce",
+      "stakedAmount": "2",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "46",
+      "owner": "0x8F176D80F72eA56Fbf61b5E56b84414689EA26bA",
+      "bookNFT": "0xa2223E10aE8Db458FB5c599DA3BBF95BB6665e23",
+      "stakedAmount": "104696699",
+      "claimable": "239929146",
+      "owed": "169162342",
+      "owedLike": "169.162342"
+    },
+    {
+      "tokenId": "58",
+      "owner": "0x13d6f5A180A8ff82E2e74847D9bc91b537b03A2E",
+      "bookNFT": "0xa2223E10aE8Db458FB5c599DA3BBF95BB6665e23",
+      "stakedAmount": "100000000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "693",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0xa2223E10aE8Db458FB5c599DA3BBF95BB6665e23",
+      "stakedAmount": "3000000",
+      "claimable": "6874977",
+      "owed": "4847211",
+      "owedLike": "4.847211"
+    },
+    {
+      "tokenId": "1420",
+      "owner": "0x662A79fBc9ae681d7cD19A7275Aa8b3187CcA622",
+      "bookNFT": "0xa2223E10aE8Db458FB5c599DA3BBF95BB6665e23",
+      "stakedAmount": "5000000000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "49",
+      "owner": "0x8F176D80F72eA56Fbf61b5E56b84414689EA26bA",
+      "bookNFT": "0x0d9daD7d5BA162c98260398B5494cC133292b5Ad",
+      "stakedAmount": "1000000",
+      "claimable": "24041398294068009",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "296",
+      "owner": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x0d9daD7d5BA162c98260398B5494cC133292b5Ad",
+      "stakedAmount": "500000000",
+      "claimable": "12020699147326279594",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1048",
+      "owner": "0x11BE308ab7C4F0E330FEB1F1F7eD5E21185B8066",
+      "bookNFT": "0x0d9daD7d5BA162c98260398B5494cC133292b5Ad",
+      "stakedAmount": "1000000000",
+      "claimable": "24041398294084608940",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "715",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x0d9daD7d5BA162c98260398B5494cC133292b5Ad",
+      "stakedAmount": "3000000",
+      "claimable": "72124194882319750",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "851",
+      "owner": "0x4D58578253de8d9deb6A57FAf43E0e3226C9629B",
+      "bookNFT": "0x0d9daD7d5BA162c98260398B5494cC133292b5Ad",
+      "stakedAmount": "10000000000",
+      "claimable": "240413982940412345436",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1044",
+      "owner": "0x98e6269f33d3191b6e6DEdD01e93c51cc14257d3",
+      "bookNFT": "0x0d9daD7d5BA162c98260398B5494cC133292b5Ad",
+      "stakedAmount": "10800000000",
+      "claimable": "259647101576113776559",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1515",
+      "owner": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0x0d9daD7d5BA162c98260398B5494cC133292b5Ad",
+      "stakedAmount": "2",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "53",
+      "owner": "0x13d6f5A180A8ff82E2e74847D9bc91b537b03A2E",
+      "bookNFT": "0x5a84A921113340E8edD133931b55EB6e855259Ce",
+      "stakedAmount": "100000000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "87",
+      "owner": "0x7fF3c36212F5B10846B7A2569b7b8a822a900050",
+      "bookNFT": "0x5a84A921113340E8edD133931b55EB6e855259Ce",
+      "stakedAmount": "1000000000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "361",
+      "owner": "0x64110F5bd00561cC7D1Df17f8FAf7168A80985Ac",
+      "bookNFT": "0x5a84A921113340E8edD133931b55EB6e855259Ce",
+      "stakedAmount": "20542972282",
+      "claimable": "355859369",
+      "owed": "346884664",
+      "owedLike": "346.884664"
+    },
+    {
+      "tokenId": "478",
+      "owner": "0x82D3871bCBB8a8E9B9Db67471dA9EC87aD8d653e",
+      "bookNFT": "0x5a84A921113340E8edD133931b55EB6e855259Ce",
+      "stakedAmount": "100000000",
+      "claimable": "15306575",
+      "owed": "14920546",
+      "owedLike": "14.920546"
+    },
+    {
+      "tokenId": "625",
+      "owner": "0x550Bf893A4DC87A76F99726581c8f6bBE87a028d",
+      "bookNFT": "0x5a84A921113340E8edD133931b55EB6e855259Ce",
+      "stakedAmount": "100000000",
+      "claimable": "1732268",
+      "owed": "1688580",
+      "owedLike": "1.68858"
+    },
+    {
+      "tokenId": "801",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x5a84A921113340E8edD133931b55EB6e855259Ce",
+      "stakedAmount": "3000000",
+      "claimable": "51968",
+      "owed": "50657",
+      "owedLike": "0.050657"
+    },
+    {
+      "tokenId": "72",
+      "owner": "0x7fF3c36212F5B10846B7A2569b7b8a822a900050",
+      "bookNFT": "0xa1D7F3e0a45206CFf39110aF4a7542407289e829",
+      "stakedAmount": "1000000000",
+      "claimable": "5873624",
+      "owed": "5563026",
+      "owedLike": "5.563026"
+    },
+    {
+      "tokenId": "97",
+      "owner": "0xC4B2d5a6eDba534A848336173e4136f078E1b7ef",
+      "bookNFT": "0xa1D7F3e0a45206CFf39110aF4a7542407289e829",
+      "stakedAmount": "53213473929",
+      "claimable": "610803341",
+      "owed": "578504021",
+      "owedLike": "578.504021"
+    },
+    {
+      "tokenId": "108",
+      "owner": "0x8F176D80F72eA56Fbf61b5E56b84414689EA26bA",
+      "bookNFT": "0xa1D7F3e0a45206CFf39110aF4a7542407289e829",
+      "stakedAmount": "500000000",
+      "claimable": "14329095",
+      "owed": "13571371",
+      "owedLike": "13.571371"
+    },
+    {
+      "tokenId": "113",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0xa1D7F3e0a45206CFf39110aF4a7542407289e829",
+      "stakedAmount": "354000000",
+      "claimable": "10144999",
+      "owed": "9608530",
+      "owedLike": "9.60853"
+    },
+    {
+      "tokenId": "370",
+      "owner": "0x13eDf0A12d119C961cfcAFD238e4DAA839324DdB",
+      "bookNFT": "0xa1D7F3e0a45206CFf39110aF4a7542407289e829",
+      "stakedAmount": "100000000",
+      "claimable": "2865819",
+      "owed": "2714274",
+      "owedLike": "2.714274"
+    },
+    {
+      "tokenId": "392",
+      "owner": "0xe425120DfcCa03aee142d222a558ECA316D68fFb",
+      "bookNFT": "0xa1D7F3e0a45206CFf39110aF4a7542407289e829",
+      "stakedAmount": "96000000",
+      "claimable": "39332796",
+      "owed": "37252874",
+      "owedLike": "37.252874"
+    },
+    {
+      "tokenId": "416",
+      "owner": "0xdc6B04B4e40fDe7c0e9ee1171F913FebDbB4b88B",
+      "bookNFT": "0xa1D7F3e0a45206CFf39110aF4a7542407289e829",
+      "stakedAmount": "208000000",
+      "claimable": "85221059",
+      "owed": "80714563",
+      "owedLike": "80.714563"
+    },
+    {
+      "tokenId": "484",
+      "owner": "0x8EB12Be95E325376721Dd6dDeA39306171fAc71d",
+      "bookNFT": "0xa1D7F3e0a45206CFf39110aF4a7542407289e829",
+      "stakedAmount": "10000000",
+      "claimable": "3418959",
+      "owed": "3238164",
+      "owedLike": "3.238164"
+    },
+    {
+      "tokenId": "552",
+      "owner": "0x9Bd0787873B50990c14Ef9155D7a095753C22485",
+      "bookNFT": "0xa1D7F3e0a45206CFf39110aF4a7542407289e829",
+      "stakedAmount": "25000000",
+      "claimable": "716454",
+      "owed": "678567",
+      "owedLike": "0.678567"
+    },
+    {
+      "tokenId": "880",
+      "owner": "0x874C506D93e1bc08d735730A2e20beD16CE5bDB9",
+      "bookNFT": "0xa1D7F3e0a45206CFf39110aF4a7542407289e829",
+      "stakedAmount": "100000000",
+      "claimable": "34189596",
+      "owed": "32381647",
+      "owedLike": "32.381647"
+    },
+    {
+      "tokenId": "1084",
+      "owner": "0xC3667DcAD0d71301E913b6cb8741538B7CFe251c",
+      "bookNFT": "0xa1D7F3e0a45206CFf39110aF4a7542407289e829",
+      "stakedAmount": "10000000000",
+      "claimable": "569865797",
+      "owed": "539731252",
+      "owedLike": "539.731252"
+    },
+    {
+      "tokenId": "1162",
+      "owner": "0x3Ec3637e54D54d1bD289C0272Ccb4A665eEcf725",
+      "bookNFT": "0xa1D7F3e0a45206CFf39110aF4a7542407289e829",
+      "stakedAmount": "100000000",
+      "claimable": "2865819",
+      "owed": "2714274",
+      "owedLike": "2.714274"
+    },
+    {
+      "tokenId": "1344",
+      "owner": "0xF0177457dD06f99fA1973aDA68903DdF3B6De2BD",
+      "bookNFT": "0xa1D7F3e0a45206CFf39110aF4a7542407289e829",
+      "stakedAmount": "100000000",
+      "claimable": "587362",
+      "owed": "556302",
+      "owedLike": "0.556302"
+    },
+    {
+      "tokenId": "599",
+      "owner": "0x1d1F6bEbaB8A03a09fd2E28A2D152a912d4D87c9",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "stakedAmount": "350000000",
+      "claimable": "9515514",
+      "owed": "6918059",
+      "owedLike": "6.918059"
+    },
+    {
+      "tokenId": "598",
+      "owner": "0x979b80a90E51318Eb046a5b90E2F4c742e14366e",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "stakedAmount": "10000000000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "535",
+      "owner": "0x3FfC07ED6a65E379E39Bef93e713ee3Ff77a56e4",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "stakedAmount": "1000000000",
+      "claimable": "3548243566",
+      "owed": "2579677739",
+      "owedLike": "2579.677739"
+    },
+    {
+      "tokenId": "539",
+      "owner": "0x2696cBF8Ef06175cd2DDb80b928f7A8E81De1e3e",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "stakedAmount": "50000000000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "540",
+      "owner": "0x8F176D80F72eA56Fbf61b5E56b84414689EA26bA",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "stakedAmount": "7978",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "541",
+      "owner": "0x2EdA6e34136F734e99cFdA84fD62f2d5f2343b51",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "stakedAmount": "306630000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "554",
+      "owner": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "stakedAmount": "1569",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "568",
+      "owner": "0x20981700Abe3283E1de60C77588201fB399634EE",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "stakedAmount": "200000000",
+      "claimable": "34710404",
+      "owed": "25235487",
+      "owedLike": "25.235487"
+    },
+    {
+      "tokenId": "571",
+      "owner": "0xB7f78A12c040ab03eEd909915a3605B91cb099f5",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "stakedAmount": "1000000000",
+      "claimable": "153862312",
+      "owed": "111862439",
+      "owedLike": "111.862439"
+    },
+    {
+      "tokenId": "574",
+      "owner": "0xac770FE814f733a7c74F3698e9ff49b0AcEFDa75",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "stakedAmount": "345",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "576",
+      "owner": "0x36F322fC85B24aB13263CFE9217B28f8E2b38381",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "stakedAmount": "170948700000",
+      "claimable": "4647613800",
+      "owed": "3378952338",
+      "owedLike": "3378.952338"
+    },
+    {
+      "tokenId": "577",
+      "owner": "0x756672046297F17a1bfC4D592B22C6dfc4c35215",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "stakedAmount": "205920000",
+      "claimable": "7735812",
+      "owed": "5624163",
+      "owedLike": "5.624163"
+    },
+    {
+      "tokenId": "582",
+      "owner": "0x0896E95b1750843432D10Ca0BAbf8bbD67d6C675",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "stakedAmount": "7000000",
+      "claimable": "190310",
+      "owed": "138360",
+      "owedLike": "0.13836"
+    },
+    {
+      "tokenId": "1055",
+      "owner": "0xA8a98a84f2403deDf70cc77cCF524faF7431066b",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "stakedAmount": "50000000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "604",
+      "owner": "0x1A5F2BeCc503a7D795bc8154061168856ef33C27",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "stakedAmount": "100000000",
+      "claimable": "2718718",
+      "owed": "1976588",
+      "owedLike": "1.976588"
+    },
+    {
+      "tokenId": "605",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "stakedAmount": "4483",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "611",
+      "owner": "0x765c6F7a13b989461165367D4C4F470D4B467f85",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "stakedAmount": "1000000000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "615",
+      "owner": "0xC25D144E6Fc60f507864E83606dAe5746b5FFA21",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "stakedAmount": "16110000",
+      "claimable": "437985",
+      "owed": "318428",
+      "owedLike": "0.318428"
+    },
+    {
+      "tokenId": "1073",
+      "owner": "0xd3448A4843981BaEB66459Faab20cB6e669419F4",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "stakedAmount": "1000000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "810",
+      "owner": "0xaD6000372440657550810e8cD337822821F321d9",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "stakedAmount": "100000000",
+      "claimable": "2718718",
+      "owed": "1976588",
+      "owedLike": "1.976588"
+    },
+    {
+      "tokenId": "1011",
+      "owner": "0x62720DaC71D20AB6ca7e45F222dCFc77A69f9fb3",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "stakedAmount": "100000000",
+      "claimable": "326396",
+      "owed": "237299",
+      "owedLike": "0.237299"
+    },
+    {
+      "tokenId": "814",
+      "owner": "0x7b94f66D075F201C5F28059C73Af3923c1D69A53",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "stakedAmount": "200000000",
+      "claimable": "5437436",
+      "owed": "3953176",
+      "owedLike": "3.953176"
+    },
+    {
+      "tokenId": "815",
+      "owner": "0x0686BcD9e5A94d9f0b29EA7Ce1887d8B2dA21e86",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "stakedAmount": "1000000000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "817",
+      "owner": "0x233441646EBa8E2cdd166E449dB605E05E74ABe2",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "stakedAmount": "200000000",
+      "claimable": "5256526",
+      "owed": "3821649",
+      "owedLike": "3.821649"
+    },
+    {
+      "tokenId": "863",
+      "owner": "0xDc7cd28a98E780711D72CC0a7AB484B3ccF89910",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "stakedAmount": "10000000",
+      "claimable": "231581",
+      "owed": "168366",
+      "owedLike": "0.168366"
+    },
+    {
+      "tokenId": "888",
+      "owner": "0x874C506D93e1bc08d735730A2e20beD16CE5bDB9",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "stakedAmount": "1000000000",
+      "claimable": "22123273",
+      "owed": "16084272",
+      "owedLike": "16.084272"
+    },
+    {
+      "tokenId": "895",
+      "owner": "0xa2b7350aDA8c594581C78962F01988600E611aa6",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "stakedAmount": "200000000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "921",
+      "owner": "0x310CFFB4198eCBf3F1f9064846d7473E177621AE",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "stakedAmount": "101000000000",
+      "claimable": "1965926565",
+      "owed": "1429286604",
+      "owedLike": "1429.286604"
+    },
+    {
+      "tokenId": "918",
+      "owner": "0xF0269C48252Cd4c942A54F7c2e1a0D5870FDb348",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "stakedAmount": "39229310000",
+      "claimable": "763583590",
+      "owed": "555147794",
+      "owedLike": "555.147794"
+    },
+    {
+      "tokenId": "919",
+      "owner": "0xea2CA5022a73e881Ea5716e6955ab665b46819Cf",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "stakedAmount": "100000000",
+      "claimable": "1946461",
+      "owed": "1415134",
+      "owedLike": "1.415134"
+    },
+    {
+      "tokenId": "920",
+      "owner": "0x07A43459F8a515EF8EEFA85D993285cf64D80F78",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "stakedAmount": "15209928154",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "922",
+      "owner": "0x0eC01C8b47d83F4965F91a42DfDbbe391AAD4b79",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "stakedAmount": "7637",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "932",
+      "owner": "0x3d3e5223330a00C76027852E5272f208e0e17031",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "stakedAmount": "50000000",
+      "claimable": "921881",
+      "owed": "670234",
+      "owedLike": "0.670234"
+    },
+    {
+      "tokenId": "937",
+      "owner": "0x880d1303B47CF2ca05FF0cd62543Dc2752BF8B37",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "stakedAmount": "168888000",
+      "claimable": "2901854",
+      "owed": "2109733",
+      "owedLike": "2.109733"
+    },
+    {
+      "tokenId": "956",
+      "owner": "0x9a4D3d8426479987dc5cEa2637b4757d68cECa17",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "stakedAmount": "1000000",
+      "claimable": "12909",
+      "owed": "9385",
+      "owedLike": "0.009385"
+    },
+    {
+      "tokenId": "1008",
+      "owner": "0x47e6c59d1AA905Eb1e847c91E1248a35b8AC3ab4",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "stakedAmount": "3000000000",
+      "claimable": "9791907",
+      "owed": "7119005",
+      "owedLike": "7.119005"
+    },
+    {
+      "tokenId": "1051",
+      "owner": "0xDd0fc492DeCA435a75A1f850240772e2664D3990",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "stakedAmount": "500000000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1135",
+      "owner": "0xC6d5ED6D13bdB38cCb5c4B34f6f64FEf6623ab2D",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "stakedAmount": "100000000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1136",
+      "owner": "0x955DA9462C4960Cf9aEd82B111c12FB13704e09a",
+      "bookNFT": "0x183464E20743D52C3cAAEdEc40b52C164F42E9Ef",
+      "stakedAmount": "100000000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "909",
+      "owner": "0x5B357b6DFBc10151dd4775c70b5355a7C8498f29",
+      "bookNFT": "0xD08EB66DAe9Bad58626ac4ED6A4a102b134b7457",
+      "stakedAmount": "100000000",
+      "claimable": "31433",
+      "owed": "30600",
+      "owedLike": "0.0306"
+    },
+    {
+      "tokenId": "1088",
+      "owner": "0xea267bDd43d310734057e5dBDB02330528C21f05",
+      "bookNFT": "0xD08EB66DAe9Bad58626ac4ED6A4a102b134b7457",
+      "stakedAmount": "1100000000",
+      "claimable": "4111729",
+      "owed": "4002851",
+      "owedLike": "4.002851"
+    },
+    {
+      "tokenId": "908",
+      "owner": "0x13d6f5A180A8ff82E2e74847D9bc91b537b03A2E",
+      "bookNFT": "0xD08EB66DAe9Bad58626ac4ED6A4a102b134b7457",
+      "stakedAmount": "14000000000",
+      "claimable": "4400753",
+      "owed": "4284221",
+      "owedLike": "4.284221"
+    },
+    {
+      "tokenId": "915",
+      "owner": "0x8F176D80F72eA56Fbf61b5E56b84414689EA26bA",
+      "bookNFT": "0xD08EB66DAe9Bad58626ac4ED6A4a102b134b7457",
+      "stakedAmount": "80227807931",
+      "claimable": "264619170",
+      "owed": "257612108",
+      "owedLike": "257.612108"
+    },
+    {
+      "tokenId": "916",
+      "owner": "0x7fF3c36212F5B10846B7A2569b7b8a822a900050",
+      "bookNFT": "0xD08EB66DAe9Bad58626ac4ED6A4a102b134b7457",
+      "stakedAmount": "1000000000",
+      "claimable": "314339",
+      "owed": "306015",
+      "owedLike": "0.306015"
+    },
+    {
+      "tokenId": "929",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0xD08EB66DAe9Bad58626ac4ED6A4a102b134b7457",
+      "stakedAmount": "3000000",
+      "claimable": "23521",
+      "owed": "22898",
+      "owedLike": "0.022898"
+    },
+    {
+      "tokenId": "934",
+      "owner": "0x1c088F9bF5C0c1Bdd63dF843F5fD328BC7a6E675",
+      "bookNFT": "0xD08EB66DAe9Bad58626ac4ED6A4a102b134b7457",
+      "stakedAmount": "1000000000",
+      "claimable": "14453119",
+      "owed": "14070402",
+      "owedLike": "14.070402"
+    },
+    {
+      "tokenId": "938",
+      "owner": "0x3FfC07ED6a65E379E39Bef93e713ee3Ff77a56e4",
+      "bookNFT": "0xD08EB66DAe9Bad58626ac4ED6A4a102b134b7457",
+      "stakedAmount": "1000000000",
+      "claimable": "14453119",
+      "owed": "14070402",
+      "owedLike": "14.070402"
+    },
+    {
+      "tokenId": "951",
+      "owner": "0x2696cBF8Ef06175cd2DDb80b928f7A8E81De1e3e",
+      "bookNFT": "0xD08EB66DAe9Bad58626ac4ED6A4a102b134b7457",
+      "stakedAmount": "4003679831",
+      "claimable": "7178296",
+      "owed": "6988215",
+      "owedLike": "6.988215"
+    },
+    {
+      "tokenId": "1081",
+      "owner": "0xB0fD5a878DBF3F9358A251caF9b6Fc692A999cA7",
+      "bookNFT": "0xD08EB66DAe9Bad58626ac4ED6A4a102b134b7457",
+      "stakedAmount": "2400000000",
+      "claimable": "754414",
+      "owed": "734437",
+      "owedLike": "0.734437"
+    },
+    {
+      "tokenId": "1543",
+      "owner": "0x874C506D93e1bc08d735730A2e20beD16CE5bDB9",
+      "bookNFT": "0xD08EB66DAe9Bad58626ac4ED6A4a102b134b7457",
+      "stakedAmount": "100000000",
+      "claimable": "31433",
+      "owed": "30600",
+      "owedLike": "0.0306"
+    },
+    {
+      "tokenId": "1397",
+      "owner": "0xB2206f941A5206B55BFA33E665687523A8bcEd80",
+      "bookNFT": "0xD08EB66DAe9Bad58626ac4ED6A4a102b134b7457",
+      "stakedAmount": "100000000",
+      "claimable": "31433",
+      "owed": "30600",
+      "owedLike": "0.0306"
+    },
+    {
+      "tokenId": "1351",
+      "owner": "0xea7d3868A81bBbB8814AFe37E199fc6ed49c3CaE",
+      "bookNFT": "0xD08EB66DAe9Bad58626ac4ED6A4a102b134b7457",
+      "stakedAmount": "5000000000",
+      "claimable": "8964623",
+      "owed": "8727241",
+      "owedLike": "8.727241"
+    },
+    {
+      "tokenId": "129",
+      "owner": "0xC3667DcAD0d71301E913b6cb8741538B7CFe251c",
+      "bookNFT": "0x9483913D6207c0Dd3c54D7856C23145F1279cA52",
+      "stakedAmount": "50000000000",
+      "claimable": "2322138211",
+      "owed": "2321585814",
+      "owedLike": "2321.585814"
+    },
+    {
+      "tokenId": "133",
+      "owner": "0x625B192B5019bcA08F4C312ba4319203e5e07e94",
+      "bookNFT": "0x9483913D6207c0Dd3c54D7856C23145F1279cA52",
+      "stakedAmount": "10000000",
+      "claimable": "189089",
+      "owed": "189044",
+      "owedLike": "0.189044"
+    },
+    {
+      "tokenId": "175",
+      "owner": "0x0686BcD9e5A94d9f0b29EA7Ce1887d8B2dA21e86",
+      "bookNFT": "0x9483913D6207c0Dd3c54D7856C23145F1279cA52",
+      "stakedAmount": "1000000000",
+      "claimable": "38675730",
+      "owed": "38666529",
+      "owedLike": "38.666529"
+    },
+    {
+      "tokenId": "201",
+      "owner": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x9483913D6207c0Dd3c54D7856C23145F1279cA52",
+      "stakedAmount": "100000000",
+      "claimable": "8537455",
+      "owed": "8535424",
+      "owedLike": "8.535424"
+    },
+    {
+      "tokenId": "358",
+      "owner": "0xF0269C48252Cd4c942A54F7c2e1a0D5870FDb348",
+      "bookNFT": "0x9483913D6207c0Dd3c54D7856C23145F1279cA52",
+      "stakedAmount": "58000000",
+      "claimable": "4660914",
+      "owed": "4659805",
+      "owedLike": "4.659805"
+    },
+    {
+      "tokenId": "989",
+      "owner": "0xbf2217e4d458B4219DF6943853a053Ad4db772fa",
+      "bookNFT": "0x9483913D6207c0Dd3c54D7856C23145F1279cA52",
+      "stakedAmount": "20035360",
+      "claimable": "515727",
+      "owed": "515604",
+      "owedLike": "0.515604"
+    },
+    {
+      "tokenId": "612",
+      "owner": "0xd99B54a04AA66aF4B8F4066352a8353ac55f4766",
+      "bookNFT": "0x9483913D6207c0Dd3c54D7856C23145F1279cA52",
+      "stakedAmount": "1000000",
+      "claimable": "69938",
+      "owed": "69921",
+      "owedLike": "0.069921"
+    },
+    {
+      "tokenId": "617",
+      "owner": "0xBCa9846312aA78aB6f570FfaDee22863B1163FC1",
+      "bookNFT": "0x9483913D6207c0Dd3c54D7856C23145F1279cA52",
+      "stakedAmount": "30000000000",
+      "claimable": "2098145488",
+      "owed": "2097646371",
+      "owedLike": "2097.646371"
+    },
+    {
+      "tokenId": "803",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x9483913D6207c0Dd3c54D7856C23145F1279cA52",
+      "stakedAmount": "3000000",
+      "claimable": "149936",
+      "owed": "149900",
+      "owedLike": "0.1499"
+    },
+    {
+      "tokenId": "850",
+      "owner": "0xf987062380BE7B7bF5Ce8fC9C75c8A00652De636",
+      "bookNFT": "0x9483913D6207c0Dd3c54D7856C23145F1279cA52",
+      "stakedAmount": "10000000",
+      "claimable": "699381",
+      "owed": "699214",
+      "owedLike": "0.699214"
+    },
+    {
+      "tokenId": "912",
+      "owner": "0x2696cBF8Ef06175cd2DDb80b928f7A8E81De1e3e",
+      "bookNFT": "0x9483913D6207c0Dd3c54D7856C23145F1279cA52",
+      "stakedAmount": "10020441523",
+      "claimable": "257934868",
+      "owed": "257873509",
+      "owedLike": "257.873509"
+    },
+    {
+      "tokenId": "971",
+      "owner": "0x775E80246A1C3aac7ce389B481a8e74E1F2FEbCB",
+      "bookNFT": "0x9483913D6207c0Dd3c54D7856C23145F1279cA52",
+      "stakedAmount": "6632",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1016",
+      "owner": "0x65F3ea02d4de5d10589bEddAEbebCD10231E8708",
+      "bookNFT": "0x9483913D6207c0Dd3c54D7856C23145F1279cA52",
+      "stakedAmount": "100000000",
+      "claimable": "4997884",
+      "owed": "4996695",
+      "owedLike": "4.996695"
+    },
+    {
+      "tokenId": "1343",
+      "owner": "0xF0177457dD06f99fA1973aDA68903DdF3B6De2BD",
+      "bookNFT": "0x9483913D6207c0Dd3c54D7856C23145F1279cA52",
+      "stakedAmount": "100000000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1352",
+      "owner": "0xea7d3868A81bBbB8814AFe37E199fc6ed49c3CaE",
+      "bookNFT": "0x9483913D6207c0Dd3c54D7856C23145F1279cA52",
+      "stakedAmount": "5000000000",
+      "claimable": "113881119",
+      "owed": "113854028",
+      "owedLike": "113.854028"
+    },
+    {
+      "tokenId": "138",
+      "owner": "0x63252957c9f9a6E7D4558Fd7cC64Be55E8d38A81",
+      "bookNFT": "0xdDBa03e8e8459d4afD9ac6eA226209b7E56d5AF1",
+      "stakedAmount": "2000000000",
+      "claimable": "6630032644982543693",
+      "owed": "309553278",
+      "owedLike": "309.553278"
+    },
+    {
+      "tokenId": "421",
+      "owner": "0x8EB12Be95E325376721Dd6dDeA39306171fAc71d",
+      "bookNFT": "0xdDBa03e8e8459d4afD9ac6eA226209b7E56d5AF1",
+      "stakedAmount": "10000000",
+      "claimable": "33150163226433437",
+      "owed": "1547766",
+      "owedLike": "1.547766"
+    },
+    {
+      "tokenId": "765",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0xdDBa03e8e8459d4afD9ac6eA226209b7E56d5AF1",
+      "stakedAmount": "3000000",
+      "claimable": "9945048967473815",
+      "owed": "464329",
+      "owedLike": "0.464329"
+    },
+    {
+      "tokenId": "1513",
+      "owner": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0xdDBa03e8e8459d4afD9ac6eA226209b7E56d5AF1",
+      "stakedAmount": "2",
+      "claimable": "623130746",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "144",
+      "owner": "0x63252957c9f9a6E7D4558Fd7cC64Be55E8d38A81",
+      "bookNFT": "0xeC56635DC9a3dC8bF453a1A960917F3A5eF265ec",
+      "stakedAmount": "2000000000",
+      "claimable": "132390424",
+      "owed": "132349560",
+      "owedLike": "132.34956"
+    },
+    {
+      "tokenId": "411",
+      "owner": "0xC7D3aEA5789630fF007d78b0C0cbcf516ed01328",
+      "bookNFT": "0xeC56635DC9a3dC8bF453a1A960917F3A5eF265ec",
+      "stakedAmount": "100000000",
+      "claimable": "13439106",
+      "owed": "13434957",
+      "owedLike": "13.434957"
+    },
+    {
+      "tokenId": "808",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0xeC56635DC9a3dC8bF453a1A960917F3A5eF265ec",
+      "stakedAmount": "3000000",
+      "claimable": "403173",
+      "owed": "403048",
+      "owedLike": "0.403048"
+    },
+    {
+      "tokenId": "995",
+      "owner": "0x3f6B1945F22De27540fe293E35F1256594B7a13c",
+      "bookNFT": "0xeC56635DC9a3dC8bF453a1A960917F3A5eF265ec",
+      "stakedAmount": "7919420000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1431",
+      "owner": "0xbf2217e4d458B4219DF6943853a053Ad4db772fa",
+      "bookNFT": "0xeC56635DC9a3dC8bF453a1A960917F3A5eF265ec",
+      "stakedAmount": "20000000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "149",
+      "owner": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x5Bd162A3F47B40f57d41f0667e51B37D2b790cE8",
+      "stakedAmount": "530184943",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "290",
+      "owner": "0x3d3e5223330a00C76027852E5272f208e0e17031",
+      "bookNFT": "0x5Bd162A3F47B40f57d41f0667e51B37D2b790cE8",
+      "stakedAmount": "100000000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "365",
+      "owner": "0xD5013D3802F2B870209058e0Ff105Bf97F8B822D",
+      "bookNFT": "0x5Bd162A3F47B40f57d41f0667e51B37D2b790cE8",
+      "stakedAmount": "100000000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "379",
+      "owner": "0x625B192B5019bcA08F4C312ba4319203e5e07e94",
+      "bookNFT": "0x5Bd162A3F47B40f57d41f0667e51B37D2b790cE8",
+      "stakedAmount": "10000000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "701",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x5Bd162A3F47B40f57d41f0667e51B37D2b790cE8",
+      "stakedAmount": "3000000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1369",
+      "owner": "0x7fF3c36212F5B10846B7A2569b7b8a822a900050",
+      "bookNFT": "0x5Bd162A3F47B40f57d41f0667e51B37D2b790cE8",
+      "stakedAmount": "1000000000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "157",
+      "owner": "0xC6473A964F160B24576946d5c616caDE88B0465C",
+      "bookNFT": "0x91A7e8b5a3331cAf708ad3F90C71Cec10f37B125",
+      "stakedAmount": "47836109214",
+      "claimable": "389717156",
+      "owed": "389714972",
+      "owedLike": "389.714972"
+    },
+    {
+      "tokenId": "181",
+      "owner": "0xa037Feb6508A8C2F93bb19f6721730C45921f2D0",
+      "bookNFT": "0x91A7e8b5a3331cAf708ad3F90C71Cec10f37B125",
+      "stakedAmount": "3000000000",
+      "claimable": "110904147",
+      "owed": "110903525",
+      "owedLike": "110.903525"
+    },
+    {
+      "tokenId": "197",
+      "owner": "0x3d3e5223330a00C76027852E5272f208e0e17031",
+      "bookNFT": "0x91A7e8b5a3331cAf708ad3F90C71Cec10f37B125",
+      "stakedAmount": "5000000",
+      "claimable": "3669174",
+      "owed": "3669153",
+      "owedLike": "3.669153"
+    },
+    {
+      "tokenId": "204",
+      "owner": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x91A7e8b5a3331cAf708ad3F90C71Cec10f37B125",
+      "stakedAmount": "200000000",
+      "claimable": "3013676",
+      "owed": "3013659",
+      "owedLike": "3.013659"
+    },
+    {
+      "tokenId": "226",
+      "owner": "0x0686BcD9e5A94d9f0b29EA7Ce1887d8B2dA21e86",
+      "bookNFT": "0x91A7e8b5a3331cAf708ad3F90C71Cec10f37B125",
+      "stakedAmount": "1000000000",
+      "claimable": "43857486",
+      "owed": "43857240",
+      "owedLike": "43.85724"
+    },
+    {
+      "tokenId": "293",
+      "owner": "0x8F176D80F72eA56Fbf61b5E56b84414689EA26bA",
+      "bookNFT": "0x91A7e8b5a3331cAf708ad3F90C71Cec10f37B125",
+      "stakedAmount": "1000000000",
+      "claimable": "43857486",
+      "owed": "43857240",
+      "owedLike": "43.85724"
+    },
+    {
+      "tokenId": "330",
+      "owner": "0x24cD9d885Fe462354E74BdC5361E0886441875DC",
+      "bookNFT": "0x91A7e8b5a3331cAf708ad3F90C71Cec10f37B125",
+      "stakedAmount": "10000000",
+      "claimable": "3095629",
+      "owed": "3095611",
+      "owedLike": "3.095611"
+    },
+    {
+      "tokenId": "354",
+      "owner": "0x66AD8D3E0db87Ae882C1788e2cda9e31cDB4F013",
+      "bookNFT": "0x91A7e8b5a3331cAf708ad3F90C71Cec10f37B125",
+      "stakedAmount": "1000000000",
+      "claimable": "176921914",
+      "owed": "176920922",
+      "owedLike": "176.920922"
+    },
+    {
+      "tokenId": "397",
+      "owner": "0x7bd57425c60b32Be5a7DF107D3D119ADf7C8a440",
+      "bookNFT": "0x91A7e8b5a3331cAf708ad3F90C71Cec10f37B125",
+      "stakedAmount": "100000000",
+      "claimable": "49690670",
+      "owed": "49690391",
+      "owedLike": "49.690391"
+    },
+    {
+      "tokenId": "412",
+      "owner": "0x6f72fAa82c120ca06E25d01D7123EfF09257fcD3",
+      "bookNFT": "0x91A7e8b5a3331cAf708ad3F90C71Cec10f37B125",
+      "stakedAmount": "100000000",
+      "claimable": "25030586",
+      "owed": "25030445",
+      "owedLike": "25.030445"
+    },
+    {
+      "tokenId": "479",
+      "owner": "0xD1B884C27726D782585a2807C9e919a92786B2dB",
+      "bookNFT": "0x91A7e8b5a3331cAf708ad3F90C71Cec10f37B125",
+      "stakedAmount": "100000000",
+      "claimable": "49690670",
+      "owed": "49690391",
+      "owedLike": "49.690391"
+    },
+    {
+      "tokenId": "551",
+      "owner": "0x9Bd0787873B50990c14Ef9155D7a095753C22485",
+      "bookNFT": "0x91A7e8b5a3331cAf708ad3F90C71Cec10f37B125",
+      "stakedAmount": "25000000",
+      "claimable": "591539",
+      "owed": "591535",
+      "owedLike": "0.591535"
+    },
+    {
+      "tokenId": "589",
+      "owner": "0xa17Cf0B41dFA1c18ef832c486e084C962A997eFE",
+      "bookNFT": "0x91A7e8b5a3331cAf708ad3F90C71Cec10f37B125",
+      "stakedAmount": "1000000000",
+      "claimable": "443662190",
+      "owed": "443659704",
+      "owedLike": "443.659704"
+    },
+    {
+      "tokenId": "794",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x91A7e8b5a3331cAf708ad3F90C71Cec10f37B125",
+      "stakedAmount": "77003619345",
+      "claimable": "3377185167",
+      "owed": "3377166257",
+      "owedLike": "3377.166257"
+    },
+    {
+      "tokenId": "893",
+      "owner": "0x874C506D93e1bc08d735730A2e20beD16CE5bDB9",
+      "bookNFT": "0x91A7e8b5a3331cAf708ad3F90C71Cec10f37B125",
+      "stakedAmount": "500000000",
+      "claimable": "221831095",
+      "owed": "221829852",
+      "owedLike": "221.829852"
+    },
+    {
+      "tokenId": "1282",
+      "owner": "0xB2206f941A5206B55BFA33E665687523A8bcEd80",
+      "bookNFT": "0x91A7e8b5a3331cAf708ad3F90C71Cec10f37B125",
+      "stakedAmount": "1000000000",
+      "claimable": "3585704",
+      "owed": "3585683",
+      "owedLike": "3.585683"
+    },
+    {
+      "tokenId": "1177",
+      "owner": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x991739959726cb96f1caFF52c968f4f2912795Ff",
+      "stakedAmount": "10689721376",
+      "claimable": "120365778877309528363",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1144",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x991739959726cb96f1caFF52c968f4f2912795Ff",
+      "stakedAmount": "3000000",
+      "claimable": "33779865008772358",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1304",
+      "owner": "0x5b2Eb37B05CB28DbCE6D83Ec25071860Bc6B36CC",
+      "bookNFT": "0x991739959726cb96f1caFF52c968f4f2912795Ff",
+      "stakedAmount": "50000000",
+      "claimable": "562997737001049583",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1314",
+      "owner": "0x23AD30B8f1d8bA2f3cE3abEAbd9666b9add798d6",
+      "bookNFT": "0x991739959726cb96f1caFF52c968f4f2912795Ff",
+      "stakedAmount": "100000000",
+      "claimable": "1125995474000000000",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1508",
+      "owner": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0x991739959726cb96f1caFF52c968f4f2912795Ff",
+      "stakedAmount": "2",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "179",
+      "owner": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x51D9A55CeeA0fc14BD8DbA60af5284F0e17fC936",
+      "stakedAmount": "1000000000",
+      "claimable": "4990519868682126496",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "289",
+      "owner": "0x3d3e5223330a00C76027852E5272f208e0e17031",
+      "bookNFT": "0x51D9A55CeeA0fc14BD8DbA60af5284F0e17fC936",
+      "stakedAmount": "10000000",
+      "claimable": "49905198686821264",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "742",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x51D9A55CeeA0fc14BD8DbA60af5284F0e17fC936",
+      "stakedAmount": "3000000",
+      "claimable": "14971559604131351",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1260",
+      "owner": "0x66AD8D3E0db87Ae882C1788e2cda9e31cDB4F013",
+      "bookNFT": "0x51D9A55CeeA0fc14BD8DbA60af5284F0e17fC936",
+      "stakedAmount": "2000000000",
+      "claimable": "9981039734275440752",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1503",
+      "owner": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0x51D9A55CeeA0fc14BD8DbA60af5284F0e17fC936",
+      "stakedAmount": "2",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "185",
+      "owner": "0xa037Feb6508A8C2F93bb19f6721730C45921f2D0",
+      "bookNFT": "0x22263b9c327817dF2B11d64dfeC2b4A754fE4457",
+      "stakedAmount": "1000000000",
+      "claimable": "25988042248012317268",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "207",
+      "owner": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x22263b9c327817dF2B11d64dfeC2b4A754fE4457",
+      "stakedAmount": "4900000000",
+      "claimable": "127341407016012460214",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "353",
+      "owner": "0x66AD8D3E0db87Ae882C1788e2cda9e31cDB4F013",
+      "bookNFT": "0x22263b9c327817dF2B11d64dfeC2b4A754fE4457",
+      "stakedAmount": "1000000000",
+      "claimable": "25988042248165808206",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "364",
+      "owner": "0xD5013D3802F2B870209058e0Ff105Bf97F8B822D",
+      "bookNFT": "0x22263b9c327817dF2B11d64dfeC2b4A754fE4457",
+      "stakedAmount": "100000000",
+      "claimable": "2598804224816580820",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "550",
+      "owner": "0x9Bd0787873B50990c14Ef9155D7a095753C22485",
+      "bookNFT": "0x22263b9c327817dF2B11d64dfeC2b4A754fE4457",
+      "stakedAmount": "25000000",
+      "claimable": "649701056200307931",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1090",
+      "owner": "0x3B5a2B705f21398c0329581570618082a7D4c12c",
+      "bookNFT": "0x22263b9c327817dF2B11d64dfeC2b4A754fE4457",
+      "stakedAmount": "240000",
+      "claimable": "6237130139541492",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "789",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x22263b9c327817dF2B11d64dfeC2b4A754fE4457",
+      "stakedAmount": "3000000",
+      "claimable": "77964126744367934",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "858",
+      "owner": "0x3f31371E915efe4067C241b9dDC919919b6871c5",
+      "bookNFT": "0x22263b9c327817dF2B11d64dfeC2b4A754fE4457",
+      "stakedAmount": "5000000000",
+      "claimable": "129940211240613224626",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "939",
+      "owner": "0x21fedf67De7a7dd7b01B83536d333D3b35A28c6D",
+      "bookNFT": "0x22263b9c327817dF2B11d64dfeC2b4A754fE4457",
+      "stakedAmount": "100000000",
+      "claimable": "2598804224812264492",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "969",
+      "owner": "0x662A79fBc9ae681d7cD19A7275Aa8b3187CcA622",
+      "bookNFT": "0x22263b9c327817dF2B11d64dfeC2b4A754fE4457",
+      "stakedAmount": "10000000000",
+      "claimable": "259880422481226449252",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1103",
+      "owner": "0x7fF3c36212F5B10846B7A2569b7b8a822a900050",
+      "bookNFT": "0x22263b9c327817dF2B11d64dfeC2b4A754fE4457",
+      "stakedAmount": "1000000000",
+      "claimable": "25988042248000000000",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1516",
+      "owner": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0x22263b9c327817dF2B11d64dfeC2b4A754fE4457",
+      "stakedAmount": "2",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "210",
+      "owner": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x8Abc20B4506988B555117e43A701D8658A9D370f",
+      "stakedAmount": "11183251384",
+      "claimable": "432092318",
+      "owed": "425013853",
+      "owedLike": "425.013853"
+    },
+    {
+      "tokenId": "735",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x8Abc20B4506988B555117e43A701D8658A9D370f",
+      "stakedAmount": "3000000",
+      "claimable": "115912",
+      "owed": "114013",
+      "owedLike": "0.114013"
+    },
+    {
+      "tokenId": "215",
+      "owner": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0xd9Cd6de785C3b8F1939a8DD509019177B7D41a0E",
+      "stakedAmount": "1000000000",
+      "claimable": "4053681192838925936",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "731",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0xd9Cd6de785C3b8F1939a8DD509019177B7D41a0E",
+      "stakedAmount": "3000000",
+      "claimable": "12161043578516777",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1266",
+      "owner": "0x66AD8D3E0db87Ae882C1788e2cda9e31cDB4F013",
+      "bookNFT": "0xd9Cd6de785C3b8F1939a8DD509019177B7D41a0E",
+      "stakedAmount": "2000000000",
+      "claimable": "8107362384209238476",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1510",
+      "owner": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0xd9Cd6de785C3b8F1939a8DD509019177B7D41a0E",
+      "stakedAmount": "2",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "244",
+      "owner": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x2fa5F63792Ea0f3501C842417eF8E61F41c5E60f",
+      "stakedAmount": "100000000",
+      "claimable": "72360262740356301",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "495",
+      "owner": "0x8EB12Be95E325376721Dd6dDeA39306171fAc71d",
+      "bookNFT": "0x2fa5F63792Ea0f3501C842417eF8E61F41c5E60f",
+      "stakedAmount": "10000000",
+      "claimable": "7236026274035630",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "685",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x2fa5F63792Ea0f3501C842417eF8E61F41c5E60f",
+      "stakedAmount": "3000000",
+      "claimable": "2170807882210689",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1529",
+      "owner": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0x2fa5F63792Ea0f3501C842417eF8E61F41c5E60f",
+      "stakedAmount": "2",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "247",
+      "owner": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x6d4f3EB092a8312a52104B8786Cf5D6305261D07",
+      "stakedAmount": "1000000000",
+      "claimable": "2273744985055356764",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "728",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x6d4f3EB092a8312a52104B8786Cf5D6305261D07",
+      "stakedAmount": "3000000",
+      "claimable": "6821234955166070",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1002",
+      "owner": "0xbf2217e4d458B4219DF6943853a053Ad4db772fa",
+      "bookNFT": "0x6d4f3EB092a8312a52104B8786Cf5D6305261D07",
+      "stakedAmount": "10000000",
+      "claimable": "22737449842222145",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1203",
+      "owner": "0x02e74F3b930f8443DE58e9D3Bd57fc6b1612e627",
+      "bookNFT": "0x6d4f3EB092a8312a52104B8786Cf5D6305261D07",
+      "stakedAmount": "200000000",
+      "claimable": "454748996800000000",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1509",
+      "owner": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0x6d4f3EB092a8312a52104B8786Cf5D6305261D07",
+      "stakedAmount": "2",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "251",
+      "owner": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x93bec61F64227EeBBD0bB14E1AeCE56D63B9e0F7",
+      "stakedAmount": "500000000",
+      "claimable": "4027828625389897249",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "709",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x93bec61F64227EeBBD0bB14E1AeCE56D63B9e0F7",
+      "stakedAmount": "3000000",
+      "claimable": "24166971751219602",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1064",
+      "owner": "0x64110F5bd00561cC7D1Df17f8FAf7168A80985Ac",
+      "bookNFT": "0x93bec61F64227EeBBD0bB14E1AeCE56D63B9e0F7",
+      "stakedAmount": "5000000000",
+      "claimable": "40278286252032671309",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1168",
+      "owner": "0xF0177457dD06f99fA1973aDA68903DdF3B6De2BD",
+      "bookNFT": "0x93bec61F64227EeBBD0bB14E1AeCE56D63B9e0F7",
+      "stakedAmount": "100000000",
+      "claimable": "805565725028869086",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1501",
+      "owner": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0x93bec61F64227EeBBD0bB14E1AeCE56D63B9e0F7",
+      "stakedAmount": "2",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "261",
+      "owner": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x21E66DBd47d6376242956DaA7348682EBAd79D3B",
+      "stakedAmount": "500000000",
+      "claimable": "726883653775379742",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "281",
+      "owner": "0x24cD9d885Fe462354E74BdC5361E0886441875DC",
+      "bookNFT": "0x21E66DBd47d6376242956DaA7348682EBAd79D3B",
+      "stakedAmount": "10000000",
+      "claimable": "14537673075507594",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "415",
+      "owner": "0x6f72fAa82c120ca06E25d01D7123EfF09257fcD3",
+      "bookNFT": "0x21E66DBd47d6376242956DaA7348682EBAd79D3B",
+      "stakedAmount": "100000000",
+      "claimable": "145376730648427152",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "720",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x21E66DBd47d6376242956DaA7348682EBAd79D3B",
+      "stakedAmount": "3000000",
+      "claimable": "4361301919452814",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1512",
+      "owner": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0x21E66DBd47d6376242956DaA7348682EBAd79D3B",
+      "stakedAmount": "2",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "280",
+      "owner": "0x24cD9d885Fe462354E74BdC5361E0886441875DC",
+      "bookNFT": "0x97770A1E0023046D387aC987BbCC100f35a14844",
+      "stakedAmount": "10000000",
+      "claimable": "24025836",
+      "owed": "24025775",
+      "owedLike": "24.025775"
+    },
+    {
+      "tokenId": "297",
+      "owner": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x97770A1E0023046D387aC987BbCC100f35a14844",
+      "stakedAmount": "500000000",
+      "claimable": "1201291810",
+      "owed": "1201288770",
+      "owedLike": "1201.28877"
+    },
+    {
+      "tokenId": "413",
+      "owner": "0x6f72fAa82c120ca06E25d01D7123EfF09257fcD3",
+      "bookNFT": "0x97770A1E0023046D387aC987BbCC100f35a14844",
+      "stakedAmount": "100000000",
+      "claimable": "18809079",
+      "owed": "18809031",
+      "owedLike": "18.809031"
+    },
+    {
+      "tokenId": "719",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x97770A1E0023046D387aC987BbCC100f35a14844",
+      "stakedAmount": "75003313454",
+      "claimable": "6270726970",
+      "owed": "6270711108",
+      "owedLike": "6270.711108"
+    },
+    {
+      "tokenId": "853",
+      "owner": "0x3f31371E915efe4067C241b9dDC919919b6871c5",
+      "bookNFT": "0x97770A1E0023046D387aC987BbCC100f35a14844",
+      "stakedAmount": "5000000000",
+      "claimable": "2464874280",
+      "owed": "2464868043",
+      "owedLike": "2464.868043"
+    },
+    {
+      "tokenId": "1050",
+      "owner": "0x66AD8D3E0db87Ae882C1788e2cda9e31cDB4F013",
+      "bookNFT": "0x97770A1E0023046D387aC987BbCC100f35a14844",
+      "stakedAmount": "2000000000",
+      "claimable": "376181596",
+      "owed": "376180644",
+      "owedLike": "376.180644"
+    },
+    {
+      "tokenId": "304",
+      "owner": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x7d05a166589a26A892BE616579a05432a2401314",
+      "stakedAmount": "10000000",
+      "claimable": "7001643647968258",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "643",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x7d05a166589a26A892BE616579a05432a2401314",
+      "stakedAmount": "3000000",
+      "claimable": "2100492965196041",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1530",
+      "owner": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0x7d05a166589a26A892BE616579a05432a2401314",
+      "stakedAmount": "2",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "305",
+      "owner": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x5668ae4acDdE1E4143ae8229AF951CEa386a94c9",
+      "stakedAmount": "100000000",
+      "claimable": "223472546302710017",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "356",
+      "owner": "0x66AD8D3E0db87Ae882C1788e2cda9e31cDB4F013",
+      "bookNFT": "0x5668ae4acDdE1E4143ae8229AF951CEa386a94c9",
+      "stakedAmount": "1000000000",
+      "claimable": "2234725463027100175",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "747",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x5668ae4acDdE1E4143ae8229AF951CEa386a94c9",
+      "stakedAmount": "3000000",
+      "claimable": "6704176387915267",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1507",
+      "owner": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0x5668ae4acDdE1E4143ae8229AF951CEa386a94c9",
+      "stakedAmount": "2",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "311",
+      "owner": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x87140Bef332E48D1F2341db740E388460609152E",
+      "stakedAmount": "100000000",
+      "claimable": "453125399",
+      "owed": "453125400",
+      "owedLike": "453.1254"
+    },
+    {
+      "tokenId": "663",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x87140Bef332E48D1F2341db740E388460609152E",
+      "stakedAmount": "3000000",
+      "claimable": "177545",
+      "owed": "177545",
+      "owedLike": "0.177545"
+    },
+    {
+      "tokenId": "964",
+      "owner": "0x662A79fBc9ae681d7cD19A7275Aa8b3187CcA622",
+      "bookNFT": "0x87140Bef332E48D1F2341db740E388460609152E",
+      "stakedAmount": "40591818312",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "332",
+      "owner": "0x24cD9d885Fe462354E74BdC5361E0886441875DC",
+      "bookNFT": "0xa004d4a92B2C139aE5B6a2485458B60b484Aa3db",
+      "stakedAmount": "10000000",
+      "claimable": "26137867",
+      "owed": "26137868",
+      "owedLike": "26.137868"
+    },
+    {
+      "tokenId": "355",
+      "owner": "0x66AD8D3E0db87Ae882C1788e2cda9e31cDB4F013",
+      "bookNFT": "0xa004d4a92B2C139aE5B6a2485458B60b484Aa3db",
+      "stakedAmount": "2261378671",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "682",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0xa004d4a92B2C139aE5B6a2485458B60b484Aa3db",
+      "stakedAmount": "3000000",
+      "claimable": "7841360",
+      "owed": "7841360",
+      "owedLike": "7.84136"
+    },
+    {
+      "tokenId": "1299",
+      "owner": "0x2B3F6105B7802196728979e23099161312BF4140",
+      "bookNFT": "0xa004d4a92B2C139aE5B6a2485458B60b484Aa3db",
+      "stakedAmount": "100000000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "374",
+      "owner": "0x3FfC07ED6a65E379E39Bef93e713ee3Ff77a56e4",
+      "bookNFT": "0x6EEf0D7C24c6b872e480154dEb8b7430f54603E3",
+      "stakedAmount": "1000000000",
+      "claimable": "571399441",
+      "owed": "563982572",
+      "owedLike": "563.982572"
+    },
+    {
+      "tokenId": "375",
+      "owner": "0x12cF06fC70CbcBfD9E8e1676029f7189053Ac981",
+      "bookNFT": "0x6EEf0D7C24c6b872e480154dEb8b7430f54603E3",
+      "stakedAmount": "6541830007",
+      "claimable": "193438204",
+      "owed": "190927340",
+      "owedLike": "190.92734"
+    },
+    {
+      "tokenId": "1082",
+      "owner": "0xB0fD5a878DBF3F9358A251caF9b6Fc692A999cA7",
+      "bookNFT": "0x6EEf0D7C24c6b872e480154dEb8b7430f54603E3",
+      "stakedAmount": "2405000000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "758",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x6EEf0D7C24c6b872e480154dEb8b7430f54603E3",
+      "stakedAmount": "3000000",
+      "claimable": "236306",
+      "owed": "233238",
+      "owedLike": "0.233238"
+    },
+    {
+      "tokenId": "963",
+      "owner": "0x662A79fBc9ae681d7cD19A7275Aa8b3187CcA622",
+      "bookNFT": "0x6EEf0D7C24c6b872e480154dEb8b7430f54603E3",
+      "stakedAmount": "10000000000",
+      "claimable": "295694330",
+      "owed": "291856162",
+      "owedLike": "291.856162"
+    },
+    {
+      "tokenId": "1178",
+      "owner": "0x625B192B5019bcA08F4C312ba4319203e5e07e94",
+      "bookNFT": "0x6EEf0D7C24c6b872e480154dEb8b7430f54603E3",
+      "stakedAmount": "10000000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1109",
+      "owner": "0xb903F6B23A14707Eb4D0FB4E31C4c4e28EDbB8e7",
+      "bookNFT": "0x6EEf0D7C24c6b872e480154dEb8b7430f54603E3",
+      "stakedAmount": "19408000000",
+      "claimable": "173543835",
+      "owed": "171291203",
+      "owedLike": "171.291203"
+    },
+    {
+      "tokenId": "1261",
+      "owner": "0x66AD8D3E0db87Ae882C1788e2cda9e31cDB4F013",
+      "bookNFT": "0x6EEf0D7C24c6b872e480154dEb8b7430f54603E3",
+      "stakedAmount": "2000000000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "805",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x0526Eb0EDF7707683f1bA4DCf8Ad35b853490762",
+      "stakedAmount": "3000000",
+      "claimable": "3613291981430258",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1506",
+      "owner": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0x0526Eb0EDF7707683f1bA4DCf8Ad35b853490762",
+      "stakedAmount": "2",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "806",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0xb73f103207aB7A1e7c0c1f3218f52dF5bb812C32",
+      "stakedAmount": "3000000",
+      "claimable": "2585435547811560",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1523",
+      "owner": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0xb73f103207aB7A1e7c0c1f3218f52dF5bb812C32",
+      "stakedAmount": "2",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1078",
+      "owner": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x3ccD28dfa50a169435002b0BC3A363a0A7E23aa0",
+      "stakedAmount": "5000000000",
+      "claimable": "53902128115776959446",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1125",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x3ccD28dfa50a169435002b0BC3A363a0A7E23aa0",
+      "stakedAmount": "3000000",
+      "claimable": "32341276869466175",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1416",
+      "owner": "0x662A79fBc9ae681d7cD19A7275Aa8b3187CcA622",
+      "bookNFT": "0x3ccD28dfa50a169435002b0BC3A363a0A7E23aa0",
+      "stakedAmount": "5000000000",
+      "claimable": "53902128115000000000",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1526",
+      "owner": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0x3ccD28dfa50a169435002b0BC3A363a0A7E23aa0",
+      "stakedAmount": "2",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "834",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x6DC830BCe79D7d6F6db60d0bFAE8389192Bbf630",
+      "stakedAmount": "3000000",
+      "claimable": "33260246002227140",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "848",
+      "owner": "0xfb0757A4A21a849ae6142341736976B3c86F00ab",
+      "bookNFT": "0x6DC830BCe79D7d6F6db60d0bFAE8389192Bbf630",
+      "stakedAmount": "1000000000",
+      "claimable": "11086748667435570320",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "877",
+      "owner": "0x874C506D93e1bc08d735730A2e20beD16CE5bDB9",
+      "bookNFT": "0x6DC830BCe79D7d6F6db60d0bFAE8389192Bbf630",
+      "stakedAmount": "100000000",
+      "claimable": "1108674866741848124",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1213",
+      "owner": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x6DC830BCe79D7d6F6db60d0bFAE8389192Bbf630",
+      "stakedAmount": "9000000000",
+      "claimable": "99780738003505103079",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1519",
+      "owner": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0x6DC830BCe79D7d6F6db60d0bFAE8389192Bbf630",
+      "stakedAmount": "2",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "866",
+      "owner": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x6f7D621827d817B80C07a644a0A75579444BE530",
+      "stakedAmount": "100000000",
+      "claimable": "244521926200600678",
+      "owed": "15775475",
+      "owedLike": "15.775475"
+    },
+    {
+      "tokenId": "899",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x6f7D621827d817B80C07a644a0A75579444BE530",
+      "stakedAmount": "3000000",
+      "claimable": "7335657775531606",
+      "owed": "473264",
+      "owedLike": "0.473264"
+    },
+    {
+      "tokenId": "1360",
+      "owner": "0xB2206f941A5206B55BFA33E665687523A8bcEd80",
+      "bookNFT": "0x6f7D621827d817B80C07a644a0A75579444BE530",
+      "stakedAmount": "1000000000",
+      "claimable": "2445219252148083469",
+      "owed": "157754757",
+      "owedLike": "157.754757"
+    },
+    {
+      "tokenId": "1505",
+      "owner": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0x6f7D621827d817B80C07a644a0A75579444BE530",
+      "stakedAmount": "2",
+      "claimable": "348006992",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "867",
+      "owner": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x955b8520D9026D6247690E0dC8c5E1b1434C4078",
+      "stakedAmount": "1000000000",
+      "claimable": "35270441277239063025",
+      "owed": "327807123",
+      "owedLike": "327.807123"
+    },
+    {
+      "tokenId": "869",
+      "owner": "0x3FfC07ED6a65E379E39Bef93e713ee3Ff77a56e4",
+      "bookNFT": "0x955b8520D9026D6247690E0dC8c5E1b1434C4078",
+      "stakedAmount": "10000000000",
+      "claimable": "352704412771981749090",
+      "owed": "3278071242",
+      "owedLike": "3278.071242"
+    },
+    {
+      "tokenId": "872",
+      "owner": "0xDc7cd28a98E780711D72CC0a7AB484B3ccF89910",
+      "bookNFT": "0x955b8520D9026D6247690E0dC8c5E1b1434C4078",
+      "stakedAmount": "10000000",
+      "claimable": "352704412771981749",
+      "owed": "3278071",
+      "owedLike": "3.278071"
+    },
+    {
+      "tokenId": "875",
+      "owner": "0x5b2Eb37B05CB28DbCE6D83Ec25071860Bc6B36CC",
+      "bookNFT": "0x955b8520D9026D6247690E0dC8c5E1b1434C4078",
+      "stakedAmount": "100000000",
+      "claimable": "3527044127719817490",
+      "owed": "32780712",
+      "owedLike": "32.780712"
+    },
+    {
+      "tokenId": "894",
+      "owner": "0x7fF3c36212F5B10846B7A2569b7b8a822a900050",
+      "bookNFT": "0x955b8520D9026D6247690E0dC8c5E1b1434C4078",
+      "stakedAmount": "1000000000",
+      "claimable": "35270441277000000000",
+      "owed": "327807123",
+      "owedLike": "327.807123"
+    },
+    {
+      "tokenId": "900",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x955b8520D9026D6247690E0dC8c5E1b1434C4078",
+      "stakedAmount": "3000000",
+      "claimable": "105811323831175897",
+      "owed": "983421",
+      "owedLike": "0.983421"
+    },
+    {
+      "tokenId": "903",
+      "owner": "0x0415C6D6204B1360511F8961dd91b02e489D6eD6",
+      "bookNFT": "0x955b8520D9026D6247690E0dC8c5E1b1434C4078",
+      "stakedAmount": "1000000000",
+      "claimable": "35270441277129764518",
+      "owed": "327807123",
+      "owedLike": "327.807123"
+    },
+    {
+      "tokenId": "907",
+      "owner": "0x8450451c0ADE41470d7D376f72fd2e8e59d6af9d",
+      "bookNFT": "0x955b8520D9026D6247690E0dC8c5E1b1434C4078",
+      "stakedAmount": "100000000",
+      "claimable": "3527044127708957962",
+      "owed": "32780712",
+      "owedLike": "32.780712"
+    },
+    {
+      "tokenId": "931",
+      "owner": "0x3d3e5223330a00C76027852E5272f208e0e17031",
+      "bookNFT": "0x955b8520D9026D6247690E0dC8c5E1b1434C4078",
+      "stakedAmount": "100000000",
+      "claimable": "3527044127708957962",
+      "owed": "32780712",
+      "owedLike": "32.780712"
+    },
+    {
+      "tokenId": "950",
+      "owner": "0x1BB6c8Cb55a4AbD964e53614d60eBA9E2aB3059D",
+      "bookNFT": "0x955b8520D9026D6247690E0dC8c5E1b1434C4078",
+      "stakedAmount": "100000000",
+      "claimable": "3527044127708957962",
+      "owed": "32780712",
+      "owedLike": "32.780712"
+    },
+    {
+      "tokenId": "957",
+      "owner": "0x662A79fBc9ae681d7cD19A7275Aa8b3187CcA622",
+      "bookNFT": "0x955b8520D9026D6247690E0dC8c5E1b1434C4078",
+      "stakedAmount": "10000000000",
+      "claimable": "352704412770393824960",
+      "owed": "3278071236",
+      "owedLike": "3278.071236"
+    },
+    {
+      "tokenId": "972",
+      "owner": "0xDbC1278E2275f6Ab82d8B4a032bFc0e2A127f6B6",
+      "bookNFT": "0x955b8520D9026D6247690E0dC8c5E1b1434C4078",
+      "stakedAmount": "1000000000",
+      "claimable": "35270441277058632602",
+      "owed": "327807123",
+      "owedLike": "327.807123"
+    },
+    {
+      "tokenId": "1223",
+      "owner": "0x9ec2660D482F5aE9CdC6835Af0A4f604701A93e5",
+      "bookNFT": "0x955b8520D9026D6247690E0dC8c5E1b1434C4078",
+      "stakedAmount": "2050000",
+      "claimable": "72304404617930734",
+      "owed": "672004",
+      "owedLike": "0.672004"
+    },
+    {
+      "tokenId": "1518",
+      "owner": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0x955b8520D9026D6247690E0dC8c5E1b1434C4078",
+      "stakedAmount": "2",
+      "claimable": "16006854628",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "981",
+      "owner": "0xFF3cbb33c42049ba23C313f05F2907285Ef9086f",
+      "bookNFT": "0x78b29A83c1Ef7a7ef0faA0eC11Cb3809E5B78402",
+      "stakedAmount": "10000000",
+      "claimable": "7698468369846759",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1527",
+      "owner": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0x78b29A83c1Ef7a7ef0faA0eC11Cb3809E5B78402",
+      "stakedAmount": "2",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "986",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0xF9e993C8a9fBc63a910DCd1B02b3359cCC373919",
+      "stakedAmount": "3000000",
+      "claimable": "2198772522923929",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1528",
+      "owner": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0xF9e993C8a9fBc63a910DCd1B02b3359cCC373919",
+      "stakedAmount": "2",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1110",
+      "owner": "0x662A79fBc9ae681d7cD19A7275Aa8b3187CcA622",
+      "bookNFT": "0x17A8B5B45Df12bE61EE5c057C463634C7B64b00c",
+      "stakedAmount": "52960173386",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1130",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x17A8B5B45Df12bE61EE5c057C463634C7B64b00c",
+      "stakedAmount": "3000000",
+      "claimable": "1440260",
+      "owed": "1440261",
+      "owedLike": "1.440261"
+    },
+    {
+      "tokenId": "1119",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0xB790e3B54f17eBC1534F5096438b227AEc613C4e",
+      "stakedAmount": "3000000",
+      "claimable": "6416217437738432",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1502",
+      "owner": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0xB790e3B54f17eBC1534F5096438b227AEc613C4e",
+      "stakedAmount": "2",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1340",
+      "owner": "0xC3667DcAD0d71301E913b6cb8741538B7CFe251c",
+      "bookNFT": "0xA20Cc05e12F456b2b97aE2fDAbE0952598831f1C",
+      "stakedAmount": "80000000000",
+      "claimable": "1969575813",
+      "owed": "1967664675",
+      "owedLike": "1967.664675"
+    },
+    {
+      "tokenId": "1188",
+      "owner": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0xA20Cc05e12F456b2b97aE2fDAbE0952598831f1C",
+      "stakedAmount": "5025598369",
+      "claimable": "500503612",
+      "owed": "500017958",
+      "owedLike": "500.017958"
+    },
+    {
+      "tokenId": "1253",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0xA20Cc05e12F456b2b97aE2fDAbE0952598831f1C",
+      "stakedAmount": "3000000",
+      "claimable": "249034",
+      "owed": "248792",
+      "owedLike": "0.248792"
+    },
+    {
+      "tokenId": "1439",
+      "owner": "0x662A79fBc9ae681d7cD19A7275Aa8b3187CcA622",
+      "bookNFT": "0xA20Cc05e12F456b2b97aE2fDAbE0952598831f1C",
+      "stakedAmount": "50000000000",
+      "claimable": "156980652",
+      "owed": "156828328",
+      "owedLike": "156.828328"
+    },
+    {
+      "tokenId": "1191",
+      "owner": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x34091a775D8aC20C402f352BAEBa2CD7E268856d",
+      "stakedAmount": "100000000",
+      "claimable": "208900381994720364",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1236",
+      "owner": "0xD10bCB42C7b5381CBB278aFC02CE0ddAc76CCd4b",
+      "bookNFT": "0x34091a775D8aC20C402f352BAEBa2CD7E268856d",
+      "stakedAmount": "3000000",
+      "claimable": "6267011453067647",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1269",
+      "owner": "0x66AD8D3E0db87Ae882C1788e2cda9e31cDB4F013",
+      "bookNFT": "0x34091a775D8aC20C402f352BAEBa2CD7E268856d",
+      "stakedAmount": "1000000000",
+      "claimable": "2089003817689215804",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1514",
+      "owner": "0x78eDDc163275E9e254557313CaD83D88e680c99f",
+      "bookNFT": "0x34091a775D8aC20C402f352BAEBa2CD7E268856d",
+      "stakedAmount": "2",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1470",
+      "owner": "0x02e74F3b930f8443DE58e9D3Bd57fc6b1612e627",
+      "bookNFT": "0x4D69ecb8Da3B16D5828eC0DCd17B1310Cb96D3A0",
+      "stakedAmount": "200000000",
+      "claimable": "496390",
+      "owed": "487214",
+      "owedLike": "0.487214"
+    },
+    {
+      "tokenId": "1433",
+      "owner": "0x662A79fBc9ae681d7cD19A7275Aa8b3187CcA622",
+      "bookNFT": "0x4D69ecb8Da3B16D5828eC0DCd17B1310Cb96D3A0",
+      "stakedAmount": "100186337084",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1441",
+      "owner": "0xea13e2a6c52CE61c506247267D15d3bbA7CABA53",
+      "bookNFT": "0x4D69ecb8Da3B16D5828eC0DCd17B1310Cb96D3A0",
+      "stakedAmount": "10000000000",
+      "claimable": "61437882",
+      "owed": "60302244",
+      "owedLike": "60.302244"
+    },
+    {
+      "tokenId": "1539",
+      "owner": "0x874C506D93e1bc08d735730A2e20beD16CE5bDB9",
+      "bookNFT": "0x4D69ecb8Da3B16D5828eC0DCd17B1310Cb96D3A0",
+      "stakedAmount": "100000000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    },
+    {
+      "tokenId": "1363",
+      "owner": "0x662A79fBc9ae681d7cD19A7275Aa8b3187CcA622",
+      "bookNFT": "0xf54e4B28493b4Ec8f2Cf97E0f8209f71FBaC1254",
+      "stakedAmount": "50105723062",
+      "claimable": "0",
+      "owed": "1",
+      "owedLike": "0.000001"
+    },
+    {
+      "tokenId": "1367",
+      "owner": "0x7fF3c36212F5B10846B7A2569b7b8a822a900050",
+      "bookNFT": "0xf54e4B28493b4Ec8f2Cf97E0f8209f71FBaC1254",
+      "stakedAmount": "1000000000",
+      "claimable": "0",
+      "owed": "0",
+      "owedLike": "0.0"
+    }
+  ]
+}
